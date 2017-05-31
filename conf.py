@@ -3,8 +3,8 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Linee guida di design per i servizi web della PA'
-settings_copyright_year = '2017'
-settings_copyright_name = 'AgID - Agenzia per l\'Italia Digitale'
+settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
+settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
 settings_doc_release = '1.0beta'
 settings_basename = 'LineeGuidaWebPA'
@@ -40,7 +40,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = settings_project_name
-copyright = settings_copyright_year + ', ' + settings_copyright_name
+copyright = settings_copyright_copyleft
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -180,7 +180,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', settings_file_name + '.tex', settings_project_name,
-   settings_copyright_year + ', ' + settings_copyright_name, 'manual'),
+   settings_copyright_copyleft, 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -210,7 +210,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', settings_file_name, settings_project_name,
-     [settings_copyright_name], 1)
+     [settings_editor_name], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -224,6 +224,6 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', settings_file_name, settings_project_name,
-   settings_copyright_year + ', ' + settings_copyright_name, settings_project_name, settings_project_name,
+   settings_copyright_copyleft, settings_project_name, settings_project_name,
    'Miscellaneous'),
 ]
