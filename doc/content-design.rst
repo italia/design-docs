@@ -1,0 +1,767 @@
+Content design
+==============
+
+La sezione content design della guida affronta i temi legati agli
+ambienti informativi in cui si muove l’utente che fruisce servizi
+digitali. In particolare si occupa della search engine optimization, del
+linguaggio e della gestione dei contenuti e infine della loro
+organizzazione (architettura dell’informazione).
+
+Architettura dell'informazione
+------------------------------
+
+L’architettura dell’informazione consiste nell’organizzazione semantica
+e logica di ambienti informativi, sia fisici sia digitali, e favorisce
+la trovabilità e la fruibilità dei servizi pubblici digitali.
+L’architettura dell’informazione deve essere progettata intorno ai reali
+bisogni delle persone, da cui deriva il nome "user-centered design".
+
+Nel corso dei prossimi mesi pubblicheremo, secondo roadmamp, alcuni
+approfondimenti relativi a tutti i principali temi legati
+all’architettura dell’informazione e in particolare: la prototipazione,
+attraverso il wireframing e l’interactive wireframing; le strutture di
+navigazione; le logiche di classificazione dei contenuti e le relazioni
+tra contenuti; la progettazione di interazioni specifiche come la home
+page di un sito web e la pagina di ricerca
+
+L’ambito
+~~~~~~~~
+
+Per progettare l’architettura dell’informazione di un ambiente
+informativo è necessario analizzare:
+
+-  gli utenti
+-  i contenuti
+-  il contesto
+
+Il processo di progettazione dell’architettura dell’informazione di un
+sito web parte dall'analisi degli utenti, del contenuto del sito e del
+contesto nel quale si opera. Questo processo porta all’individuazione
+dei contenuti imprescindibili del progetto web.
+
+.. figure:: images/diagramma_ai.png
+   :alt: Architettura dell'informazione
+   :align: center
+
+   Architettura dell'informazione
+
+Progettare l’architettura dell’informazione significa soddisfare i
+bisogni degli utenti, creando contenuti utili e rilevanti che possano
+adattarsi al contesto di fruizione. Grazie alla ricerca sugli utenti e
+all’analisi del contesto, è possibile definire le funzioni principali
+del sito e di ogni sua pagina. I contenuti diventano quindi parte
+integrante del servizio all’utente.
+
+Gli utenti
+~~~~~~~~~~
+
+L'analisi delle esigenze informative e dei comportamenti di navigazione
+degli utenti contribuisce alla progettazione di un’efficace architettura
+dell’informazione. Per analizzare il tipo di pubblico del sito web è
+necessario definire:
+
+-  i target principali a cui si rivolge l'informazione o il servizio
+-  i bisogni, ovvero le necessità informative e operative degli utenti
+-  le principali attività che gli utenti intendono effettuare
+-  i bisogni, ovvero le necessità informative e operative degli utenti
+
+È bene prendere decisioni sulla base dell’analisi dei dati riferiti
+all’utente in particolare i dati statistici di navigazione sul sito per
+comprendere il comportamento dell’utente la realizzazione di interviste
+e altri metodi di analisi qualitativa l’esperienza e la competenza
+generale di navigazione dell'utente target.
+
+Il contenuto
+~~~~~~~~~~~~
+
+Per contenuto si intendono le informazioni veicolate da documenti,
+applicazioni, servizi e metadati che si trovano all’interno del sito web
+o che verranno creati in futuro. Per analizzare il contenuto disponibile
+e per progettare i contenuti da sviluppare è necessario definire:
+
+-  i documenti/dati disponibili
+-  le tipologie dei documenti/dati
+-  l’oggetto dei contenuti disponibili
+-  l’aggiornamento dei documenti disponibili
+-  la quantità dei contenuti disponibili
+-  le strutture esistenti
+-  l’ownership dei contenuti
+-  i metadati
+-  i formati
+-  il tasso di crescita previsto
+
+Spesso l’esito di questa analisi determina quella che viene definita una
+gap analysis, che evidenzia i contenuti presenti attualmente sul sito e
+quelli che dovranno essere prodotti / modificati / eliminati nella nuova
+versione del sito.
+
+Il contesto
+~~~~~~~~~~~
+
+Nella progettazione di un sito web, l’architettura dell’informazione
+deve necessariamente adattarsi al contesto di riferimento, per essere
+coerente con gli obiettivi, la strategia e la “cultura”
+dell’organizzazione. Per analizzare il contesto è necessario quindi
+considerare e definire:
+
+-  Gli obiettivi strategici dell’Amministrazione
+-  Le risorse economiche disponibili
+-  Le direttive/norme vigenti che vincolano il progetto
+-  la “cultura” dell’amministrazione, intesa anche come la propensione
+   al cambiamento
+-  l’ambito tecnologico
+-  le risorse umane coinvolte nel progetto, e le loro competenze
+   tecniche
+-  i limiti operativi, relativi ad esempio alla logistica, alla
+   sicurezza
+
+SEO
+---
+
+Premessa
+~~~~~~~~
+
+Questa guida ha lo scopo di aiutare chi si occupa del sito web di una
+pubblica amministrazione a capire come ottimizzare i contenuti
+pubblicati e la struttura del sito nel suo complesso in ottica SEO, con
+l’obiettivo finale di rendere informazioni e servizi più idonei a
+soddisfare i bisogni degli utenti e più visibili sui motori di ricerca.
+
+Introduzione
+~~~~~~~~~~~~
+
+Con il termine search engine optimization (SEO) - o ottimizzazione per i
+motori di ricerca - si intende un insieme di tecniche iterative
+applicabili al contenuto delle pagine web e alla struttura dei siti che
+hanno lo scopo di migliorare il posizionamento di un contenuto web nel
+ranking dei risultati dei motori di ricerca.
+
+I fattori di ottimizzazione vengono generalmente suddivisi in 2
+categorie:
+
+-  fattori on-page, cioè eseguibili all’interno del sito
+-  fattori off-page, cioè eseguibili al di fuori del sito
+
+I fattori on-page
+~~~~~~~~~~~~~~~~~
+
+Titolo del contenuto
+^^^^^^^^^^^^^^^^^^^^
+
+Un titolo dovrebbe descrivere in modo semplice quanto esposto nella
+pagina, utilizzando di preferenza la terminologia più simile a quella
+che userebbero gli stessi utenti per descriverne il contenuto.
+
+È consigliabile creare titoli univoci, il più possibile pertinenti
+rispetto al contenuto della pagina:
+un titolo dovrebbe essere composto da poche parole o una frase,
+evitando di superare i 60/70 caratteri (spazi inclusi).
+
+**Markup**: Il metatag title deve essere posizionato all’interno del tag
+head nel codice HTML della pagina. Appare come prima linea testuale del
+risultato dei motori di ricerca:
+
+-  aiuta gli utenti a comprendere con immediatezza se il risultato in
+   questione sia pertinente al bisogno espresso durante la ricerca web;
+-  e’ uno fra i principali elementi che i crawler dei motori analizzano
+   per indicizzare un contenuto e assegnargli un rank nei risultati di
+   ricerca.
+
+Tag di heading: h1
+
+Description del contenuto
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+È consigliabile la redazione di description univoche per ogni
+contenuto, che sintetizzino gli elementi salienti della pagina.
+
+**Markup**: Il metatag **description** deve essere posizionato
+all’interno del tag **head** nel codice HTML della pagina. Appare come
+terza linea testuale (dopo la URL della pagina) del risultato dei motori
+di ricerca:
+
+-  come il titolo aiuta gli utenti a comprendere con immediatezza se il
+   risultato in questione sia pertinente al bisogno espresso durante la
+   ricerca;
+-  la description può essere di qualsiasi lunghezza, ma generalmente i
+   motori di ricerca troncano testi più lunghi di 160 caratteri (spazi
+   inclusi).
+   
+Le parole chiave
+^^^^^^^^^^^^^^^^
+
+La scelta delle parole chiave più
+strategiche e salienti rispetto ai contenuti di un sito è uno fra i
+fattori che concorrono al buon posizionamento di un sito web fra i
+risultati dei motori di ricerca.
+
+Il lavoro di identificazione delle keyword più idonee a rappresentare i
+contenuti di un servizio digitale è un lavoro iterativo che deve tenere
+conto di:
+
+-  quali sono le parole che meglio potrebbero descrivere le informazioni
+   presenti nel sito
+-  quali sono i loro volumi di ricerca
+-  in che maniera i concetti espressi nel sito potrebbero potenzialmente
+   essere cercati dagli utenti sui motori di ricerca
+
+Di seguito alcuni metodi per iniziare ad identificare un set di keywords
+salienti:
+
+.. figure:: images/SEO-google-suggest.png
+   :alt: google suggest
+   
+   Google suggest
+
+.. figure:: images/SEO-google-ricerche-correlate.png
+   :alt: google suggest
+
+   Google ricerche correlate
+
+-  `Google Trends <https://trends.google.it/trends/>`__
+
+-  `Ubersuggest <https://ubersuggest.io/>`__
+
+-  `Adwords
+   keywordplanner <https://adwords.google.com/home/tools/keyword-planner/>`__
+
+Originalità del contenuto
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+È sempre consigliabile redigere contenuti originali, possibilmente
+centrati sui bisogni dell’utente, con un linguaggio il più possibile
+chiaro.
+
+Aggiornamento del contenuto
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+È necessario procedere regolarmente ad un aggiornamento dei contenuti pubblicati per evitare di
+fornire agli utenti informazioni obsolete. Gli algoritmi dei motori di
+ricerca considerano inoltre la data di aggiornamento di un contenuto web
+come fattore di rilevanza nel ranking dei risultati di ricerca.
+
+Paragrafazione e paginazione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Per una maggiore leggibilità dei testi è
+consigliabile paragrafare i contenuti di una pagina, soprattutto se di
+lunghezza importante. È utile inoltre titolare gli eventuali
+sottoparagrafi secondo i medesimi principi applicabili al titolo
+principale della pagina.
+
+Tag di heading: da h2 ad h6
+
+Nel caso ci sia la necessità di suddividere il contenuto in più pagine,
+è consigliabile:
+
+-  specificare quale sia la pagina principale di visualizzazione
+   (visualizza tutto) attraverso l’attributo
+   `rel="canonical" <#duplicazione-dei-contenuti>`__
+-  utilizzare gli attributi HTML rel="next" e rel="prev", per
+   specificare la relazione di consequenzialità fra URL
+
+Ulteriori informazioni sulla paginazione →
+`<https://support.google.com/webmasters/answer/1663744?hl=it&ref_topic=4617741>`__
+
+Grassetto
+^^^^^^^^^
+
+Può essere utile impiegare lo stile grassetto per evidenziare - senza
+esagerare - i termini salienti di un contenuto.
+
+Immagini
+^^^^^^^^
+
+È necessario nominare i file immagine in maniera pertinente al contenuto
+della pagina ove sono collocati.
+
+**Markup**: Utilizzare il **tag** alt per fornire una descrizione
+testuale dell’immagine. Questo attributo è utile nel caso in cui questa
+non possa essere visualizzata nel browser per motivi legati ad esempio
+al mancato supporto di alcune tipologie di file da parte del browser o
+all’\ `utilizzo di tecnologie
+assistive <service-design.html#accessibilita>`__.
+
+È possibile generare ed utilizzare una `sitemap XML ad hoc per le
+immagini <#mappa-del-sito>`__ per fornire ai crawler maggiori
+informazioni rispetto all’organizzazione dei file immagini presenti nel
+sito.
+
+Anchor Text dei link
+^^^^^^^^^^^^^^^^^^^^
+
+Per “anchor text” si intende la porzione
+di testo di un contenuto che funge da “ancora” verso un collegamento
+ipertestuale, sia esso rivolto all’interno (link interno) o all’esterno
+del sito (link outbound).
+
+È consigliabile scegliere porzioni di testo brevi, chiare e pertinenti
+rispetto alla pagina di destinazione del link:
+
+-  il testo cliccabile - così come lo stile grassetto - fornisce tanto
+   agli utenti quanto ai crawler dei motori di ricerca informazioni
+   aggiuntive rispetto al contenuto della pagina linkata;
+-  è bene evitare di linkare espressioni povere di significato come
+   “clicca qui” e simili.
+
+Struttura logica dei contenuti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Una struttura dei contenuti semplice e “leggera” è necessaria per
+garantire una migliore esperienza utente sul sito e per agevolare il
+lavoro di scansione dei crawler dei motori di ricerca.
+
+È consigliabile mantenere la struttura dei contenuti del sito
+gerarchica - dal generale al particolare - semplificandone il più
+possibile la struttura logica e utilizzando non più di tre livelli di
+profondità.
+
+URL delle pagine
+^^^^^^^^^^^^^^^^
+
+La URL di una pagina web appare come
+seconda linea testuale del risultato di ricerca (fra title e
+description). È buona regola semplificarne il più possibile la
+struttura:
+
+-  impostare le URL in modo che contengano parole salienti e pertinenti
+   rispetto ai contenuti della pagina che ospitano
+-  utilizzare i trattini (-) invece che gli underscore (\_) per la
+   punteggiatura
+-  cercare di ridurre il più possibile la lunghezza delle URL
+-  valutare l’utilizzo del `file robots.txt <#file-robotstxt>`__ per
+   bloccare la scansione da parte dei crawler dei motori di ricerca
+   delle URL con parametri dinamici (referral, ordinamenti, calendari…)
+
+Ulteriori informazioni sulla struttura delle URL →
+`<https://support.google.com/webmasters/answer/76329?hl=it&ref_topic=4617741>`__
+
+Duplicazione dei contenuti
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+È importante evitare la presenza di contenuti duplicati nel sito. Dal
+punto di vista SEO si intendono “contenuti duplicati” contenuti molto
+simili - o identici - nell’ambito dello stesso sito ma associati a URL
+differenti.
+
+In alcuni casi la duplicazione di un contenuto è generata da situazioni
+particolari quali ad esempio:
+
+-  la presenza di una pagina in versione web e versione per la stampa
+-  la presenza di una tabella dinamica che genera viste dello stesso
+   contenuto ma URL dinamiche diverse
+
+In questi e altri casi è possibile inviare a Google l’informazione di
+quale sia la pagina “master”, o “canonica” da prendere in considerazione
+per l’indicizzazione. Questa tecnica è detta canonicalizzazione: per
+implementarla è necessario inserire un elemento link che contenga
+l’attributo rel=”canonical” (seguito dal link cui si vuole applicare la
+canonicalizzazione), nel tag **head** della pagina.
+
+Approfondimenti sui contenuti duplicati →
+`<https://support.google.com/webmasters/answer/66359?hl=it>`__
+
+Approfondimenti sulla canonicalizzazione →
+`<https://support.google.com/webmasters/answer/139066>`__
+
+Mappa del sito
+^^^^^^^^^^^^^^
+
+Oltre ad una mappa del sito in HTML destinata agli
+utenti, è consigliabile creare un file sitemap XML destinato ai motori
+di ricerca.
+
+Informazioni sulle sitemap →
+`<https://support.google.com/webmasters/answer/156184?hl=it&ref_topic=4581190>`__
+
+Una sitemap è un file che ha lo scopo di elencare le pagine web di un
+sito per comunicare a Google e altri motori di ricerca l'organizzazione
+dei contenuti. I crawler dei motori leggono questo file per eseguire una
+scansione più efficiente del sito. Una sitemap ha quindi l’obiettivo
+ultimo di migliorare la scansione di un sito da parte dei motori di
+ricerca.
+
+All’interno di un file sitemap è possibile non soltanto elencare le URL
+di un sito web ma anche alcuni metadati più specifici rispetto
+all’organizzazione dei singoli nodi, ad esempio:
+
+-  informazioni sull’aggiornamento della pagina
+-  importanza della pagina rispetto ad altre URL dello stesso sito
+-  informazioni relative a video e immagini
+-  informazioni relative all’organizzazione dei documenti
+
+Come generare e inviare una sitemap a Google →
+`<https://support.google.com/webmasters/answer/183668?hl=it&ref_topic=4581190>`__
+
+È possibile inviare una sitemap a Google anche tramite il tool `Search
+Console <#webmaster-tools-search-console-di-google>`__ È possibile
+inoltre generare sitemap XML per:
+
+-  le pagine in lingue alternative → `<https://support.google.com/webmasters/answer/2620865?hl=it&ref_topic=6080646>`__
+-  i video → `<https://support.google.com/webmasters/answer/80471?hl=it&ref_topic=6080646>`__
+-  le immagini → `<https://support.google.com/webmasters/answer/178636?hl=it&ref_topic=6080646>`__
+
+File robots.txt
+^^^^^^^^^^^^^^^
+
+Per ottimizzare i processi di scansione dei crawler dei motori di
+ricerca è possibile utilizzare il file robots.txt. Un file robots.txt è
+un file di testo memorizzato nella directory principale del sito che ha
+la finalità di indicare ai crawler dei motori di ricerca quali parti del
+sito non sono accessibili e quindi controllare il traffico di scansione.
+
+Non si deve utilizzare il file robots.txt per nascondere le pagine web
+dai risultati di ricerca.
+
+Informazioni sui file robots.txt →
+`<https://support.google.com/webmasters/answer/6062608?hl=it>`__
+
+Come impedire la visualizzazione di una pagina del sito sui motori di
+ricerca → `<https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag>`__
+
+Tempi di caricamento delle pagine
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+La rapidità di caricamento di una pagina web è presa in considerazione
+dai crawler dei motori di ricerca come elemento che concorre ad un
+migliore posizionamento del contenuto nel ranking dei risultati di
+ricerca.
+
+È consigliabile effettuare controlli periodici sulle velocità di
+caricamento delle pagine e i tempi di risposta del server, soprattutto
+da dispositivi mobili.
+
+Risorse per lo sviluppo di pagine ottimizzate per i dispositivi
+mobili → `<https://support.google.com/webmasters/answer/72462?hl=it&ref_topic=2370586>`__
+
+**Approfondimento** → Le pagine AMP (Accelerated Mobile Pages) per i
+contenuti di tipo “news”
+
+Per determinate tipologie di contenuto - in particolare le news - è
+possibile implementare il formato AMP (Accelerated Mobile Pages) di
+Google. Il formato AMP è stato lanciato nel 2015 per migliorare le
+prestazioni del mobile web, riducendo la velocità di caricamento delle
+pagine.
+
+Linee guida di Google Search per le pagine AMP →
+`<https://support.google.com/webmasters/answer/6340290?hl=it>`__
+
+Il progetto AMP → `<https://www.ampproject.org/it/>`__
+
+Guida all'implementazione di pagine AMP →
+`<https://developers.google.com/search/docs/guides/use-AMP-HTML>`__
+
+Dati strutturati
+^^^^^^^^^^^^^^^^
+
+Il markup con dati strutturati è una tecnica che consente di
+personalizzare l’aspetto di un sito nella ricerca di Google o di altri
+motori di ricerca. Includendo dei dati strutturati all’interno dei
+contenuti è possibile inserire informazioni aggiuntive e/o strumenti di
+interazione con il sito nell’aspetto standard dei risultati di ricerca,
+ad esempio:
+
+-  contatti e indirizzo dell’amministrazione
+-  rating delle pagine
+-  box di search in stile sitelink
+-  breadcrumbs
+
+.. figure:: images/SEO-dati-strutturati.png
+   :alt: dati strutturati
+
+   Dati strutturati
+
+Il markup con dati strutturati si basa sul vocabolario
+http://schema.org/
+
+Guida di Google all’implementazione dei dati strutturati → 
+`<https://developers.google.com/search/docs/guides/intro-structured-data>`__
+
+Strumento per testare la corretta implementazione dei dati strutturati → 
+`<https://search.google.com/structured-data/testing-tool?hl=it>`__
+
+Migrazione SEO di un sito
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Quando si pianifica la migrazione di un sito è necessario fare in modo
+di non perdere la rilevanza acquisita sui motori di ricerca e di
+indirizzare gli utenti verso le nuove pagine nella maniera meno
+problematica possibile.
+
+Si consiglia quindi di:
+
+-  realizzare una mappatura di tutte le URL del sito, che includa anche
+   il linking interno
+-  associare alle vecchie URL le nuove URL, per poter in seguito
+   preparare i redirect
+-  per le URL alle quali non verrà associata alcuna nuova URL, preparare
+   una pagina 404 personalizzata, che aiuti l’utente a proseguire la
+   navigazione nel nuovo sito
+-  configurare il server impostando dei redirect di tipo 301
+-  modificare la sitemap XML del sito
+-  laddove possibile, aggiornare i backlinks ricevuti dal sito
+-  comunicare ai crawler di Google un eventuale cambiamento del dominio
+   tramite la Search Console
+
+Ulteriori informazioni sui redirect 301 →
+`<https://support.google.com/webmasters/answer/93633>`__
+
+I fattori off-page
+~~~~~~~~~~~~~~~~~~
+
+Link building
+^^^^^^^^^^^^^
+
+In ottica di ottimizzazione SEO di un sito, è necessario curare e
+monitorare iterativamente il processo di costruzione della rete di link
+che il sito riceve dall’esterno (inbound links).
+
+I motori di ricerca valutano la natura, la provenienza e la qualità di
+tali link più che la loro quantità, considerandoli un elemento di
+autorevolezza del sito soprattutto se questi provengono da siti
+altrettanto autorevoli e se il loro processo di acquisizione è
+considerato spontaneo.
+
+I motori di ricerca penalizzano infatti le pratiche volte ad
+incrementare massivamente il numero di link in ingresso (acquisti,
+scambi di link forzosi…)
+
+Per capire quali sono i link inbounds di un sito web è possibile:
+
+-  utilizzare la `Search Console di
+   Google <#webmaster-tools-search-console-di-google>`__
+-  utilizzare tools ad hoc come `Open Site
+   Explorer <https://moz.com/researchtools/ose/>`__ o `Ahrefs Site
+   Explorer <https://ahrefs.com/site-explorer>`__
+-  utilizzare l’operatore *link:sitoweb.it* nella `ricerca
+   Google <https://support.google.com/webmasters/answer/35256?hl=it>`__
+
+Webmaster tools: Search Console di Google
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Search Console è una risorsa online offerta gratuitamente da Google che
+consente di monitorare, gestire e ottimizzare la presenza di un sito o
+di un’applicazione mobile nei risultati di ricerca.
+
+Search Console consente ad esempio di ottenere indicazioni sull’aspetto
+di un sito web nei risultati di ricerca Google o informazioni rispetto
+al traffico di ricerca; permette di verificare lo stato di
+indicizzazione delle pagine così come di monitorare e correggere
+problemi di varia natura legati al sito.
+
+Con Search Console è possibile:
+
+-  verificare lo stato di indicizzazione dei contenuti del sito
+-  verificare lo stato della scansione dei crawler di Google sulle
+   pagine del sito ed eventuali errori
+-  testare i file robots.txt
+-  testare la sitemap del sito, se presente
+-  gestire i parametri URL durante la scansione dei crawler
+-  rimuovere temporaneamente gli URL di un sito dai risultati di ricerca
+-  informare Google rispetto al cambiamento di dominio di un sito
+-  informare Google di un eventuale passaggio del sito da protocollo
+   http a https
+-  sapere per quali query è stato visualizzato il sito nei risultati di
+   ricerca Google
+-  conoscere i backlinks del sito e relativi anchor
+-  monitorare i link interni
+-  monitorare il corretto funzionamento del tag hreflang nel caso di
+   siti multilingua
+-  monitorare e correggere i problemi di usabilità del sito su
+   dispositivi mobili
+-  verificare la corretta implementazione di eventuali dati strutturati
+   e schede informative `(rich
+   cards) <https://support.google.com/webmasters/answer/6381755>`__
+-  rilevare criticità nell’HTML per favorire e migliorare l’esperienza
+   utente sul sito
+-  rilevare e correggere eventuali criticità correlate alle pagine AMP
+   (accelerated mobile pages)
+-  monitorare e risolvere i problemi di malware o spam per tenere pulito
+   il tuo sito
+
+Approfondimenti
+^^^^^^^^^^^^^^^
+
+Come configurare un sito web in Search Console →
+`<https://support.google.com/webmasters/answer/34592?hl=it&ref_topic=3309469>`__
+
+Centro assistenza Search Console →
+`<https://support.google.com/webmasters#topic=3309469>`__
+
+Come collegare Search Console a Google Analytics →
+`<https://support.google.com/analytics/answer/1308621?hl=it>`__
+
+Utile da sapere
+^^^^^^^^^^^^^^^
+
+*Una app Android deve essere pubblicata in Google Play per poter essere
+aggiunta a Search Console.*
+
+Come configurare una app in Search Console →
+`<https://support.google.com/webmasters/answer/6178088>`__
+
+Linguaggio
+----------
+
+Gestione dei contenuti
+~~~~~~~~~~~~~~~~~~~~~~
+
+I contenuti di un sito web devono consentire all'utente di trovare
+velocemente l'informazione di cui ha bisogno, nel formato di fruizione
+più idoneo, anche mediante un dispositivo mobile.
+
+.. admonition:: SI DEVE
+
+   Progettare i contenuti affinché rispondano innanzitutto alle necessità
+   degli utenti, non solo a quelle dell'amministrazione.
+
+Nella pianificazione e progettazione di un contenuto web, considera che
+le persone spesso utilizzano il *mobile* anche quando hanno la
+possibilità di navigare tramite il desktop. Nella gestione dei contenuti
+verifica quindi se sia possibile: - ridurre la quantità complessiva del
+testo previsto per la pubblicazione online - utilizzare una tipologia di
+formato del contenuto che sia più fruibile in relazioni agli obiettivi
+informativi, ad es. evitare i pdf - rimuovere il contenuto superfluo
+presente sul sito
+
+Creazione dei contenuti
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Ogni singolo paragrafo, ogni singola parola devono venire incontro alle
+necessità informative degli utenti e consentire loro di trovare con
+immediatezza ciò che cercano. Dovresti quindi almeno: - utilizzare
+titoli e sottotitoli nelle pagine - scrivere frasi brevi - suddividere
+il contenuto per paragrafi - monitorare costantemente l’aggiornamento
+dei contenuti
+
+.. admonition:: SI DOVREBBE
+
+   Strutturare il contenuto in modo che le informazioni più importanti
+   compaiano nella prima parte del corpo del testo.
+   Ogni paragrafo dovrebbe veicolare un solo concetto per volta. 
+
+Linguaggio
+~~~~~~~~~~
+
+È necessario usare un linguaggio chiaro e sintetico, finalizzato a
+indirizzare l'utente verso l'informazione o il servizio di cui ha
+bisogno.
+
+.. admonition:: SI DOVREBBE
+
+   Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico
+   o l’uso di termini e frasi di difficile comprensione.
+
+Utilizzare quindi: - preferibilmente la forma attiva dei verbi - un
+vocabolario semplice e chiaro, privilegiando termini e frasi che gli
+utenti potrebbero usare nella ricerca online - fornire una spiegazione
+dei termini tecnici presenti - esplicitare gli acronimi e le
+abbreviazioni, inserendo l'acronimo tra parentesi tonde dopo il termine
+indicato per esteso
+
+Corretta ortografia
+~~~~~~~~~~~~~~~~~~~
+
+Usa particolare attenzione alla corretta ortografia della lingua
+italiana, soprattutto per quanto riguarda l’uso degli accenti e degli
+apostrofi.
+
+Titoli
+~~~~~~
+
+Il titolo deve anticipare sinteticamente all'utente il contenuto della
+pagina.
+
+.. admonition:: SI DOVREBBE
+
+   Per essere ben visibili nei risultati dei motori di ricerca, la lunghezza
+   dei titoli delle pagine dovrebbe essere compresa fra i 50 e i 65 caratteri,
+   spazi compresi.
+
+Per creare titoli che attirino l’attenzione del lettore: - scrivere
+titoli unici all'interno del sito, e non ambigui - utilizzare le parole
+più rappresentative del contenuto a cui il titolo fa riferimento - non
+scrivere il titolo in maiuscolo, poiché rende la lettura più faticosa -
+non utilizzare punti alla fine del titolo - mettere graficamente in
+risalto i titoli rispetto al testo circostante - non inserire slash / o
+trattini - non utilizzare acronimi, a meno che non siano ben noti (es.
+UE)
+
+Sommario
+~~~~~~~~
+
+.. admonition:: SI DOVREBBE
+
+   Il sommario delle notizie in home page dovrebbe essere un periodo
+   di senso compiuto, senza puntini di sospensione alla fine.
+
+Il sommario serve a sintetizzare al lettore l’oggetto dell’articolo,
+prima della selezione della pagina di dettaglio. Dovrebbe quindi avere
+una lunghezza massima di 140 caratteri, spazi inclusi, e possedere le
+seguenti caratteristiche:
+
+-  essere una sintesi dei punti centrali del contenuto
+-  essere diverso dal titolo e dalle prime righe del contenuto della
+   pagina interna
+-  contenere le parole chiave più rappresentative del contenuto
+-  terminare con un punto
+
+Testo della pagina
+~~~~~~~~~~~~~~~~~~
+
+Specialmente nel caso delle notizie, il testo deve rispondere
+sinteticamente alle cinque domande: chi, dove, quando, perché, come.
+
+-  Il testo di un contenuto deve essere il più coerente possibile con
+   titolo e il sommario
+-  Ogni paragrafo deve contenere al massimo 3 frasi
+-  Il testo della pagina deve contenere le parole chiave riportate nel
+   titolo e nel sommario
+-  Utilizzare liste puntate per elencare concetti costituiti da tre o
+   più elementi
+
+Creazione dei link
+~~~~~~~~~~~~~~~~~~
+
+.. admonition:: SI DEVE
+
+   I link devono essere costituiti da parole-chiave significative.
+   Non usare mai la frase “clicca qui” per attivare un link.
+
+Per individuare quali parole deve contenere un link è bene pensare alle
+parole chiave che un utente userebbe in un motore di ricerca per trovare
+il contenuto al quale rimanda il link che si sta costruendo. I link
+devono contenere parole significative rispetto al contenuto a cui
+rinviano e non devono essere presenti nel sommario. Anziché duplicare
+informazioni all'interno di sezioni diverse del sito, è preferibile
+attivare dei link di approfondimento per collegare fra loro contenuti
+che trattano tematiche complementari. I link verso l’esterno del sito
+dovrebbero essere accompagnati da un avviso leggibile anche dagli screen
+reader (ad esempio “Questo link si aprirà in una nuova finestra”).
+Verifica periodicamente i link esterni, per evitare che rimandino a
+pagine inesistenti o non aggiornate.
+
+Link di navigazione e bottoni
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel definire le voci dei link presenti nei menu di si deve usare una
+terminologia univoca, dove la stessa definizione non conduca, in luoghi
+diversi, ad azioni differenti. Nei bottoni e nei link descrivere in modo
+coerente e puntuale quali sono le azioni che ci dobbiamo aspettare
+nell’eseguire un comando o nel riempire un form. Siate specifici:
+“Cerca” invece di “Invia”, “Paga” invece di “Ok”. Il significato di
+“Cancella” è diverso da “Annulla”.
+
+Utilizzo delle immagini
+~~~~~~~~~~~~~~~~~~~~~~~
+
+È auspicabile associare immagini al testo solo qualora queste aggiungano
+informazioni al contenuto e non abbiano un fine puramente decorativo. Le
+immagini decorative appesantiscono solo il download della pagina e la
+scansione delle informazioni da parte dell'utente.
+
+-  Utilizzare immagini di risoluzione adeguata al web (evitare immagini
+   sfocate e di bassa qualità)
+-  Controllare bene il risultato prima di procedere alla pubblicazione
+-  Auspicabilmente, assicurarsi che il nome del file immagine sia
+   descrittivo del contenuto (ad es. sindaco-mario-rossi.jpg)
