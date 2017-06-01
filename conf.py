@@ -6,7 +6,7 @@ settings_project_name = 'Linee guida di design per i servizi web della PA'
 settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
 settings_doc_version = '1'
-settings_doc_release = '1.0beta'
+settings_doc_release = '1.0'
 settings_basename = 'LineeGuidaWebPA'
 settings_file_name = 'Linee-Guida-Web-PA'
 
@@ -29,7 +29,7 @@ extensions = [
 templates_path = ['_templates']
 
 # The suffix of source filenames.
-source_suffix = ['.rst']
+source_suffix = '.rst'
 
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
