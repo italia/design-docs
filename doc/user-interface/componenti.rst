@@ -249,7 +249,7 @@ Griglia
 
 L'allineamento dei componenti della testata è basato su una griglia a 12
 colonne e sui conseguenti adattamenti nelle versioni responsive secondo
-quanto specificato nella `sezione griglie <user-interface.html#griglie>`__.
+quanto specificato nella `sezione griglie <layout.html#griglie>`__.
 
 Esempio desktop
 '''''''''''''''

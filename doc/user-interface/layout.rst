@@ -21,7 +21,7 @@ un’immediata correlazione semantica con il contenuto principale:
 
    Elenchi di contenuti omogenei (ad esempio: anteprime di notizie o eventi)
    possono essere presentati tramite **card** o liste posizionate in una
-   `griglia responsive <user-interface.html#griglie>`_.
+   `griglia responsive <#griglie>`_.
 
 L'utilizzo di card favorisce la consultazione dei contenuti sugli
 schermi più piccoli.

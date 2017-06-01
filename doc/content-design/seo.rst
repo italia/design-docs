@@ -163,7 +163,7 @@ testuale dell’immagine. Questo attributo è utile nel caso in cui questa
 non possa essere visualizzata nel browser per motivi legati ad esempio
 al mancato supporto di alcune tipologie di file da parte del browser o
 all’\ `utilizzo di tecnologie
-assistive <service-design.html#accessibilita>`__.
+assistive <../service-design/accessibilita.html>`__.
 
 È possibile generare ed utilizzare una `sitemap XML ad hoc per le
 immagini <#mappa-del-sito>`__ per fornire ai crawler maggiori
@@ -212,7 +212,7 @@ struttura:
 -  utilizzare i trattini (-) invece che gli underscore (\_) per la
    punteggiatura
 -  cercare di ridurre il più possibile la lunghezza delle URL
--  valutare l’utilizzo del `file robots.txt <#file-robotstxt>`__ per
+-  valutare l’utilizzo del `file robots.txt <#file-robots-txt>`__ per
    bloccare la scansione da parte dei crawler dei motori di ricerca
    delle URL con parametri dinamici (referral, ordinamenti, calendari…)
 
