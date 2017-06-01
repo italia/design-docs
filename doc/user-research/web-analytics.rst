@@ -210,7 +210,7 @@ Le ricerche degli utenti sono quasi sempre il più ampio vettore di
 traffico verso i contenuti web. Per questa ragione, non soltanto è
 fondamentale fare in modo che le pagine di un sito siano `“ottimizzate”
 per essere trovate dagli utenti attraverso i motori di
-ricerca <content-design.html#seo>`__, ma è altrettanto importante
+ricerca <../content-design/seo.html>`__, ma è altrettanto importante
 analizzare i dati di web analytics provenienti dalle ricerche interne ed
 esterne al sito per avere contezza delle performance dei singoli
 contenuti e del livello di soddisfazione-utente che generano.
@@ -227,7 +227,7 @@ Ricerca esterna al sito
    che portano traffico al sito
    
    *Azione:* Usa i relativi webmaster tools (es. `Google Search
-   Console <content-design.html#seo>`__) per ottimizzare i contenuti
+   Console <../content-design/seo.html>`__) per ottimizzare i contenuti
    e la struttura del sito e renderli così più facilmente scansionabili
    dai crawler dei motori e “trovabili” dagli utenti
 

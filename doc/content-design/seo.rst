@@ -143,8 +143,8 @@ Nel caso ci sia la necessità di suddividere il contenuto in più pagine,
 -  utilizzare gli attributi HTML rel="next" e rel="prev", per
    specificare la relazione di consequenzialità fra URL
 
-Ulteriori informazioni sulla paginazione →
-`<https://support.google.com/webmasters/answer/1663744?hl=it&ref_topic=4617741>`__
+`Ulteriori informazioni sulla paginazione
+<https://support.google.com/webmasters/answer/1663744?hl=it&ref_topic=4617741>`__
 
 Grassetto
 ^^^^^^^^^
@@ -216,8 +216,8 @@ struttura:
    bloccare la scansione da parte dei crawler dei motori di ricerca
    delle URL con parametri dinamici (referral, ordinamenti, calendari…)
 
-Ulteriori informazioni sulla struttura delle URL →
-`<https://support.google.com/webmasters/answer/76329?hl=it&ref_topic=4617741>`__
+`Ulteriori informazioni sulla struttura delle URL
+<https://support.google.com/webmasters/answer/76329?hl=it&ref_topic=4617741>`__
 
 Duplicazione dei contenuti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -241,11 +241,11 @@ implementarla è necessario inserire un elemento link che contenga
 l’attributo rel=”canonical” (seguito dal link cui si vuole applicare la
 canonicalizzazione), nel tag **head** della pagina.
 
-Approfondimenti sui contenuti duplicati →
-`<https://support.google.com/webmasters/answer/66359?hl=it>`__
+`Approfondimenti sui contenuti duplicati
+<https://support.google.com/webmasters/answer/66359?hl=it>`__
 
-Approfondimenti sulla canonicalizzazione →
-`<https://support.google.com/webmasters/answer/139066>`__
+`Approfondimenti sulla canonicalizzazione
+<https://support.google.com/webmasters/answer/139066>`__
 
 Mappa del sito
 ^^^^^^^^^^^^^^
@@ -254,8 +254,8 @@ Oltre ad una mappa del sito in HTML destinata agli
 utenti, è consigliabile creare un file sitemap XML destinato ai motori
 di ricerca.
 
-Informazioni sulle sitemap →
-`<https://support.google.com/webmasters/answer/156184?hl=it&ref_topic=4581190>`__
+`Informazioni sulle sitemap
+<https://support.google.com/webmasters/answer/156184?hl=it&ref_topic=4581190>`__
 
 Una sitemap è un file che ha lo scopo di elencare le pagine web di un
 sito per comunicare a Google e altri motori di ricerca l'organizzazione
@@ -273,16 +273,16 @@ all’organizzazione dei singoli nodi, ad esempio:
 -  informazioni relative a video e immagini
 -  informazioni relative all’organizzazione dei documenti
 
-Come generare e inviare una sitemap a Google →
-`<https://support.google.com/webmasters/answer/183668?hl=it&ref_topic=4581190>`__
+`Come generare e inviare una sitemap a Google
+<https://support.google.com/webmasters/answer/183668?hl=it&ref_topic=4581190>`__
 
 È possibile inviare una sitemap a Google anche tramite il tool `Search
 Console <#webmaster-tools-search-console-di-google>`__ È possibile
 inoltre generare sitemap XML per:
 
--  le pagine in lingue alternative → `<https://support.google.com/webmasters/answer/2620865?hl=it&ref_topic=6080646>`__
--  i video → `<https://support.google.com/webmasters/answer/80471?hl=it&ref_topic=6080646>`__
--  le immagini → `<https://support.google.com/webmasters/answer/178636?hl=it&ref_topic=6080646>`__
+-  `le pagine in lingue alternative <https://support.google.com/webmasters/answer/2620865?hl=it&ref_topic=6080646>`__
+-  `i video <https://support.google.com/webmasters/answer/80471?hl=it&ref_topic=6080646>`__
+-  `le immagini <https://support.google.com/webmasters/answer/178636?hl=it&ref_topic=6080646>`__
 
 File robots.txt
 ^^^^^^^^^^^^^^^
@@ -296,11 +296,11 @@ sito non sono accessibili e quindi controllare il traffico di scansione.
 Non si deve utilizzare il file robots.txt per nascondere le pagine web
 dai risultati di ricerca.
 
-Informazioni sui file robots.txt →
-`<https://support.google.com/webmasters/answer/6062608?hl=it>`__
+`Informazioni sui file robots.txt
+<https://support.google.com/webmasters/answer/6062608?hl=it>`__
 
-Come impedire la visualizzazione di una pagina del sito sui motori di
-ricerca → `<https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag>`__
+`Come impedire la visualizzazione di una pagina del sito sui motori di
+ricerca <https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag>`__
 
 Tempi di caricamento delle pagine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -314,11 +314,11 @@ ricerca.
 caricamento delle pagine e i tempi di risposta del server, soprattutto
 da dispositivi mobili.
 
-Risorse per lo sviluppo di pagine ottimizzate per i dispositivi
-mobili → `<https://support.google.com/webmasters/answer/72462?hl=it&ref_topic=2370586>`__
+`Risorse per lo sviluppo di pagine ottimizzate per i dispositivi
+mobili <https://support.google.com/webmasters/answer/72462?hl=it&ref_topic=2370586>`__
 
-**Approfondimento** → Le pagine AMP (Accelerated Mobile Pages) per i
-contenuti di tipo “news”
+Approfondimento: le pagine AMP (Accelerated Mobile Pages) per i contenuti di tipo “news”
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 Per determinate tipologie di contenuto - in particolare le news - è
 possibile implementare il formato AMP (Accelerated Mobile Pages) di
@@ -326,13 +326,13 @@ Google. Il formato AMP è stato lanciato nel 2015 per migliorare le
 prestazioni del mobile web, riducendo la velocità di caricamento delle
 pagine.
 
-Linee guida di Google Search per le pagine AMP →
-`<https://support.google.com/webmasters/answer/6340290?hl=it>`__
+`Linee guida di Google Search per le pagine AMP
+<https://support.google.com/webmasters/answer/6340290?hl=it>`__
 
-Il progetto AMP → `<https://www.ampproject.org/it/>`__
+`Il progetto AMP <https://www.ampproject.org/it/>`__
 
-Guida all'implementazione di pagine AMP →
-`<https://developers.google.com/search/docs/guides/use-AMP-HTML>`__
+`Guida all'implementazione di pagine AMP
+<https://developers.google.com/search/docs/guides/use-AMP-HTML>`__
 
 Dati strutturati
 ^^^^^^^^^^^^^^^^
@@ -357,11 +357,11 @@ ad esempio:
 Il markup con dati strutturati si basa sul vocabolario
 http://schema.org/
 
-Guida di Google all’implementazione dei dati strutturati → 
-`<https://developers.google.com/search/docs/guides/intro-structured-data>`__
+`Guida di Google all’implementazione dei dati strutturati
+<https://developers.google.com/search/docs/guides/intro-structured-data>`__
 
-Strumento per testare la corretta implementazione dei dati strutturati → 
-`<https://search.google.com/structured-data/testing-tool?hl=it>`__
+`Strumento per testare la corretta implementazione dei dati strutturati
+<https://search.google.com/structured-data/testing-tool?hl=it>`__
 
 Migrazione SEO di un sito
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -386,8 +386,8 @@ Si consiglia quindi di:
 -  comunicare ai crawler di Google un eventuale cambiamento del dominio
    tramite la Search Console
 
-Ulteriori informazioni sui redirect 301 →
-`<https://support.google.com/webmasters/answer/93633>`__
+`Ulteriori informazioni sui redirect 301
+<https://support.google.com/webmasters/answer/93633>`__
 
 I fattori off-page
 ~~~~~~~~~~~~~~~~~~
@@ -453,8 +453,8 @@ Con Search Console è possibile:
 -  monitorare e correggere i problemi di usabilità del sito su
    dispositivi mobili
 -  verificare la corretta implementazione di eventuali dati strutturati
-   e schede informative `(rich
-   cards) <https://support.google.com/webmasters/answer/6381755>`__
+   e schede informative (`rich
+   cards <https://support.google.com/webmasters/answer/6381755>`__)
 -  rilevare criticità nell’HTML per favorire e migliorare l’esperienza
    utente sul sito
 -  rilevare e correggere eventuali criticità correlate alle pagine AMP
@@ -465,14 +465,14 @@ Con Search Console è possibile:
 Approfondimenti
 ^^^^^^^^^^^^^^^
 
-Come configurare un sito web in Search Console →
-`<https://support.google.com/webmasters/answer/34592?hl=it&ref_topic=3309469>`__
+`Come configurare un sito web in Search Console
+<https://support.google.com/webmasters/answer/34592?hl=it&ref_topic=3309469>`__
 
-Centro assistenza Search Console →
-`<https://support.google.com/webmasters#topic=3309469>`__
+`Centro assistenza Search Console
+<https://support.google.com/webmasters#topic=3309469>`__
 
-Come collegare Search Console a Google Analytics →
-`<https://support.google.com/analytics/answer/1308621?hl=it>`__
+`Come collegare Search Console a Google Analytics
+<https://support.google.com/analytics/answer/1308621?hl=it>`__
 
 Utile da sapere
 ^^^^^^^^^^^^^^^
@@ -480,5 +480,5 @@ Utile da sapere
 *Una app Android deve essere pubblicata in Google Play per poter essere
 aggiunta a Search Console.*
 
-Come configurare una app in Search Console →
-`<https://support.google.com/webmasters/answer/6178088>`__
+`Come configurare una app in Search Console
+<https://support.google.com/webmasters/answer/6178088>`__

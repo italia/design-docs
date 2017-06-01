@@ -223,3 +223,17 @@ iframe.lg-example {
    border-radius: 1rem;
    padding: 20px;
 }
+
+.document a[href^='http://']:after,
+.document a[href^='https://']:after {
+   font-family: FontAwesome;
+   -moz-osx-font-smoothing: grayscale;
+   -webkit-font-smoothing: antialiased;
+   font-style: normal;
+   font-variant: normal;
+   font-weight: 400;
+   line-height: 1;
+   speak: none;
+   text-transform: none;
+   content: " \f08e"
+}

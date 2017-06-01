@@ -101,4 +101,4 @@ Non è necessario pertanto che un CSS rientri perfettamente negli
 standard.
 
 La validazione del CSS non è inoltre sufficiente a garantire
-l'`accessibilità <service-design.html#accessibilita>`__.
+l'`accessibilità <../service-design/accessibilita.html>`__.
