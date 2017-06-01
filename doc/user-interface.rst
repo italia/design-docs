@@ -18,8 +18,8 @@ Presto alcune di queste sezioni verranno ampliate ed arricchite.
 Abbiamo proposto alcuni strumenti operativi (bricks) e di checklist rapide per
 completare le linee guida e per fornire dei suggerimenti operativi.
 Inoltre trovate un UI-kit di base e un Icon Kit per iniziare una prototipazione di base. 
-Le trovate su `https://designers.italia.it/it/user-interface/
-<https://designers.italia.it/it/user-interface/>`__
+Le trovate su `https://designers.italia.it/user-interface/
+<https://designers.italia.it/user-interface/>`__
  
 Per chi vuole invece iniziare a scrivere codice, la reference implementation delle
 linee guida o cosiddetto web-toolkit, è qui `https://italia.github.io/ita-web-toolkit/ 

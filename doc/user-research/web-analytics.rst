@@ -310,7 +310,7 @@ inviare report customizzati direttamente dalle principali piattaforme di
 web analytics.
 
 Per un approfondimento sul tema, si rimanda al `Web Analytics Starter
-Kit <https://designers.italia.it/kit/it/analytics/>`__.
+Kit <https://designers.italia.it/kit/analytics/>`__.
 
 Gli strumenti (Piwik e Google Analytics)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
