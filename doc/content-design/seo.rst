@@ -349,11 +349,6 @@ ad esempio:
 -  box di search in stile sitelink
 -  breadcrumbs
 
-.. figure:: images/SEO-dati-strutturati.png
-   :alt: dati strutturati
-
-   Dati strutturati
-
 Il markup con dati strutturati si basa sul vocabolario
 http://schema.org/
 
