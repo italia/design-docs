@@ -50,8 +50,6 @@ risultato dei motori di ricerca:
    per indicizzare un contenuto e assegnargli un rank nei risultati di
    ricerca.
 
-Tag di heading: h1
-
 Description del contenuto
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -127,12 +125,11 @@ Paragrafazione e paginazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per una maggiore leggibilità dei testi è
-consigliabile paragrafare i contenuti di una pagina, soprattutto se di
+`consigliabile paragrafare <../user-interface/stile.html#formattazioni-consigliate>`__
+i contenuti di una pagina, soprattutto se di
 lunghezza importante. È utile inoltre titolare gli eventuali
 sottoparagrafi secondo i medesimi principi applicabili al titolo
 principale della pagina.
-
-Tag di heading: da h2 ad h6
 
 Nel caso ci sia la necessità di suddividere il contenuto in più pagine,
 è consigliabile:
