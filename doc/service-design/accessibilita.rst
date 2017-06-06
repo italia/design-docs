@@ -120,7 +120,7 @@ Comportamento
    `WAI ARIA <https://www.w3.org/WAI/intro/aria>`__).
 
 Un esempio per capire: uso del colore
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il colore non può essere usato come unico mezzo per veicolare
 un’informazione. Quindi, ad esempio, non possono essere indicate in
