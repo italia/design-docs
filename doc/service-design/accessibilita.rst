@@ -128,6 +128,7 @@ rosso le informazioni obbligatorie, in verde quelle accessorie, perché
 non tutti potrebbero essere in grado di percepire la differenza di
 colore in contesti di fruizione diversi e molto frequenti, ad es.:
 
+-  da smartphone o tablet, di giorno all'aperto
 -  una stampa in bianco e nero della pagina web
 -  una pagina web videoproiettata
 -  in caso di daltonismo (8% popolazione maschile)
