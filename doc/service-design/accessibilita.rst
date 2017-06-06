@@ -119,7 +119,7 @@ Comportamento
    all’utente, in particolare alle tecnologie assistive (vedi 
    `WAI ARIA <https://www.w3.org/WAI/intro/aria>`__).
 
-Uso dei colori per veicolare informazioni
+Un esempio per capire: uso del colore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il colore non può essere usato come unico mezzo per veicolare
@@ -133,8 +133,7 @@ colore in contesti di fruizione diversi e molto frequenti, ad es.:
 -  in caso di daltonismo (8% popolazione maschile)
 
 Per comunicare un’informazione, oltre al colore è necessario aggiungere
-un elemento testuale o grafico, un simbolo o un bordo, per fare alcuni
-esempi.
+un elemento testuale o grafico, un simbolo o un bordo.
 
 Normativa
 ~~~~~~~~~
