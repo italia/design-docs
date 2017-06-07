@@ -150,4 +150,4 @@ Protocollo per la realizzazione di test di usabilità
 
 Per verificare rapidamente l'usabilità di un sito web si possono
 utilizzare differenti tecniche, fra le quali quelle suggerite dal
-`Protocollo eGLU <http://www.funzionepubblica.gov.it/glu#Il Protocollo>`__ per la realizzazione di test di usabilità semplificati
+Protocollo eGLU per la realizzazione di test di usabilità semplificati
