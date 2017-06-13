@@ -27,9 +27,9 @@ ente pubblico.
 Creare un sito accessibile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-L’accessibilità è una qualità che riguarda tre aspetti di un sito web e
+L’accessibilità è una qualità che riguarda più aspetti di un sito web e
 di un software in generale, e va considerata in diversi momenti dello
-sviluppo, da diverse figure professionali.
+sviluppo, da diverse figure professionali:
 
 -  Aspetto e contenuto (`visual e content <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa&techniques=advisory>`__)
 -  Struttura (`develop <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa&techniques=advisory>`__)
@@ -39,7 +39,7 @@ Il `Decreto Ministeriale del 20 marzo 2013 <http://www.agid.gov.it/dm-8-luglio-2
 individua i 12 requisiti da rispettare che derivano da `principi internazionali
 <https://www.w3.org/TR/WCAG20/>`__. Per essere a norma,
 il sito web di una PA deve soddisfare tutti i `controlli WCAG 2.0 fino al
-livello AA <https://www.w3.org/WAI/WCAG20/quickref/>`__.
+livello AA <https://www.w3.org/WAI/WCAG20/quickref/?currentsidebar=%23col_customize&levels=aaa>`__.
 In questa pagina forniamo un elenco degli errori più comuni
 che limitano o impediscono l’accesso alle informazioni in un determinato
 contesto.
@@ -47,15 +47,13 @@ contesto.
 Aspetto
 ^^^^^^^
 
--  Contrasto tra primo piano e sfondo: il testo e il relativo sfondo
+-  **Contrasto tra primo piano e sfondo**: il testo e il relativo sfondo
    (compreso il testo contenuto nelle immagini), devono rispettare un
-   preciso rapporto di contrasto, basato su un algoritmo, con minore
-   ristrettezza per il testo di grandi dimensioni (18 punti normale o 14
-   punti grassetto). I logotipi, il testo di grandi dimensioni (`18 punti
+   preciso rapporto di contrasto, basato su un algoritmo. I logotipi, il testo di grandi dimensioni (`18 punti
    o 14 grassetto <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#larger-scaledef>`__)
    e il testo volutamente reso poco visibile (es. azioni
    inattive) non rientrano in questo controllo.
--  Forma e colore: le informazioni che veicola una pagina non devono
+-  **Forma e colore**: le informazioni che veicola una pagina non devono
    dipendere unicamente da aspetto, forma, colore, dimensione,
    ubicazione visiva, orientamento o suono. Di seguito esempi di alcuni
    tra i più comuni errori:
@@ -66,42 +64,42 @@ Aspetto
       <https://www.w3.org/TR/WCAG20-TECHS/F26.html>`__
    -  `Creare link che sono solamente di un colore diverso dal testo
       <https://www.w3.org/TR/WCAG20-TECHS/F73.html>`__
-   -  Nei moduli online, la `segnalare i campi obbligatori mancanti
+   -  Nei moduli online, la `segnalazione dei campi obbligatori mancanti
       <https://www.w3.org/TR/WCAG20-TECHS/F81.html>`__
       effettuata solo tramite il colore
 
--  Tempo sufficiente: deve essere possibile `rimuovere il limite di tempo
+-  **Tempo sufficiente**: deve essere possibile `rimuovere il limite di tempo
    di visualizzazione <https://www.w3.org/TR/WCAG20-TECHS/F16.html>`__ di un oggetto nella pagina, o regolarne la
-   scadenza, o estenderla facilmente prima del termine. Ad esempio è
-   sbagliato pubblicare un contenuto che “scorre” es. un carousel di
+   scadenza, o estenderla facilmente prima del termine. Ad esempio 
+   attenzione a pubblicare un contenuto che “scorre” come un carousel di
    notizie.
--  Oggetti lampeggianti: le pagine Web non devono contenere nulla che
+-  **Oggetti lampeggianti**: le pagine Web non devono contenere nulla che
    lampeggi per più di tre volte al secondo.
--  Contenuti audio: se un contenuto audio all'interno di una pagina Web
+-  **Contenuti audio**: se un contenuto audio all'interno di una pagina Web
    è eseguito automaticamente per più di tre secondi, allora deve essere
    fornita una funzionalità per metterlo in pausa o interromperlo.
 
 Struttura
 ^^^^^^^^^
 
--  Link e controlli: il codice del contenuto Web (es: HTML) va usato
+-  **Link e controlli**: il codice del contenuto Web (es: HTML) va usato
    secondo le specifiche (es. un titolo è un Hn) e vanno esplicitate le
    relazioni tra elementi (es. `i campi devono essere legati alle loro
    etichette <https://www.w3.org/TR/WCAG20-TECHS/H44.html>`__).
--  Alternative a oggetti non testuali: tutti gli elementi non testuali,
+-  **Alternative a oggetti non testuali**: tutti gli elementi non testuali,
    come immagini, grafici, infografiche, video e audio, devono avere
    un’alternativa testuale equivalente quando veicolano un significato,
    un’informazione o una funzione, come ad esempio il testo presente in
    un banner o in un bottone. Fare attenzione soprattutto ai controlli
-   di verifica antispam (es. `CAPTCHA <https://www.w3.org/TR/WCAG20/#CAPTCHA>`__.)
--  Ingrandimento: il testo si deve poter ingrandire del 200% senza
+   di verifica antispam (es. `CAPTCHA <https://www.w3.org/TR/WCAG20/#CAPTCHAdef>`__.)
+-  **Ingrandimento**: il testo si deve poter ingrandire del 200% senza
    perdita di contenuto o funzionalità, e quindi senza sovrapposizioni
    di elementi che lo rendano incomprensibile.
 
 Comportamento
 ^^^^^^^^^^^^^
 
--  Link e controlli: tutti i componenti dell’interfaccia si devono poter
+-  **Link e controlli**: tutti i componenti dell’interfaccia si devono poter
    utilizzare tramite comandi da tastiera analogamente a quanto si
    riesce a fare col mouse. Risulta quindi errato:
    
@@ -112,7 +110,7 @@ Comportamento
       questi lo ricevono, o si aggiornano
       <https://www.w3.org/TR/WCAG20-TECHS/F55.html>`__
 
--  Valore, ruolo e stato: è meglio utilizzare i componenti standard
+-  **Valore, ruolo e stato**: è meglio utilizzare i componenti standard
    dell’HTML e rendere maggiormente “visibili” gli elementi che ricevono
    il focus. Se si utilizzano componenti non standard, verificare che
    valore, ruolo e stato degli elementi siano sempre resi disponibili
@@ -123,16 +121,17 @@ Un esempio per capire: uso del colore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Il colore non può essere usato come unico mezzo per veicolare
-un’informazione. Quindi, ad esempio, non possono essere indicate in
-rosso le informazioni obbligatorie, in verde quelle accessorie, perché
+un’informazione. Quindi, ad esempio, è sbagliato indicare “in
+rosso le informazioni obbligatorie, in verde quelle accessorie”, perché
 non tutti potrebbero essere in grado di percepire la differenza di
-colore in contesti di fruizione diversi e molto frequenti, ad es.:
+colore in contesti di fruizione diversi ma molto frequenti, ad es.:
 
+-  da smartphone o tablet, di giorno e all'aperto
 -  una stampa in bianco e nero della pagina web
 -  una pagina web videoproiettata
--  in caso di daltonismo (8% popolazione maschile)
+-  in caso di daltonismo (`5-8% popolazione maschile <https://it.wikipedia.org/wiki/Daltonismo#Diffusione>`__)
 
-Per comunicare un’informazione, oltre al colore è necessario aggiungere
+Per comunicare un’informazione quindi, oltre al colore, è necessario aggiungere
 un elemento testuale o grafico, un simbolo o un bordo.
 
 Normativa
