@@ -54,7 +54,6 @@ necessario definire:
 -  i target principali a cui si rivolge l'informazione o il servizio
 -  i bisogni, ovvero le necessità informative e operative degli utenti
 -  le principali attività che gli utenti intendono effettuare
--  i bisogni, ovvero le necessità informative e operative degli utenti
 
 È bene prendere decisioni sulla base dell’analisi dei dati riferiti
 all’utente in particolare i dati statistici di navigazione sul sito per
