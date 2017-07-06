@@ -224,6 +224,10 @@ iframe.lg-example {
    padding: 20px;
 }
 
+.document a {
+  text-decoration: underline;
+}
+
 .document a[href^='http://']:after,
 .document a[href^='https://']:after {
    font-family: FontAwesome;
