@@ -5130,7 +5130,6 @@ div[class^='highlight'] pre {
 }
 .wy-menu-vertical li.current a {
   color: gray;
-  padding: 0.809em 2.427em;
 }
 .wy-menu-vertical li.current a:hover {
   background: #d9d9d9;
@@ -5160,8 +5159,11 @@ div[class^='highlight'] pre {
   color: #404040;
   font-weight: bold;
   position: relative;
-  background: #fff;
+  background: #f2f2f2;
   border: none;
+}
+.wy-menu-vertical li.current > a[href="#"] {
+  background: #fff;
 }
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {
   color: #1C2024;
@@ -5189,7 +5191,7 @@ div[class^='highlight'] pre {
   padding: 0.809em 4.045em;
 }
 .wy-menu-vertical li.toctree-l2.current > a {
-  background: #f2f2f2;
+  background: #fff;
 }
 .wy-menu-vertical li.toctree-l2.current li.toctree-l3 > a {
   display: block;
