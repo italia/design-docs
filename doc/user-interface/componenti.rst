@@ -13,7 +13,7 @@ responsive <https://italia.github.io/ita-web-toolkit/components/detail/text--siz
 (``u-text-r-*``).
 
 .. raw:: html
-   
+
    <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/button--default.html"></iframe>
    <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--default.html">mostra il codice</a></p>
 
@@ -23,7 +23,7 @@ responsive <https://italia.github.io/ita-web-toolkit/components/detail/text--siz
    <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--info.html">mostra il codice</a></p>
 
 .. raw:: html
-   
+
    <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/button--danger.html"></iframe>
    <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--danger.html">mostra il codice</a></p>
 
@@ -41,7 +41,7 @@ Esempio di stile per form
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
-   
+
    <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/formtpl--example.html"></iframe>
    <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/formtpl--example.html">mostra il codice</a></p>
 
@@ -70,7 +70,7 @@ Alert per errori
 ^^^^^^^^^^^^^^^^
 
 .. raw:: html
-   
+
    <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--error.html"></iframe>
    <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/alert--error.html">mostra il codice</a></p>
 
@@ -102,7 +102,7 @@ Carousel
 ~~~~~~~~
 
 .. admonition:: SI DOVREBBE
-   
+
    Evitare l’utilizzo di carousel (slider) automatici.
 
 I dati statistici raccolti riguardo l’interazione degli utenti con i
@@ -142,7 +142,7 @@ Contenuti
 .. admonition:: SI DEVE
 
    La testata deve contenere le seguenti funzionalità:
-   
+
    - denominazione dell'amministrazione / ente / società / sito tematico (link **in formato testuale** che punta alla home page)
    - barra di accesso al livello gerarchico superiore dell'amministrazione (o all'amministrazione afferente nel caso di un sito tematico)
    - stemma / logo dell'amministrazione / ente / società / sito tematico
@@ -151,7 +151,7 @@ Contenuti
 .. admonition:: SI PUÒ
 
    La testata può inoltre contenere una o più delle seguenti funzionalità:
-   
+
    - campo di ricerca
    - accesso diretto ai servizi (al form di login)
    - link ai social network
@@ -172,8 +172,8 @@ La struttura della testata è suddivisa in 3 aree funzionali.
 ''''''''''''''''''''
 
 Contiene l'indicazione dell'amministrazione di appartenenza e, se
-necessario, l'accesso ai servizi. Il colore della barra superiore è
-sempre #303030.
+necessario, l'accesso ai servizi. Il colore consigliato
+per la barra superiore è #303030.
 
 Testo: bold-600 (16px su desktop) in colore bianco.
 
@@ -191,13 +191,13 @@ Testo del titolo: bold-700 (32px su desktop).
 .. admonition:: SI PUÒ
 
    Il colore di fondo dell'area navigazione e intestazione è personalizzabile
-   (tenendo presente i [requisiti di accessibilità](/linee-guida/accessibilita)
-   nell'utilizzo dei [colori](/linee-guida/colori)).
+   (tenendo presente i `requisiti di accessibilità <../service-design/accessibilita.html>`__
+   nell'utilizzo dei `colori <../user-interface/stile.html#colori>`__).
 
 
 .. admonition:: SI DEVE
-   
-   L'icona burger deve sempre essere accompagnata nella versione desktop (laddove presente) dall'etichetta "MENU".
+
+   L'icona burger, se presente nella versione desktop, deve essere accompagnata dall'etichetta "MENU".
 
 .. figure:: images/burger-menu.png
    :alt: icona burger
@@ -216,22 +216,12 @@ Testo del titolo: bold-700 (32px su desktop).
 .. admonition:: SI DEVE
 
    Le etichette per la selezione delle lingue seguono la definizione
-   [ISO-639-2](https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes) (3 lettere).
-
-.. figure:: images/header-lingue.png
-   :alt: selezione delle lingue
-
-   Selezione delle lingue
+   `ISO-639-2 <https://en.wikipedia.org/wiki/List_of_ISO_639-2_codes>`__ (3 lettere).
 
 .. admonition:: SI DEVE
 
    Le icone per l'accesso alle pagine social sono posizionate a destra della testata, sopra il campo di ricerca.
    Quando il numero delle icone social supera le 3 è possibile aggiungere un'icona generica che dà accesso alle restanti.
-
-.. figure:: images/header-social.png
-   :alt: icone social
-
-   Icone social
 
 3. Area personalizzata
 ''''''''''''''''''''''
@@ -244,79 +234,21 @@ dell'amministrazione.
    Per garantire una rapporto equilibrato fra le diverse aree funzionali della testata si consiglia di utilizzare
    per l'Area personalizzata altezze multiple dell'Area di appartenenza (di circa 3, 5 o 7 volte).
 
-Griglia
-^^^^^^^
+Esempio di header
+'''''''''''''''''
 
 L'allineamento dei componenti della testata è basato su una griglia a 12
 colonne e sui conseguenti adattamenti nelle versioni responsive secondo
 quanto specificato nella `sezione griglie <layout.html#griglie>`__.
 
-Esempio desktop
-'''''''''''''''
+`visualizza l'header a tutte le risoluzioni
+<https://italia.github.io/ita-web-toolkit/components/detail/header--menu.html>`__
 
-.. figure:: images/esempio-desktop-griglia.png
-   :alt: esempio testata desktop
+.. raw:: html
 
-   Esempio testata desktop
+  <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/header--menu.html"></iframe>
+  <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/header--menu.html">mostra il codice</a></p>
 
-Esempio mobile
-''''''''''''''
-
-.. figure:: images/esempio-mobile-griglia.png
-   :alt: esempio testata mobile
-
-   esempio testata mobile
-
-Applicazioni
-^^^^^^^^^^^^
-
-Esempio desktop
-'''''''''''''''
-
-.. figure:: images/desktop-esempio.png
-   :alt: esempio testata desktop
-
-   Esempio testata desktop
-
-Esempio desktop con aggiunta del menu di navigazione orizzontale
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-
-.. figure:: images/desktop-menu-esempio.png
-   :alt: esempio testata desktop con menu orizzontale
-
-   Esempio testata desktop con menu orizzontale
-
-Esempio testata minimizzata
-'''''''''''''''''''''''''''
-
-.. figure:: images/desktop-header-esempio.png
-   :alt: esempio di testata minimizzata
-
-   Esempio di testata minimizzata
-
-Esempio mobile
-''''''''''''''
-
-.. figure:: images/mobile-esempio.png
-   :alt: esempio di testata su mobile
-
-   Esempio di testata su mobile
-
-Esempio mobile con campo ricerca aperto
-'''''''''''''''''''''''''''''''''''''''
-
-.. figure:: images/mobile-ricerca-esempio.png
-   :alt: esempio testata su mobile con campo di ricerca aperto
-
-   Esempio testata su mobile con campo di ricerca aperto
-
-Esempio mobile minimizzato
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. figure:: images/mobile-header-esempio.png
-   :alt: esempio su mobile minimizzato
-
-   Esempio su mobile minimizzato
 
 Footer
 ~~~~~~
@@ -328,6 +260,7 @@ La struttura del footer è suddivisa in 2 aree funzionali.
 
 .. figure:: images/footer-struttura.png
    :alt: struttura footer
+
 
    Struttura footer
 
@@ -352,7 +285,7 @@ L'area contiene
 Colori
 ^^^^^^
 
-Indipendentemente dalla tipologia di sito valgono le seguenti
+Indipendentemente dalla tipologia di sito si consiglia di adottare le seguenti
 indicazioni per i colori del footer:
 
 .. raw:: html
@@ -362,7 +295,7 @@ indicazioni per i colori del footer:
    <div class="palette-example"><p><span class="lg-color-example" style="background:#c6cace"></span>Testo scuro #c6cace</p></div>
    <p></p>
 
-Il testo normale e i titoli delle sezioni appaiono in bianco (#ffffff).
+Il testo normale e i titoli delle sezioni possono apparire in bianco (#ffffff).
 
 Applicazioni
 ^^^^^^^^^^^^
