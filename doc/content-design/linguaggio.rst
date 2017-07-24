@@ -16,11 +16,13 @@ più idoneo, anche mediante un dispositivo mobile.
 Nella pianificazione e progettazione di un contenuto web, considera che
 le persone spesso utilizzano il *mobile* anche quando hanno la
 possibilità di navigare tramite il desktop. Nella gestione dei contenuti
-verifica quindi se sia possibile: - ridurre la quantità complessiva del
-testo previsto per la pubblicazione online - utilizzare una tipologia di
-formato del contenuto che sia più fruibile in relazioni agli obiettivi
-informativi, ad es. evitare i pdf - rimuovere il contenuto superfluo
-presente sul sito
+verifica quindi se sia possibile:
+
+- ridurre la quantità complessiva del testo previsto per la pubblicazione
+  online
+- utilizzare una tipologia di formato del contenuto che sia più fruibile
+  in relazioni agli obiettivi informativi, ad es. evitare i pdf
+- rimuovere il contenuto superfluo presente sul sito
 
 Creazione dei contenuti
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -50,12 +52,14 @@ bisogno.
    Si dovrebbe evitare l’utilizzo di un linguaggio gergale e specialistico
    o l’uso di termini e frasi di difficile comprensione.
 
-Utilizzare quindi: - preferibilmente la forma attiva dei verbi - un
-vocabolario semplice e chiaro, privilegiando termini e frasi che gli
-utenti potrebbero usare nella ricerca online - fornire una spiegazione
-dei termini tecnici presenti - esplicitare gli acronimi e le
-abbreviazioni, inserendo l'acronimo tra parentesi tonde dopo il termine
-indicato per esteso
+Utilizzare quindi:
+
+- preferibilmente la forma attiva dei verbi
+- un vocabolario semplice e chiaro, privilegiando termini e frasi che gli
+  utenti potrebbero usare nella ricerca online
+- fornire una spiegazione dei termini tecnici presenti
+- esplicitare gli acronimi e le abbreviazioni, inserendo l'acronimo tra
+  parentesi tonde dopo il termine indicato per esteso
 
 Corretta ortografia
 ~~~~~~~~~~~~~~~~~~~
@@ -76,14 +80,16 @@ pagina.
    dei titoli delle pagine dovrebbe essere compresa fra i 50 e i 65 caratteri,
    spazi compresi.
 
-Per creare titoli che attirino l’attenzione del lettore: - scrivere
-titoli unici all'interno del sito, e non ambigui - utilizzare le parole
-più rappresentative del contenuto a cui il titolo fa riferimento - non
-scrivere il titolo in maiuscolo, poiché rende la lettura più faticosa -
-non utilizzare punti alla fine del titolo - mettere graficamente in
-risalto i titoli rispetto al testo circostante - non inserire slash / o
-trattini - non utilizzare acronimi, a meno che non siano ben noti (es.
-UE)
+Per creare titoli che attirino l’attenzione del lettore:
+
+- scrivere titoli unici all'interno del sito, e non ambigui
+- utilizzare le parole più rappresentative del contenuto a cui il titolo fa
+  riferimento
+- non scrivere il titolo in maiuscolo, poiché rende la lettura più faticosa
+- non utilizzare punti alla fine del titolo
+- mettere graficamente in risalto i titoli rispetto al testo circostante
+- non inserire slash / o trattini - non utilizzare acronimi, a meno che non
+  siano ben noti (es. UE)
 
 Sommario
 ~~~~~~~~
