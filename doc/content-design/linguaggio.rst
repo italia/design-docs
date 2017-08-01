@@ -262,11 +262,11 @@ Creative Commons. Le foto della gallery sono utilizzabili a queste
 condizioni: attribuzione al proprietario, uso non commerciale 
 e condivisione con la stessa licenza (licenza CC-BY-NC-SA 3.0 IT).
 
-.. figure:: images/gallery-di-immagini-con-licenze-CC-fonte:governo.it.png
+.. figure:: images/gallery-di-immagini-con-licenze-CC-fonte_governo.it.png
    :alt: gallery di immagini con licenze CC - fonte: Governo.it
    :align: center
   
-  Gallery di immagini con licenze CC - fonte: `Governo.it <http://www.governo.it/media/gentiloni-interviene-alla-conferenza-degli-ambasciatori/7869>`_
+   Gallery di immagini con licenze CC - fonte: `Governo.it <http://www.governo.it/media/gentiloni-interviene-alla-conferenza-degli-ambasciatori/7869>`_
 
 Archivi di immagini online
 __________________________
@@ -287,7 +287,7 @@ con ricerca Creative Commons.
 
 Di seguito un esempio di utilizzo di un'immagine ripresa da un archivio online:
 
-.. figure:: images/esempio-immagine-da-archivio-iStockPhoto-fonte:Comune di Biella.png
+.. figure:: images/esempio-immagine-da-archivio-iStockPhoto-fonte_Comune-di-Biella.png
    :alt: esempio immagine da archivio iStockPhoto - fonte: Comune di Biella 
    :align: center
 
