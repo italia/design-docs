@@ -151,7 +151,7 @@ nell’eseguire un comando o nel riempire un form. Siate specifici:
 “Cancella” è diverso da “Annulla”.
 
 Immagini
-~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~
 
 Come ogni contenuto che pubblichiamo sul web, 
 ci vuole buon senso anche nella pubblicazione di immagini. 
