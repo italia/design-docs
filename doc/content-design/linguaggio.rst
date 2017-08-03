@@ -19,20 +19,22 @@ possibilità di navigare tramite il desktop. Nella gestione dei contenuti
 verifica quindi se sia possibile:
 
 - ridurre la quantità complessiva del testo previsto per la pubblicazione
-  online
+  online;
 - utilizzare una tipologia di formato del contenuto che sia più fruibile
-  in relazioni agli obiettivi informativi, ad es. evitare i pdf
-- rimuovere il contenuto superfluo presente sul sito
+  in relazione agli obiettivi informativi, ad es. evitare i pdf;
+- rimuovere il contenuto superfluo presente sul sito.
 
 Creazione dei contenuti
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Ogni singolo paragrafo, ogni singola parola devono venire incontro alle
 necessità informative degli utenti e consentire loro di trovare con
-immediatezza ciò che cercano. Dovresti quindi almeno: - utilizzare
-titoli e sottotitoli nelle pagine - scrivere frasi brevi - suddividere
-il contenuto per paragrafi - monitorare costantemente l’aggiornamento
-dei contenuti
+immediatezza ciò che cercano. Dovresti quindi almeno:
+
+- utilizzare titoli e sottotitoli nelle pagine;
+- scrivere frasi brevi;
+- suddividere il contenuto per paragrafi;
+- monitorare costantemente l’aggiornamento dei contenuti.
 
 .. admonition:: SI DOVREBBE
 
@@ -54,12 +56,12 @@ bisogno.
 
 Utilizzare quindi:
 
-- preferibilmente la forma attiva dei verbi
+- preferibilmente la forma attiva dei verbi;
 - un vocabolario semplice e chiaro, privilegiando termini e frasi che gli
-  utenti potrebbero usare nella ricerca online
-- fornire una spiegazione dei termini tecnici presenti
+  utenti potrebbero usare nella ricerca online;
+- fornire una spiegazione dei termini tecnici presenti;
 - esplicitare gli acronimi e le abbreviazioni, inserendo l'acronimo tra
-  parentesi tonde dopo il termine indicato per esteso
+  parentesi tonde dopo il termine indicato per esteso.
 
 Corretta ortografia
 ~~~~~~~~~~~~~~~~~~~
@@ -82,14 +84,14 @@ pagina.
 
 Per creare titoli che attirino l’attenzione del lettore:
 
-- scrivere titoli unici all'interno del sito, e non ambigui
+- scrivere titoli unici all'interno del sito, e non ambigui;
 - utilizzare le parole più rappresentative del contenuto a cui il titolo fa
-  riferimento
-- non scrivere il titolo in maiuscolo, poiché rende la lettura più faticosa
-- non utilizzare punti alla fine del titolo
-- mettere graficamente in risalto i titoli rispetto al testo circostante
-- non inserire slash / o trattini - non utilizzare acronimi, a meno che non
-  siano ben noti (es. UE)
+  riferimento;
+- non scrivere il titolo in maiuscolo, poiché rende la lettura più faticosa;
+- non utilizzare punti alla fine del titolo;
+- mettere graficamente in risalto i titoli rispetto al testo circostante;
+- non inserire slash / o trattini;
+- non utilizzare acronimi, a meno che non siano ben noti (es. UE).
 
 Sommario
 ~~~~~~~~
@@ -104,11 +106,11 @@ prima della selezione della pagina di dettaglio. Dovrebbe quindi avere
 una lunghezza massima di 140 caratteri, spazi inclusi, e possedere le
 seguenti caratteristiche:
 
--  essere una sintesi dei punti centrali del contenuto
+-  essere una sintesi dei punti centrali del contenuto;
 -  essere diverso dal titolo e dalle prime righe del contenuto della
-   pagina interna
--  contenere le parole chiave più rappresentative del contenuto
--  terminare con un punto
+   pagina interna;
+-  contenere le parole chiave più rappresentative del contenuto;
+-  terminare con un punto.
 
 Testo della pagina
 ~~~~~~~~~~~~~~~~~~
@@ -117,12 +119,12 @@ Specialmente nel caso delle notizie, il testo deve rispondere
 sinteticamente alle cinque domande: chi, dove, quando, perché, come.
 
 -  Il testo di un contenuto deve essere il più coerente possibile con
-   titolo e il sommario
--  Ogni paragrafo deve contenere al massimo 3 frasi
+   titolo e il sommario;
+-  Ogni paragrafo deve contenere al massimo 3 frasi;
 -  Il testo della pagina deve contenere le parole chiave riportate nel
-   titolo e nel sommario
+   titolo e nel sommario;
 -  Utilizzare liste puntate per elencare concetti costituiti da tre o
-   più elementi
+   più elementi.
 
 Creazione dei link
 ~~~~~~~~~~~~~~~~~~
@@ -156,16 +158,149 @@ nell’eseguire un comando o nel riempire un form. Siate specifici:
 “Cerca” invece di “Invia”, “Paga” invece di “Ok”. Il significato di
 “Cancella” è diverso da “Annulla”.
 
-Utilizzo delle immagini
-~~~~~~~~~~~~~~~~~~~~~~~
+Immagini
+~~~~~~~~
 
-È auspicabile associare immagini al testo solo qualora queste aggiungano
-informazioni al contenuto e non abbiano un fine puramente decorativo. Le
-immagini decorative appesantiscono solo il download della pagina e la
-scansione delle informazioni da parte dell'utente.
+Come ogni contenuto che pubblichiamo sul web, 
+ci vuole buon senso anche nella pubblicazione di immagini. 
+Non pubblicare foto inutili, non pubblicare sequenze di foto 
+simili tra loro se non aggiungono significato, non pubblicare foto 
+troppo pesanti. Dedica tempo alla produzione, alla ricerca e 
+alla selezione delle immagini: una buona foto può fare la differenza
+e dare grande valore al tuo contenuto.
 
--  Utilizzare immagini di risoluzione adeguata al web (evitare immagini
-   sfocate e di bassa qualità)
--  Controllare bene il risultato prima di procedere alla pubblicazione
--  Auspicabilmente, assicurarsi che il nome del file immagine sia
-   descrittivo del contenuto (ad es. sindaco-mario-rossi.jpg)
+Ricordati di: 
+
+- accompagnare ogni foto con una didascalia; 
+- citare l’autore; 
+- riportare la licenza di pubblicazione. 
+
+Infine, quando pubblichi un’immagine, assicurati che il file 
+dell’immagine abbia un nome che riflette il contenuto dell’immagine 
+(per esempio, se pubblichi una foto del Teatro antico di Taormina 
+il nome del file potrebbe essere teatro-antico-taormina.jpg): 
+tra le altre cose, sarà più facile per i motori di ricerca 
+indicizzare il tuo contenuto e per gli utenti trovarlo.
+
+Dimensione delle immagini 
+_________________________
+
+Le dimensioni delle immagini influenzano la velocità di caricamento 
+della pagina: è quindi fondamentale rispettare alcune buone pratiche 
+per tenere sotto controllo peso, risoluzione e proporzioni del file.
+
+Partiamo da un esempio: le immagini utilizzate per le card nella pagina
+dei `progetti <https://designers.italia.it/progetti/>`_
+del sito Designers. Per garantire una resa adeguata 
+delle immagini, dato il template responsive (cioè che adatta il formato 
+in base al dispositivo), sono state utilizzate immagini le cui dimensioni
+originali sono 800x450 con una risoluzione di 72ppi.
+
+Prima di pubblicare un’immagine è opportuno verificare che sia ottimizzata
+per il web:
+
+- Risoluzione: 72 ppi
+- Formato: JPG (JPEG), PNG
+- Modello di colori: RBG 
+
+In generale, se le dimensioni originali dell’immagine possono variare, 
+è consigliabile effettuare sempre un `ricampionamento <https://helpx.adobe.com/it/photoshop/using/image-size-resolution.html#resampling]>`_ 
+delle immagini, di modo che mantengano una buona definizione 
+ma abbiano una dimensione ridotta in termini di byte 
+(e in genere anche in pixel).
+
+Se hai la necessità di fare semplici modifiche alle immagini 
+(correggere le dimensioni o la luminosità, ritagliare, ruotare, etc.) 
+puoi sfruttare alcuni servizi online gratuiti:
+
+- `Photoshop Express Editor <http://www.photoshop.com/tools?wf=editor>`_
+- `Google Nik Collection <https://www.google.com/nikcollection/>`_
+- `Pixlr Express <https://pixlr.com/express/>`_
+- `Fotor <http://www.fotor.com/>`_
+
+Archiviazione
+_____________
+
+È una buona pratica organizzarsi in modo da avere un archivio delle 
+immagini funzionale e ordinato. A questo scopo sarebbe opportuno:
+
+- nominare i file di modo che contengano keyword relative all’oggetto 
+  della foto e la data di acquisizione o comunque in maniera uniforme;
+- organizzare le foto in cartelle per tema o evento;
+- utilizzare i tag, pensando a possibili utilizzi alternativi per una 
+  stessa foto; 
+- effettuare un backup periodico delle immagini.
+
+Licenze
+_______
+
+.. admonition:: SI DEVE
+
+   Il `copyright <https://it.wikipedia.org/wiki/Copyright>`_
+   è un metodo di riconoscimento e tutela del diritto d’autore
+   sulle immagini. Se intendi utilizzare immagini protette da copyright è 
+   necessario richiedere l’autorizzazione al proprietario, e conoscere i 
+   termini d’uso concessi. 
+
+Con lo sviluppo del Web hanno avuto grande diffusione le licenze di tipo 
+`Creative Commons (CC) <http://www.creativecommons.it/Licenze>`_: 
+un modo standardizzato per definire a quali diritti l’autore rinuncia 
+e quali si riserva: le sei licenze CC richiedono, in tutti casi, 
+l'attribuzione al proprietario dei diritti e specificano diversamente 
+alcune possibilità di utilizzo (opere derivate, usi commerciali, 
+possibilità di modifica del contenuto).
+
+In pratica, se un’immagine ha una licenza CC un utente può utilizzarla
+senza dover chiedere l’autorizzazione al proprietario e limitandosi 
+ad attribuirgliene i diritti in modo esplicito. È importante verificare 
+e rispettare i limiti di utilizzo dell’immagine consentiti dalla specifica 
+licenza CC: alcune non consentono una modifica del contenuto, 
+altre non consentono l’uso commerciale, ecc. 
+
+.. figure:: images/loghi-delle-sei-licenze-CC.png
+   :alt: i loghi delle sei licenze CC
+   :align: center
+   
+   I loghi delle sei licenze CC
+
+Approfondimenti: `Wikipedia su Creative Commons <https://it.wikipedia.org/wiki/Creative_Commons#Le_licenze>`_
+ 
+
+Di seguito un esempio di rilascio delle immagini con licenze 
+Creative Commons. Le foto della gallery sono utilizzabili a queste 
+condizioni: attribuzione al proprietario, uso non commerciale 
+e condivisione con la stessa licenza (licenza CC-BY-NC-SA 3.0 IT).
+
+.. figure:: images/gallery-di-immagini-con-licenze-CC-fonte_governo.it.png
+   :alt: gallery di immagini con licenze CC - fonte: Governo.it
+   :align: center
+  
+   Gallery di immagini con licenze CC - fonte: `Governo.it <http://www.governo.it/media/gentiloni-interviene-alla-conferenza-degli-ambasciatori/7869>`_
+
+Archivi di immagini online
+__________________________
+
+È possibile trovare online archivi di immagini gratuite con licenze 
+di utilizzo estremamente aperte, che non richiedono alcuna attribuzione 
+(es. `Unsplash <https://unsplash.com/>`_
+e le relative informazioni sul `tipo di licenza offerta <https://unsplash.com/license>`_).
+Altre fonti possibili sono per esempio 
+`Google Images <https://www.google.com/advanced_image_search>`_
+, `Flickr <https://www.flickr.com/>`_
+e `Getty Images <http://www.gettyimages.it/>`_
+in cui usando la ricerca avanzata è possibile ricercare immagini in base 
+alla licenza applicata e individuare in questo modo immagini utilizzabili 
+senza dover richiedere consenso scritto all’autore. Un altro servizio utile 
+è `CC search <https://search.creativecommons.org/>`_, motore di ricerca di immagini
+con ricerca Creative Commons.
+
+Di seguito un esempio di utilizzo di un'immagine ripresa da un archivio online:
+
+.. figure:: images/esempio-immagine-da-archivio-iStockPhoto-fonte_Comune-di-Biella.png
+   :alt: esempio immagine da archivio iStockPhoto - fonte: Comune di Biella 
+   :align: center
+
+   Esempio immagine da archivio iStockPhoto - fonte: `Comune di Biella <https://www.comune.biella.it/web/aree-tematiche/ambiente-e-rifiuti>`_
+ 
+
+Approfondimenti: `come trovare immagini liberamente utilizzabili attraverso Google Images. <https://support.google.com/websearch/answer/29508>`_
