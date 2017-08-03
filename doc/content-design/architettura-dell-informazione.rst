@@ -11,7 +11,8 @@ dell'informazione e sul linguaggio. L’architettura dell’informazione è
 più efficace se è progettata intorno ai reali bisogni delle persone: 
 per questo si parla di *user-centered design*.
 
-Nel corso dei prossimi mesi pubblicheremo, secondo `roadmap <https://designers.italia.it/content-design/>`_, 
+Nel corso dei prossimi mesi pubblicheremo, secondo `roadmap
+<https://designers.italia.it/content-design/>`_, 
 alcuni approfondimenti relativi a tutti i principali temi legati 
 all’architettura dell’informazione e in particolare: la prototipazione, 
 attraverso il wireframing e l’interactive wireframing; le strutture di 
@@ -111,7 +112,7 @@ considerare e definire:
    sicurezza
 
 Dai bisogni degli utenti alle funzioni di un servizio digitale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La progettazione dell’architettura dell’informazione di un ambiente 
 digitale si fonda su alcune conoscenze relative al contesto e alle
@@ -224,11 +225,9 @@ che il sistema dovrà compiere per completare una macro-funzione.
 |Trovare gli orari di      |Mostrare una vista sintetica  | -  Individua i contatti    |
 |apertura al pubblico      |con tutte le informazioni     |    associati all'ufficio   |
 |degli uffici per cambiare |di contatto dell’ufficio      |    specificato             |
-|l’indirizzo di residenza  |anagrafe                      |                            |
-|                          |                              | -  Individua gli orari     |
+|l’indirizzo di residenza  |anagrafe                      | -  Individua gli orari     |
 |                          |                              |    associati al            |
 |                          |                              |    determinato ufficio     |
-|                          |                              |                            |
 |                          |                              | -  Estrae il titolo        |
 |                          |                              |    dal nome dell'ufficio   |
 |                          |                              |    selezionato e mostra    |
@@ -275,5 +274,3 @@ nel *back end* perché nel *front end* sia possibile una determinata azione?".
 |              |                        |    una vista con tutti i   |                    |
 |              |                        |    contenuti               |                    |   
 +--------------+------------------------+----------------------------+--------------------+
-
-
