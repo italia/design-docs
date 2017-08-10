@@ -183,7 +183,7 @@ tra le altre cose, sarà più facile per i motori di ricerca
 indicizzare il tuo contenuto e per gli utenti trovarlo.
 
 Dimensione delle immagini 
-_________________________
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le dimensioni delle immagini influenzano la velocità di caricamento 
 della pagina: è quindi fondamentale rispettare alcune buone pratiche 
@@ -219,7 +219,7 @@ puoi sfruttare alcuni servizi online gratuiti:
 - `Fotor <http://www.fotor.com/>`_
 
 Archiviazione
-_____________
+^^^^^^^^^^^^^
 
 È una buona pratica organizzarsi in modo da avere un archivio delle 
 immagini funzionale e ordinato. A questo scopo sarebbe opportuno:
@@ -232,7 +232,7 @@ immagini funzionale e ordinato. A questo scopo sarebbe opportuno:
 - effettuare un backup periodico delle immagini.
 
 Licenze
-_______
+^^^^^^^
 
 .. admonition:: SI DEVE
 
@@ -278,7 +278,7 @@ e condivisione con la stessa licenza (licenza CC-BY-NC-SA 3.0 IT).
    Gallery di immagini con licenze CC - fonte: `Governo.it <http://www.governo.it/media/gentiloni-interviene-alla-conferenza-degli-ambasciatori/7869>`_
 
 Archivi di immagini online
-__________________________
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 È possibile trovare online archivi di immagini gratuite con licenze 
 di utilizzo estremamente aperte, che non richiedono alcuna attribuzione 
