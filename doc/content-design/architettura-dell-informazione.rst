@@ -135,7 +135,7 @@ assumere il loro punto di vista e avere una lista chiara dei loro bisogni
 (evidenziando priorità e possibili criticità).
 
 Le funzioni di un sito o di un servizio digitale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 I siti web non sono tutti uguali, e il motivo è che assolvono a funzioni 
 diverse: alcuni hanno come scopo principale vendere un prodotto, altri 
@@ -151,7 +151,7 @@ deve ispirarsi. Le “funzioni” non sono altro che le azioni principali che gl
 del sito web (le *personas* descritte in precedenza) vogliono o devono compiere.
 
 Stabilire le priorità
-~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^
 
 Dopo aver capito il concetto di funzioni, il gioco è tutto nell’avere un forte
 senso delle priorità. Se siamo bravi a chiarire le due o tre funzioni principali
@@ -167,8 +167,8 @@ senza disperdere energie nella consultazione di decine di siti o app. Trovare i 
 esempi da analizzare può portare a risparmiare diversi giorni o anche settimane nel 
 processo di progettazione.
 
-Definizione della funzione principale
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Definire la funzione principale
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Lo sforzo linguistico necessario per esprimere in un'unica frase quale sia la funzione 
 principale del servizio che si sta realizzando è il modo più efficace per non perdere 
@@ -180,7 +180,7 @@ potremmo dire che la funzione principale a cui assolve il sito è presentare un�
 completa e aggiornata sul processo di realizzazione delle infrastrutture pubbliche.
 
 Individuare le funzioni a partire dalla lista dei bisogni
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le funzioni di un sito web servono a rispondere ai bisogni degli utenti. Un modo semplice 
 per mapparle è creare una tabella che mette in relazione bisogni e funzioni. Nel formulare 
@@ -236,7 +236,7 @@ che il sistema dovrà compiere per completare una macro-funzione.
 +--------------------------+------------------------------+----------------------------+
 
 Individuare le funzioni di front end e back end
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Le pagine di un sito sono i luoghi in cui le persone interagiscono con il sistema (**front end**); 
 il **back end** è il luogo in cui è possibile gestire i contenuti, i frutti delle interazioni, 
