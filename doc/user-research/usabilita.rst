@@ -1,8 +1,8 @@
 Usabilità
 ---------
 
-Definizione
-~~~~~~~~~~~
+Definizione corretta
+~~~~~~~~~~~~~~~~~~~~
 
 Per usabilità si intende "il grado in cui un prodotto può essere usato
 da particolari utenti per raggiungere certi obiettivi con efficacia,
@@ -48,13 +48,15 @@ Inoltre l’usabilità consente alle PA di:
 -  incentivare i cittadini a ritornare sul sito
 -  aumentare la fiducia dei cittadini nei confronti dell’amministrazione
 
-.. admonition:: SI DOVREBBE
+.. admonition:: SI DEVE
    
    Data l’importanza che l'usabilità riveste nell’interazione tra utente e
    applicazione web, è necessario riservare la massima attenzione alla progettazione
    orientata all'usabilità e alla relativa misurazione, mediante un processo di
    **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
    secondo un modello centrato sulla persona (human-centered).
+
+Ulteriore paragrafo
 
 Criteri di valutazione
 ~~~~~~~~~~~~~~~~~~~~~~
