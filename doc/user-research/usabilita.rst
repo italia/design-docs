@@ -56,8 +56,6 @@ Inoltre l’usabilità consente alle PA di:
    **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
    secondo un modello centrato sulla persona (human-centered).
 
-Ulteriore paragrafo
-
 Criteri di valutazione
 ~~~~~~~~~~~~~~~~~~~~~~
 
