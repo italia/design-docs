@@ -407,7 +407,7 @@ I bottoni sono realizzati utilizzando tre gradazioni di ottanio.
 .. raw:: html
    
    <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio scuro Bottone Focus #004a4d</p></div>
-   <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio medio Bottone #004a4d</p></div>
+   <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio medio Bottone #00C5CA</p></div>
    <div class="palette-example"><p><span class="lg-color-example" style="background:#00c5ca"></span>Ottanio chiaro Bottone Hover #00c5ca</p></div>
    <div class="clear"></div>
    
