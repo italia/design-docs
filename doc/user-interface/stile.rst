@@ -186,7 +186,7 @@ Formattazioni consigliate
                Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo. Non ne sarò l'artefice impaziente
             </p>
          </blockquote>
-         <small><strong>citazione</strong>: Titillium normal - corpo 18px, interlinea 1.55</small>
+         <small><strong>citazione</strong>: Titillium italic - corpo 18px, interlinea 1.55</small>
       </div>
 
       <div>
