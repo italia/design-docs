@@ -5,10 +5,6 @@ jobs:
     docker:
       - image: circleci/python:3.6.1
 
-    branches:
-      only:
-        - master
-
     working_directory: ~/design-doc
 
     steps:
