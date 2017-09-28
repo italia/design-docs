@@ -1,9 +1,16 @@
 Introduzione alle linee guida di design
 ---------------------------------------
 
-Le linee guida di design
-~~~~~~~~~~~~~~~~~~~~~~~~
-`Le linee guida per il design dei servizi digitali della Pubblica Amministrazione <http://design-italia.readthedocs.io/it/stable/index.html>`_ sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design, alla user research, al content design e alla user interface. Per discutere sul design dei servizi pubblici è disponibile il nostro forum. Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
+I cittadini al centro
+~~~~~~~~~~~~~~~~~~~~~
+**Designers Italia** considera le effettive esigenze degli utenti come punto di partenza per pensare, costruire e migliorare i servizi digitali. Grazie all’approccio human-centered è possibile: 
+
+ - coinvolgere cittadini e operatori in ogni momento del percorso progettuale, per capire le loro necessità, generare idee e validare le scelte progettuali in corso d’opera;
+ - modellare i servizi digitali sulla base di esigenze concrete e risorse esistenti;
+ - disegnare e sviluppare flussi di interazione chiari, che rispondano con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva;
+ - strutturare i contenuti in modo semplice, con uno stile comunicativo coerente e una strategia editoriale sostenibile nel tempo.
+
+`Le linee guida per il design dei servizi digitali della Pubblica Amministrazione <http://design-italia.readthedocs.io/it/stable/index.html>`_ sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al service design, alla user research, al content design e alla user interface. Per discutere sul design dei servizi pubblici è disponibile il nostro `forum <https://forum.italia.it/c/design>`_. Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
 
 Sviluppo collaborativo
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -44,7 +51,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 Consultazione della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 `La documentazione è disponibile su **Docs Italia** <http://design-italia.readthedocs.io/it/stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_. Le funzioni di hosting e di ricerca sono basate su `Readhtedocs  <https://readthedocs.org/>`_ e la documentazione viene pubblicata attraverso il tool `Sphinx  <http://www.sphinx-doc.org/en/stable/>`_
-e il linguaggio `Rst <http://docutils.sourceforge.net/rst.html>`_.
+e il linguaggio `RST <http://docutils.sourceforge.net/rst.html>`_.
 Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf
 
 Kit di sviluppo e di design
