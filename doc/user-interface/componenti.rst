@@ -9,23 +9,23 @@ Di seguito un esempio dello stile da utilizzare per i bottoni.
 I colori sono personalizzabili in base alla palette che sarà stata
 individuata per ciascun sito web. È possibile impostare le dimensioni
 dei bottoni utilizzando le `classi di utilità
-responsive <https://italia.github.io/ita-web-toolkit/components/detail/text--size.html>`__
+responsive <https://italia.github.io/design-web-toolkit/components/detail/text--size.html>`__
 (``u-text-r-*``).
 
 .. raw:: html
-   
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/button--default.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--default.html">mostra il codice</a></p>
+
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/button--default.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/button--default.html">mostra il codice</a></p>
 
 .. raw:: html
 
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/button--info.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--info.html">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/button--info.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/button--info.html">mostra il codice</a></p>
 
 .. raw:: html
-   
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/button--danger.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/button--danger.html">mostra il codice</a></p>
+
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/button--danger.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/button--danger.html">mostra il codice</a></p>
 
 Form
 ~~~~
@@ -41,9 +41,9 @@ Esempio di stile per form
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. raw:: html
-   
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/formtpl--example.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/formtpl--example.html">mostra il codice</a></p>
+
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/formtpl--example.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/formtpl--example.html">mostra il codice</a></p>
 
 Form errore
 ^^^^^^^^^^^
@@ -54,8 +54,8 @@ Form errore
 
 .. raw:: html
 
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/formtpl--errors.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/formtpl--errors.html">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/formtpl--errors.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/formtpl--errors.html">mostra il codice</a></p>
 
 Alert
 ^^^^^
@@ -70,39 +70,39 @@ Alert per errori
 ^^^^^^^^^^^^^^^^
 
 .. raw:: html
-   
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--error.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/alert--error.html">mostra il codice</a></p>
+
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/alert--error.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/alert--error.html">mostra il codice</a></p>
 
 Alert per messaggi di attenzione
 ''''''''''''''''''''''''''''''''
 
 .. raw:: html
 
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--warning.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/alert--warning.html">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/alert--warning.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/alert--warning.html">mostra il codice</a></p>
 
 Alert per messaggi di successo
 ''''''''''''''''''''''''''''''
 
 .. raw:: html
 
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--success.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/alert--success.html">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/alert--success.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/alert--success.html">mostra il codice</a></p>
 
 Alert per informazioni
 ''''''''''''''''''''''
 
 .. raw:: html
 
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/alert--info.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/alert--info.html">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/alert--info.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/alert--info.html">mostra il codice</a></p>
 
 Carousel
 ~~~~~~~~
 
 .. admonition:: SI DOVREBBE
-   
+
    Evitare l’utilizzo di carousel (slider) automatici.
 
 I dati statistici raccolti riguardo l’interazione degli utenti con i
@@ -142,7 +142,7 @@ Contenuti
 .. admonition:: SI DEVE
 
    La testata deve contenere le seguenti funzionalità:
-   
+
    - denominazione dell'amministrazione / ente / società / sito tematico (link **in formato testuale** che punta alla home page)
    - barra di accesso al livello gerarchico superiore dell'amministrazione (o all'amministrazione afferente nel caso di un sito tematico)
    - stemma / logo dell'amministrazione / ente / società / sito tematico
@@ -151,7 +151,7 @@ Contenuti
 .. admonition:: SI PUÒ
 
    La testata può inoltre contenere una o più delle seguenti funzionalità:
-   
+
    - campo di ricerca
    - accesso diretto ai servizi (al form di login)
    - link ai social network
@@ -196,7 +196,7 @@ Testo del titolo: bold-700 (32px su desktop).
 
 
 .. admonition:: SI DEVE
-   
+
    L'icona burger deve sempre essere accompagnata nella versione desktop (laddove presente) dall'etichetta "MENU".
 
 .. figure:: images/burger-menu.png
