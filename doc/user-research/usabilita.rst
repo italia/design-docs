@@ -19,20 +19,6 @@ progettazione è necessario pensare a chi utilizzerà realmente il
 servizio, e il modello di riferimento del progettista deve coincidere
 con quello dell’effettivo utilizzatore.
 
-User-centered design
-~~~~~~~~~~~~~~~~~~~~
-
-Lo user centered design è un insieme di tecniche usate per far emergere
-i bisogni effettivi delle persone per cui si sta progettando un
-contenuto, coinvolgendo le persone stesse nel processo di progettazione.
-Per "persone" si intendono tutti i portatori di interesse (stakeholder)
-del progetto. Nel caso della pubblica amministrazione:
-
--  Cittadini
--  Aziende
--  Dipendenti di altre amministrazioni o istituzioni
--  Committenti
-
 I vantaggi dell’usabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
