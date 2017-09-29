@@ -14,7 +14,7 @@ jobs:
       - run:
           name: install sphinx
           command: |
-            python -m venv .venv
+            virtualenv .venv
             source .venv/bin/activate
             pip install -q sphinx
 
