@@ -18,15 +18,16 @@ Le linee guida sono un documento pubblico, e chiunque può partecipare al proces
 
 I contenuti delle linee guida sono scritti in file .rst e possono essere aggiornati via GitHub. Qui è disponibile una `guida alla sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
 
-Sviluppo programmato
-Le linee guida di design seguono le roadmap di evoluzione pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_.
-
 **Altre risorse per l'editing in formato .rst:**
 
 | `Editor per il testo <http://rst.ninjs.org/>`_
 | `Editor per le tabelle <http://truben.no/table/>`_
 | `Estensione Chrome per Google spreadheet <https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
+
+Sviluppo programmato
+~~~~~~~~~~~~~~~~~~~~
+Le linee guida di design seguono le roadmap di evoluzione pubblicate in ciascuna delle sezioni di `Designers Italia <https://designers.italia.it/>`_.
 
 Version control e release della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
