@@ -319,7 +319,7 @@ In caso di fotografie provenienti da **archivi online** gratuiti o a pagamento, 
 
 Nel caso di fotografie realizzate autonomamente, **il consenso è invece necessario nella maggior parte dei casi**. Fanno eccezione le persone ritratte in **eventi di pubblico interesse** (una conferenza stampa, una manifestazione in piazza, una concerto) e le **persone famose** (in base al pubblico interesse, quindi ad esempio esponenti delle istituzioni, attori, personaggi pubblici), purché in contesti pubblici: in questi casi le fotografie si possono utilizzare senza una specifica autorizzazione. Altre eccezioni, previste per legge, sono “scopi di polizia, di giustizia, didattici o scientifici”.
 
-In tutti gli altri casi, per evitare violazioni della privacy, la pubblicazione di fotografie in un sito deve essere sempre autorizzata dai soggetti ritratti con una **lettera liberatoria** (di cui si trovano `numerosi modelli online<http://documentiutili.com/fac-simile-liberatoria-fotografica>`_), in cui si deve specificare l'utilizzo cui la foto è destinata (ad esempio, pubblicazione online sul blog dell'Ente).
+In tutti gli altri casi, per evitare violazioni della privacy, la pubblicazione di fotografie in un sito deve essere sempre autorizzata dai soggetti ritratti con una **lettera liberatoria** (di cui si trovano `numerosi modelli online <http://documentiutili.com/fac-simile-liberatoria-fotografica>`_), in cui si deve specificare l'utilizzo cui la foto è destinata (ad esempio, pubblicazione online sul blog dell'Ente).
 
 .. admonition:: SI DEVE
 
