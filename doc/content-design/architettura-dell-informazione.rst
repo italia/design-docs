@@ -49,6 +49,17 @@ all’analisi del contesto, è possibile definire le funzioni principali
 del sito e di ogni sua pagina. I contenuti diventano quindi parte
 integrante del servizio all’utente.
 
+Ecco, a titolo di esempio, alcune delle macro funzioni tipiche di un sito pubblico: 
+
+- identificare l'utente
+- consentire la prenotazione/iscrizione
+- consentire il pagamento (e più in generale, scambiare denaro)
+- informare, regolamentare
+- interagire, comunicare con l'utente
+- archiviare/conservare informazioni
+- proporre un lavoro a persone e aziende
+- autorizzare l'utente a fare qualcosa
+
 Gli utenti
 ~~~~~~~~~~
 
