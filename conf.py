@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import sys
+import os
+sys.path.append('./versioning')
+from github_releases import get_latest_release
+
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Linee guida di design per i servizi web della PA'
 settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
 settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
-settings_doc_version = '1'
-settings_doc_release = '1.0'
+settings_doc_version = get_latest_release('italia', 'design-doc')
+settings_doc_release = settings_doc_version
 settings_basename = 'LineeGuidaWebPA'
 settings_file_name = 'Linee-Guida-Web-PA'
-
-import sys
-import os
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
