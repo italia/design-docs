@@ -44,11 +44,11 @@
         <a href="https://teamdigitale.governo.it/" title="Team Digitale">Team Digitale</a>
     </div><!--/sh__institutional-->
     <div class="sh__tabs">
-    <ul class="sh__tabsul">      
+    <ul class="sh__tabsul">
       <li class="delimiter"><a  href="https://pianotriennale-ict.italia.it">Piano Triennale</a></li>
-      <li class=""><a href="https://developers.italia.it/">Developers</a></li>   
-      <li class="delimiter"><a  href="https://designers.italia.it">Designers</a></li>      
-      <li class=""><a href="https://forum.developers.italia.it/">Forum</a></li>
+      <li class=""><a href="https://developers.italia.it/">Developers</a></li>
+      <li class="delimiter"><a  href="https://designers.italia.it">Designers</a></li>
+      <li class=""><a href="https://forum.italia.it/">Forum</a></li>
       <li class="current"><a href="https://docs.developers.italia.it/">Docs</a></li>
       <li class=""><a href="https://github.com/italia/">Github</a></li>
     </ul>
@@ -96,10 +96,9 @@
                     {% if theme_logo_only %}
                     {% else %}
                     <h1 class="project-title"><a href="{{ pathto(master_doc) }}" > {{ project }} </a>
-                    {% if theme_display_version %} {%- set nav_version = version %} {% if READTHEDOCS and current_version %} {%- set nav_version = current_version
-                    %}{% endif %}
-                    {% if nav_version %}
-                    <span class="version">{{ nav_version }}</span>
+                      {% if theme_display_version %} {%- set nav_version = version %} {% if READTHEDOCS and current_version != 'stable' %} {%- set nav_version = current_version %} {% endif %}
+                      {% if nav_version %}
+                      <br/><small>versione: </small><span class="version">{{ nav_version }}</span>
                     </h1>
                     {% endif %} {% endif %} {% endif %} {% include "searchbox.html" %} {% endblock %}
                 </div>
