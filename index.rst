@@ -1,5 +1,5 @@
-Linee guida di design per i servizi web della PA
-++++++++++++++++++++++++++++++++++++++++++++++++
+Linee guida di design per i servizi digitali della PA
++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. toctree::
    :maxdepth: 2
