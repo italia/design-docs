@@ -1,5 +1,5 @@
-# Linee guida di design per i servizi web della PA
-Questo repository contiene il testo delle *Linee guida di design per i servizi web della PA* in formato reStructredText.
+# Linee guida di design per i servizi digitali della PA
+Questo repository contiene il testo delle *Linee guida di design per i servizi digitali della PA* in formato reStructredText.
 
 [Le linee guida per il design dei servizi digitali della Pubblica Amministrazione](http://design-italia.readthedocs.io/it/stable/index.html) sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al *service design*, alla *user research*, al *content design* e alla *user interface*. Per discutere sul design dei servizi pubblici [è disponibile il nostro forum](https://forum.italia.it/c/design). Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
 
@@ -9,7 +9,7 @@ Le linee guida sono un documento pubblico, e chiunque può partecipare al proces
 I contenuti delle linee guida sono scritti in file .rst e possono essere aggiornati via GitHub. Qui è disponibile una [guida alla sintassi RST](http://docutils.sourceforge.net/docs/user/rst/quickref.html)
 
 Altre risorse per l'editing in formato .rst sono:
-- [Editor per il testo](http://rst.ninjs.org/) 
+- [Editor per il testo](http://rst.ninjs.org/)
 - [Editor per le tabelle](http://truben.no/table/)
 - [Estensione Chrome per Google spreadheet](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold)
 - [Altro](http://docutils.sourceforge.net/docs/user/links.html#editors)
@@ -40,7 +40,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 - best practice
 
 ## Consultazione della documentazione
-[La documentazione è disponibile su **Docs Italia**](http://design-italia.readthedocs.io/it/stable/index.html), la piattaforma di gestione della documentazione pubblica creata da [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/). 
+[La documentazione è disponibile su **Docs Italia**](http://design-italia.readthedocs.io/it/stable/index.html), la piattaforma di gestione della documentazione pubblica creata da [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/).
 
 Le funzioni di hosting e di ricerca sono basate su [ReadTheDocs](https://readthedocs.org/) e la documentazione viene pubblicata attraverso il tool [Sphinx](http://www.sphinx-doc.org/en/stable/) e il linguaggio [RST](http://docutils.sourceforge.net/rst.html).
 
@@ -52,4 +52,3 @@ Il progetto di design dei servizi pubblici digitali prevede che oltre al rilasci
 I kit - e la documentazione dei kit - possono essere citati all'interno delle linee guida, ma non sono contenuti all'interno di questo repo. I kit sono espressione delle linee guida, ma il versionamento delle linee guida e quello dei kit sono processi indipendenti.
 
 Altre informazioni sui kit sono disponibili sul sito [**Designers Italia**](https://designers.italia.it)
-
