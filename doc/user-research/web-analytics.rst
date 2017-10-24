@@ -67,7 +67,7 @@ Metriche e Dimensioni
 
 I dati generati dalle piattaforme di web analytics sono il frutto di
 combinazioni eterogenee di metriche (dati quantitativi) e dimensioni
-(attributi qualitativi dei dati). Di seguito una panoramica esplicativa
+(attributi qualitativi dei dati). Si precisa che il numero reale dei visitatori conteggiati per un dato intervallo di tempo è soggetto a distorsioni — per eccesso o per difetto — dovute al fatto che il calcolo degli utenti in web analytics è basato su cookies e tende quindi a generare più o meno utenti unici al variare di determinate circostanze (accesso al sito da dispositivi diversi, browser diversi, cancellazione dei cookies). Di seguito una panoramica esplicativa
 delle principali metriche e dimensioni utilizzate nella web analysis. Si
 precisa che la nomenclatura di metriche e dimensioni può variare a
 seconda della piattaforma di analytics utilizzata.
