@@ -120,8 +120,8 @@ Esempio di tabella con CSS di default
 
 .. raw:: html
    
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/table--complex.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/table--complex">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/table--complex.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/table--complex">mostra il codice</a></p>
 
 Esempi di buona impaginazione delle tabelle
 '''''''''''''''''''''''''''''''''''''''''''
@@ -422,7 +422,7 @@ icone provenienti da un unico set grafico come, ad esempio, quelle
 disponibili gratuitamente su `Font
 Awesome <https://fortawesome.github.io/Font-Awesome/>`__ o il `set di
 icone incluso nel web
-toolkit <https://italia.github.io/ita-web-toolkit/components/detail/icons.html>`__
+toolkit <https://italia.github.io/design-web-toolkit/components/detail/icons.html>`__
 delle Linee Guida al quale è possibile contribuire proponendo
 integrazioni o modifiche.
 
