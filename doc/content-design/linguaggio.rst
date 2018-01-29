@@ -309,21 +309,3 @@ Immagini prese dai social network
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 I canali social (in particolare Facebook e Instagram) sono una rilevante fonte di immagini e contenuti multimediali, realizzati dagli utenti e caricati sui propri profili. La pubblicazione di una foto su un profilo social non è però **via libera all'utilizzo indiscriminato** da parte di chiunque. Il comportamento da tenere nei confronti di quella immagine è lo stesso che si deve tenere nei confronti di un'immagine raccolta da un blog o un qualsiasi sito, ovvero assicurarsi di avere **tutti i diritti di utilizzo** concessi espressamente (anche a titolo gratuito) dall'autore o il detentore dei diritti, che può essere chi ha pubblicato quella foto sul proprio canale social o può essere un altro soggetto.
-
-Consenso dei soggetti ritratti
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Un altro tema da tenere in considerazione quando si pubblicano immagini all'interno di un sito è il **consenso alla pubblicazione** da parte dei soggetti ritratti all'interno delle fotografie.
-
-In caso di fotografie provenienti da **archivi online** gratuiti o a pagamento, si può dare per acquisito che chi ha realizzato l'immagine o l'ha pubblicata si sia assicurato il consenso dei soggetti ritratti.
-
-Nel caso di fotografie realizzate autonomamente, **il consenso è invece necessario nella maggior parte dei casi**. Fanno eccezione le persone ritratte in **eventi di pubblico interesse** (una conferenza stampa, una manifestazione in piazza, una concerto) e le **persone famose** (in base al pubblico interesse, quindi ad esempio esponenti delle istituzioni, attori, personaggi pubblici), purché in contesti pubblici: in questi casi le fotografie si possono utilizzare senza una specifica autorizzazione. Altre eccezioni, previste per legge, sono “scopi di polizia, di giustizia, didattici o scientifici”.
-
-In tutti gli altri casi, per evitare violazioni della privacy, la pubblicazione di fotografie in un sito deve essere sempre autorizzata dai soggetti ritratti con una **lettera liberatoria** (di cui si trovano `numerosi modelli online <http://documentiutili.com/fac-simile-liberatoria-fotografica>`_), in cui si deve specificare l'utilizzo cui la foto è destinata (ad esempio, pubblicazione online sul blog dell'Ente).
-
-.. admonition:: SI DEVE
-
-   Nel caso di foto che ritraggono **minori** (si pensi ad esempio alla pubblicazione 
-   sul sito di una scuola delle foto di una recita) è sempre necessaria 
-   l'autorizzazione scritta da parte di un adulto che abbia il diritto 
-   a concederla (ad esempio un genitore o un tutore).
