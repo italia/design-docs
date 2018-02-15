@@ -49,7 +49,7 @@ Aspetto
 
 -  **Contrasto tra primo piano e sfondo**: il testo e il relativo sfondo
    (compreso il testo contenuto nelle immagini), devono rispettare un
-   preciso rapporto di contrasto, basato su un algoritmo. I logotipi, il testo di grandi dimensioni (`18 punti
+   preciso rapporto di contrasto, basato su un `algoritmo <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-resources-head>`__. I logotipi, il testo di grandi dimensioni (`18 punti
    o 14 grassetto <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#larger-scaledef>`__)
    e il testo volutamente reso poco visibile (es. azioni
    inattive) non rientrano in questo controllo.
