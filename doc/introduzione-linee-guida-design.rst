@@ -55,7 +55,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 
 Consultazione della documentazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-`La documentazione è disponibile su **Docs Italia** <http://design-italia.readthedocs.io/it/stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_. Le funzioni di hosting e di ricerca sono basate su `Readhtedocs  <https://readthedocs.org/>`_ e la documentazione viene pubblicata attraverso il tool `Sphinx  <http://www.sphinx-doc.org/en/stable/>`_
+`La documentazione è disponibile su *Docs Italia* <http://design-italia.readthedocs.io/it/stable/index.html>`_, la piattaforma di gestione della documentazione pubblica creata da `Team per la Trasformazione Digitale <https://teamdigitale.governo.it/>`_. Le funzioni di hosting e di ricerca sono basate su `Readhtedocs  <https://readthedocs.org/>`_ e la documentazione viene pubblicata attraverso il tool `Sphinx  <http://www.sphinx-doc.org/en/stable/>`_
 e il linguaggio `RST <http://docutils.sourceforge.net/rst.html>`_.
 Tutti i documenti di Docs Italia possono essere fruiti anche in formato .epub e .pdf
 
