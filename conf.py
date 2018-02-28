@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import sys
-import os
-docs_italia_theme = __import__("docs-italia-theme")
-
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Linee guida di design per i servizi digitali della PA'
-settings_copyright_copyleft = 'CC-BY 3.0 - Agenzia per l\'Italia Digitale'
-settings_editor_name = 'AgID - Agenzia per l\'Italia Digitale'
+settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
+settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
 settings_basename = 'LineeGuidaWebPA'
 settings_file_name = 'Linee-Guida-Web-PA'
 
+import sys
+import os
+docs_italia_theme = __import__("docs-italia-theme")
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
@@ -28,7 +27,7 @@ extensions = [
 ]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+#templates_path = ['_templates']
 
 # The suffix of source filenames.
 source_suffix = '.rst'
@@ -71,31 +70,27 @@ exclude_patterns = ['.DS_Store', '.venv', ]
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
 
-# -- Options for HTML output ----------------------------------------------
-html_theme = 'docs-italia-theme'
-
-html_theme_path = [docs_italia_theme.get_html_theme_path()]
-
 # -- ReadTheDoc requirements and local template generation---------------------
 
 # on_rtd is whether we are on readthedocs.org, this line of code grabbed from docs.readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
 
-if not on_rtd:  # only import and set the theme if we're building docs locally
-    html_theme = 'docs-italia-theme'
-    # html_theme_path = [docs_italia_theme.get_html_theme_path()]
-else:
-    # Override default css to get a larger width for ReadTheDoc build
-    html_context = {
+if on_rtd:  # only import and set the theme if we're building docs locally
+        html_context = {
         'css_files': [
             '_static/css/theme.css',
-            '_static/css/custom.css',
+            '_static/css/badge_only.css',
         ],
     }
 
+# -- Options for HTML output ----------------------------------------------
+html_theme = 'docs-italia-theme'
+
+html_theme_path = [docs_italia_theme.get_html_theme_path()]
+
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = settings_project_name
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
