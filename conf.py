@@ -5,7 +5,6 @@
 settings_project_name = 'Linee guida di design per i servizi digitali della PA'
 settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
 settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
-settings_basename = 'LineeGuidaWebPA'
 settings_file_name = 'Linee-Guida-Web-PA'
 
 import sys
@@ -156,7 +155,7 @@ html_last_updated_fmt = '%d/%m/%Y'
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = settings_basename + 'doc'
+htmlhelp_basename = settings_file_name + 'doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
