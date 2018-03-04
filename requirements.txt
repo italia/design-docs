@@ -1,2 +1,2 @@
 git+https://github.com/pdavide/sphinxcontrib-versiontag
-git+https://github.com/pdavide/docs-italia-theme@l10n
+git+https://github.com/italia/docs-italia-theme
