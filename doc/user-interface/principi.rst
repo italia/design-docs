@@ -41,7 +41,7 @@ semplificazione delle interfacce in ottica *mobile first*, e un’attenzione
 particolare nel fornire un'esperienza soddisfacente anche a coloro che hanno
 difficoltà visive o motorie.
 
-.. note:: Nota
+.. note::
    È possibile approfondire l'argomento accessibilità nel `paragrafo
    dedicato <service-design/accessibilita.html>`_ nella sezione sul Service
    Design.

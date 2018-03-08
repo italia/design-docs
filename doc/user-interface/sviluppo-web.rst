@@ -217,9 +217,9 @@ le **performance di esecuzione** della pagina stessa.
 
 Per analizzare i tempi di caricamento e *rendering* della pagina web si possono
 utilizzare semplici strumenti online come `Google PageSpeed
-Insights <https://developers.google.com/speed/pagespeed/insights/>`,
-`WebPagetest.org <http://www.webpagetest.org/>` o tool di integrazione più
-avanzati come `sitespeed.io <https://www.sitespeed.io/>`. Con questi strumenti,
+Insights <https://developers.google.com/speed/pagespeed/insights/>`_,
+`WebPagetest.org <http://www.webpagetest.org/>`_ o tool di integrazione più
+avanzati come `sitespeed.io <https://www.sitespeed.io/>`_. Con questi strumenti,
 è possibile verificare problemi di immediata risoluzione, come l’utilizzo di
 immagini esageratamente grandi o poco ottimizzate, oppure calibrare altri
 fattori, come sfruttare al meglio il caching del browser o dare priorità ai
@@ -234,7 +234,7 @@ delle prestazioni presenti in
 i quali possono dare indicazioni su eventuali problemi che avvengono durante
 la navigazione stessa di una singola pagina.
 
-.. note:: Nota
+.. note::
    Chrome developer tools può inoltre fornire un'analisi approfondita di una
    pagina web nella sua sezione *"Audits"*, permettendo di portare a galla
    problemi in ambito di *progressive web apps*, *performance*,
