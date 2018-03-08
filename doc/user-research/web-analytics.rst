@@ -343,7 +343,7 @@ web analytics.
 Per un approfondimento sul tema, si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
 Gli strumenti (Matomo/Piwik e Google Analytics)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Di seguito proponiamo una serie di link di approfondimento per
 comprendere come installare/configurare nella maniera corretta due fra
@@ -352,7 +352,7 @@ le principali piattaforme di web analytics gratuite, **Matomo/Piwik**
 commerciale).
 
 Matomo/Piwik
-^^^^^
+^^^^^^^^^^^^
 
 -  `Installazione e configurazione di Matomo/Piwik
    <https://piwik.org/docs/installation/>`__
