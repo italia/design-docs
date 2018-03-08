@@ -43,7 +43,7 @@ difficoltà visive o motorie.
 
 .. note:: Nota
    È possibile approfondire l'argomento accessibilità nel `paragrafo
-   dedicato <service-design/accessibilita.html>` nella sezione sul Service
+   dedicato <service-design/accessibilita.html>`_ nella sezione sul Service
    Design.
 
 
@@ -52,7 +52,7 @@ Mobile First
 
 L’approccio mobile first è, assieme all’utilizzo di *progressive enhancement*
 trattato al paragrafo `Progressive Enhancement e Graceful
-Degradation <user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`,
+Degradation <user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`_,
 una pratica oramai consolidata, in contrapposizione al metodo tradizionale di
 progettare per desktop.
 

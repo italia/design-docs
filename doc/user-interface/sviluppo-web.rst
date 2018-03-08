@@ -66,7 +66,7 @@ dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere
 al sito, con lo scopo di abbracciare una base di utenti che copra più del
 **95% delle versioni utilizzate in Italia**. Per fare questo, ci si può avvalere
 di diverse sorgenti di dati: una delle più usate è
-`StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`.
+`StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_.
 
 Come ampiamente descritto nel paragrafo precedente, non è necessario che
 l’interfaccia del sito sia assolutamente identica sui diversi dispositivi;
@@ -144,18 +144,18 @@ Strumenti e risorse
 
 Gli strumenti più curati per la realizzazione di interfacce coerenti con le
 linee guida di design sono disponibili nella sezione
-`Web Toolkit <https://designers.italia.it/kit/web-toolkit/>` della community di
+`Web Toolkit <https://designers.italia.it/kit/web-toolkit/>`_ della community di
 *Designers Italia*.
 
 Tra i progetti open-source disponibili in rete,
-`Modernizr <https://modernizr.com/>` è la libreria
+`Modernizr <https://modernizr.com/>`_ è la libreria
 Javascript più usata per la feature detection, poiché può essere facilmente
 personalizzata con le feature che si desidera verificare e aggiunge comode
 classi al tag HTML per far sì che, in base alle *feature* identificate, si
 riesca a modellare la pagina attraverso CSS.
 
 Una fonte di dati molto utile invece per una verifica a monte delle feature
-disponibili nei browser è `caniuse.com <https://caniuse.com/>`. Tale strumento
+disponibili nei browser è `caniuse.com <https://caniuse.com/>`_. Tale strumento
 permette di ricercare e verificare se per i browser supportati è necessaria
 una gestione ad-hoc di determinate funzionalità oppure no.
 
@@ -163,12 +163,12 @@ Una volta individuati i dispositivi supportati e le feature da realizzare,
 è buona norma scegliere uno stack di sviluppo che ottimizzi il lavoro.
 
 In ambito CSS, è ormai pressoché d'obbligo l'utilizzo di **pre-processori**
-(come `SASS <https://sass-lang.com/>`, `LESS <http://lesscss.org/>`,
-`Stylus <http://lesscss.org/>` o `PostCSS <http://postcss.org/>`, per citare i
+(come `SASS <https://sass-lang.com/>`_, `LESS <http://lesscss.org/>`_,
+`Stylus <http://lesscss.org/>`_ o `PostCSS <http://postcss.org/>`_, per citare i
 principali), che migliorano drasticamente la leggibilità e la modularità del
 codice sorgente, agevolando nel contempo l'applicazione di pratiche virtuose
-quali l'utilizzo di `BEM <http://getbem.com/>`, una metodologia per scrivere
-classi CSS “parlanti”, o di `Autoprefixer <https://autoprefixer.github.io/>`,
+quali l'utilizzo di `BEM <http://getbem.com/>`_, una metodologia per scrivere
+classi CSS “parlanti”, o di `Autoprefixer <https://autoprefixer.github.io/>`_,
 per la gestione automatica di prefissi CSS a supporto dei vari motori di
 rendering presenti nei browser.
 
@@ -177,8 +177,8 @@ ampia e mutevole che delineare uno scenario ottimale in termini di framework o
 librerie non avrebbe senso senza un’analisi approfondita del progetto da
 realizzare. In questo ambito è necessaria una formazione continua (le risorse
 sul web non mancano, un paio su tutte sono la
-`guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`
-e `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`,
+`guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`_
+e `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`_,
 in inglese), e un'attenzione particolare a ciò che permetta di ottenere codice
 **manutenibile**, **scalabile** e **performante**, senza appesantire
 l'esecuzione e l'interfaccia utente.
@@ -187,20 +187,20 @@ Alcune pratiche sono comunque sempre auspicabili, come la **compressione** del
 codice e il caricamento dei file Javascript stessi in modo **asincrono** oppure
 al termine della pagina HTML, al fine di non bloccare il rendering della pagina
 stessa; o ancora, l’utilizzo di strumenti di **analisi della sintassi** come
-`ESLint <https://eslint.org/>` o `StyleLint <https://stylelint.io/>` per rendere
+`ESLint <https://eslint.org/>`_ o `StyleLint <https://stylelint.io/>`_ per rendere
 il codice leggibile e coerente con regole condivise dalla comunità degli
 sviluppatori.
 
 In caso di applicazioni complesse o di grandi dimensioni, è bene considerare
-l’utilizzo di strumenti come `Rollup <https://rollupjs.org/>` o
-`Webpack <https://webpack.js.org/>` per la gestione di codice modulare,
-`Babel <https://babeljs.io/>` per l’uso di Ecmascript come codice sorgente, e
+l’utilizzo di strumenti come `Rollup <https://rollupjs.org/>`_ o
+`Webpack <https://webpack.js.org/>`_ per la gestione di codice modulare,
+`Babel <https://babeljs.io/>`_ per l’uso di Ecmascript come codice sorgente, e
 più in generale l’utilizzo dell’ecosistema node.js (attraverso *npm* o *yarn*)
 per la gestione di dipendenze.
 
 Per questo tipo di applicazioni con uso intensivo di Javascript, anche la
 metodologia di lavoro è fondamentale: un approccio
-`BDD <https://it.wikipedia.org/wiki/Behavior-driven_development>` per la stesura
+`BDD <https://it.wikipedia.org/wiki/Behavior-driven_development>`_ per la stesura
 delle funzionalità, e l’uso della stessa metodologia per l’applicazione di test
 funzionali, unit test e test di integrazione, può essere elemento chiave per
 il buon funzionamento e la solidità dell’applicazione.
@@ -229,8 +229,8 @@ Per ottenere invece informazioni più dettagliate riguardo eventuali
 inefficienze di codice a *runtime*, si può fare riferimento agli strumenti di
 analisi presenti sui principali browser, come gli ottimi tools per l’analisi
 delle prestazioni presenti in
-`Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>` e
-`Chrome <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/>`,
+`Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>`_ e
+`Chrome <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/>`_,
 i quali possono dare indicazioni su eventuali problemi che avvengono durante
 la navigazione stessa di una singola pagina.
 
