@@ -42,17 +42,16 @@ particolare nel fornire un'esperienza soddisfacente anche a coloro che hanno
 difficoltà visive o motorie.
 
 .. note::
-   È possibile approfondire l'argomento accessibilità nel `paragrafo
-   dedicato <service-design/accessibilita.html>`_ nella sezione sul Service
-   Design.
+   È possibile approfondire l'argomento nella `sezione dedicata all'accessibilità
+   <../service-design/accessibilita.html>`__ nell'area Service Design.
 
 
 Mobile First
 ~~~~~~~~~~~~
 
 L’approccio mobile first è, assieme all’utilizzo di *progressive enhancement*
-trattato al paragrafo `Progressive Enhancement e Graceful
-Degradation <user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`_,
+trattato al paragrafo `Progressive Enhancement e Graceful Degradation
+<../user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`__,
 una pratica oramai consolidata, in contrapposizione al metodo tradizionale di
 progettare per interfacce desktop.
 

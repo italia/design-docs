@@ -32,19 +32,13 @@ il buon funzionamento e la solidità dell’applicazione.
 Progressive Enhancement e Graceful Degradation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nella `sezione <user-interface/pricipi.html#mobile-first>`_ dedicata al
-paradigma mobile first era stato introdotto brevemente il principio di
-*progressive enhancement*, in quanto fondante per uno sviluppo web flessibile a
-prova di future evoluzioni di dispositivi e browser. Tale principio è spesso
-associato a quello di *graceful degradation*, che andremo a descrivere di seguito.
+Per *progressive enhancement* si intende una pratica fondante per lo sviluppo di
+una nuova applicazione web flessibile e a prova di future evoluzioni di
+dispositivi e browser, con la quale la lavorazione inizia da un nucleo solido e
+irrinunciabile di contenuti che vengono via via **arricchiti** man mano che il
+dispositivo utilizzato dal cittadino è più performante e all’avanguardia.
 
-Per progressive enhancement si intende una pratica **raccomandabile** nello
-sviluppo di una nuova applicazione web, con la quale l'approccio allo sviluppo
-inizia da un nucleo solido e irrinunciabile di contenuti che vengono
-**arricchiti** via via che il dispositivo utilizzato dal cittadino è più
-performante e all’avanguardia.
-
-Al contrario, nel caso della graceful degradation, con la programmazione ci
+Al contrario, nel caso della *graceful degradation*, con la programmazione ci
 si fa carico di verificare che l’interfaccia, inizialmente pensata per i
 dispositivi più moderni, rimanga navigabile e permetta comunque di accedere
 alle sue funzioni fondamentali anche man mano che viene fruita attraverso
@@ -229,7 +223,7 @@ pagina.
 
 - `Google PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/>`_
 - `WebPagetest.org <http://www.webpagetest.org/>`_
-- `Analisi delle prestazioni su `Mozilla Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>`_,
+- Analisi delle prestazioni su `Mozilla Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>`_,
   `Google Chrome <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/>`_,
   `Microsoft Edge <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/performance>`_
 
