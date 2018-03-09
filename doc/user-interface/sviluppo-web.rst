@@ -1,12 +1,8 @@
 Sviluppo Web
 -----------
 
-La realizzazione di un sito web professionale per un servizio della PA
-prevede, come abbiamo visto, un iter di progettazione approfondito e
-sistematico.
-
-Oltre a questo, durante le fasi iniziali dello sviluppo, è fondamentale
-dedicare tempo e risorse ad alcune attività molto importanti, che avranno
+Durante le fasi iniziali dello sviluppo di un sito web professionale, è di
+fondamentale importanza dedicare tempo e risorse ad alcune attività che avranno
 impatto sull'intero ciclo di vita del progetto:
 
 * una analisi di **componenti** (librerie, linguaggi, documentazione, ecc.) e
@@ -16,34 +12,42 @@ impatto sull'intero ciclo di vita del progetto:
   **documento di specifiche** condiviso, che possa anche definire **ruoli** e
   **responsabilità**
 * la selezione di una metodologia di **sviluppo agile** ottimale per il team di
-  lavoro, e una definizione precisa delle procedure di comunicazione, di
-  testing e di rilascio
+  lavoro, con una conseguente definizione precisa delle procedure di
+  comunicazione, di testing e di rilascio cadenzato
 
 Contestualmente a questa fase di *kick-off* tecnico, è auspicabile avviare sin
 da subito una fase di prototipazione avanzata, con la quale iniziare a
-validare in modo iterativo ogni progresso raggiunto. Questo può essere
+validare in modo iterativo ogni progresso raggiunto. Questo obiettivo può essere
 ottenuto sia con classici test manuali, che attraverso un’adeguata *continuous
 integration* che faccia uso di test automatici.
+
+In caso di applicazioni ad alta interattività o di grandi dimensioni, anche la
+metodologia di lavoro è fondamentale: un approccio
+`BDD <https://it.wikipedia.org/wiki/Behavior-driven_development>`_ per la stesura
+delle funzionalità, e l’uso della stessa metodologia per l’applicazione di test
+funzionali, unit test e test di integrazione, possono essere elementi chiave per
+il buon funzionamento e la solidità dell’applicazione.
 
 
 Progressive Enhancement e Graceful Degradation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nel paragrafo dedicato al paradigma mobile first era stato introdotto
-brevemente il principio di *progressive enhancement*, in quanto fondante per
-uno sviluppo web flessibile e a prova di future evoluzioni di dispositivi e
-browser. Tale principio è spesso associato a quello di *graceful degradation*,
-che andremo a descrivere di seguito.
+Nella `sezione <user-interface/pricipi.html#mobile-first>`_ dedicata al
+paradigma mobile first era stato introdotto brevemente il principio di
+*progressive enhancement*, in quanto fondante per uno sviluppo web flessibile a
+prova di future evoluzioni di dispositivi e browser. Tale principio è spesso
+associato a quello di *graceful degradation*, che andremo a descrivere di seguito.
 
 Per progressive enhancement si intende una pratica **raccomandabile** nello
-sviluppo di una nuova applicazione web, con la quale si inizia da un nucleo
-solido e irrinunciabile di contenuti che vengono **arricchiti** via via che il
-dispositivo utilizzato dal cittadino è più performante e all’avanguardia.
+sviluppo di una nuova applicazione web, con la quale l'approccio allo sviluppo
+inizia da un nucleo solido e irrinunciabile di contenuti che vengono
+**arricchiti** via via che il dispositivo utilizzato dal cittadino è più
+performante e all’avanguardia.
 
 Al contrario, nel caso della graceful degradation, con la programmazione ci
 si fa carico di verificare che l’interfaccia, inizialmente pensata per i
 dispositivi più moderni, rimanga navigabile e permetta comunque di accedere
-alle sue funzioni fondamentali anche man mano che viene usata attraverso
+alle sue funzioni fondamentali anche man mano che viene fruita attraverso
 tecnologie meno moderne o meno interattive.
 
 In questo caso, si può pensare anche in termini di *tolleranza* del sito
@@ -61,7 +65,8 @@ Come regola generale, per la realizzazione di un servizio web per la PA, è
 necessario assicurare la compatibilità con versioni dei browser che abbiano
 una penetrazione media tra la popolazione di almeno **1 persona ogni 100
 abitanti**.
-È importante analizzare regolarmente le statistiche sull’utilizzo dei
+
+È buona norma analizzare regolarmente le statistiche sull’utilizzo dei
 dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere
 al sito, con lo scopo di abbracciare una base di utenti che copra più del
 **95% delle versioni utilizzate in Italia**. Per fare questo, ci si può avvalere
@@ -69,9 +74,9 @@ di diverse sorgenti di dati: una delle più usate è
 `StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_.
 
 Come ampiamente descritto nel paragrafo precedente, non è necessario che
-l’interfaccia del sito sia assolutamente identica sui diversi dispositivi;
+l’interfaccia di un sito web sia assolutamente identica sui diversi dispositivi;
 graceful degradation significa tuttavia garantire un’esperienza utente
-**equivalente**, graficamente **coerente** e **completa** nelle sue
+**equivalente**, graficamente **coerente**, e **completa** nelle sue
 funzionalità. Vediamo come sia possibile farlo.
 
 
@@ -85,7 +90,7 @@ cittadino.
 
 .. admonition:: Nota
    Si prega di non confondere la feature detection con la pratica, in passato
-   molto diffusa, di utilizzare lo user-agent (ovvero quale browser e quale
+   molto diffusa, di utilizzare lo *user-agent* (ovvero quale browser e quale
    sistema operativo è connesso) per differenziare i servizi forniti. È
    infatti scoraggiato l'utilizzo di user-agent a tale scopo, in quanto
    impreciso e difficilmente mantenibile vista la quantità di diversi
@@ -103,7 +108,7 @@ versioni diverse di una pagina web a seconda che il cittadino stia utilizzando
 uno smartphone, un televisore o voglia stampare la pagina stessa con la
 propria stampante.
 
-Sia CSS che Javascript permettono quindi di rilevare la presenza puntuale di
+Sia CSS che Javascript permettono di rilevare la presenza puntuale di
 determinate caratteristiche nei dispositivi usati.
 
 Javascript permette di analizzare qualsiasi funzionalità presente tra le Web
@@ -142,11 +147,6 @@ seguito ne sono riportate alcuni.
 Strumenti e risorse
 ~~~~~~~~~~~~~~~~~~~
 
-Gli strumenti più curati per la realizzazione di interfacce coerenti con le
-linee guida di design sono disponibili nella sezione
-`Web Toolkit <https://designers.italia.it/kit/web-toolkit/>`_ della community di
-*Designers Italia*.
-
 Tra i progetti open-source disponibili in rete,
 `Modernizr <https://modernizr.com/>`_ è la libreria
 Javascript più usata per la feature detection, poiché può essere facilmente
@@ -163,47 +163,46 @@ Una volta individuati i dispositivi supportati e le feature da realizzare,
 è buona norma scegliere uno stack di sviluppo che ottimizzi il lavoro.
 
 In ambito CSS, è ormai pressoché d'obbligo l'utilizzo di **pre-processori**
-(come `SASS <https://sass-lang.com/>`_, `LESS <http://lesscss.org/>`_,
-`Stylus <http://lesscss.org/>`_ o `PostCSS <http://postcss.org/>`_, per citare i
-principali), che migliorano drasticamente la leggibilità e la modularità del
-codice sorgente, agevolando nel contempo l'applicazione di pratiche virtuose
-quali l'utilizzo di `BEM <http://getbem.com/>`_, una metodologia per scrivere
-classi CSS “parlanti”, o di `Autoprefixer <https://autoprefixer.github.io/>`_,
-per la gestione automatica di prefissi CSS a supporto dei vari motori di
-rendering presenti nei browser.
+(*SASS*, *LESS*, e *PostCSS* sono i più utilizzati), che migliorano la leggibilità e
+la modularità del codice sorgente, agevolando nel contempo l'applicazione di
+pratiche virtuose quali l'utilizzo di *BEM*, una metodologia per scrivere
+classi CSS “parlanti”, o di Autoprefixer per la gestione automatica di prefissi
+CSS a supporto dei vari motori di rendering presenti nei browser.
+
+- `SASS <https://sass-lang.com/>`_
+- `LESS <http://lesscss.org/>`_
+- `PostCSS <http://postcss.org/>`_
+- `BEM <http://getbem.com/>`_
+- `Autoprefixer <https://autoprefixer.github.io/>`_
 
 Per quanto riguarda Javascript invece, la scelta degli strumenti è talmente
 ampia e mutevole che delineare uno scenario ottimale in termini di framework o
 librerie non avrebbe senso senza un’analisi approfondita del progetto da
-realizzare. In questo ambito è necessaria una formazione continua (le risorse
-sul web non mancano, un paio su tutte sono la
-`guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`_
-e `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`_,
-in inglese), e un'attenzione particolare a ciò che permetta di ottenere codice
+realizzare. In questo ambito è necessaria una formazione continua, e
+un'attenzione particolare a ciò che permetta di ottenere codice
 **manutenibile**, **scalabile** e **performante**, senza appesantire
 l'esecuzione e l'interfaccia utente.
+
+Alcune risorse interessanti, in inglese:
+
+- `guida di MDN <https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics>`_
+- `You don’t know JS <https://www.gitbook.com/book/maximdenisov/you-don-t-know-js/details>`_
 
 Alcune pratiche sono comunque sempre auspicabili, come la **compressione** del
 codice e il caricamento dei file Javascript stessi in modo **asincrono** oppure
 al termine della pagina HTML, al fine di non bloccare il rendering della pagina
 stessa; o ancora, l’utilizzo di strumenti di **analisi della sintassi** come
-`ESLint <https://eslint.org/>`_ o `StyleLint <https://stylelint.io/>`_ per rendere
-il codice leggibile e coerente con regole condivise dalla comunità degli
-sviluppatori.
+ESLint o StyleLint per rendere il codice leggibile e coerente con regole
+condivise dalla comunità degli sviluppatori.
 
-In caso di applicazioni complesse o di grandi dimensioni, è bene considerare
-l’utilizzo di strumenti come `Rollup <https://rollupjs.org/>`_ o
-`Webpack <https://webpack.js.org/>`_ per la gestione di codice modulare,
-`Babel <https://babeljs.io/>`_ per l’uso di Ecmascript come codice sorgente, e
-più in generale l’utilizzo dell’ecosistema node.js (attraverso *npm* o *yarn*)
-per la gestione di dipendenze.
+- `ESLint <https://eslint.org/>`_
+- `StyleLint <https://stylelint.io/>`_
 
-Per questo tipo di applicazioni con uso intensivo di Javascript, anche la
-metodologia di lavoro è fondamentale: un approccio
-`BDD <https://it.wikipedia.org/wiki/Behavior-driven_development>`_ per la stesura
-delle funzionalità, e l’uso della stessa metodologia per l’applicazione di test
-funzionali, unit test e test di integrazione, può essere elemento chiave per
-il buon funzionamento e la solidità dell’applicazione.
+Per avvicinarci alle esigenze di PA e fornitori in questa fase, abbiamo messo
+a disposizione strumenti e codice *open-source* per la realizzazione di
+interfacce coerenti con le linee guida di design nella sezione
+`Web Toolkit <https://designers.italia.it/kit/web-toolkit/>`_ della community di
+*Designers Italia*.
 
 
 Misurare le prestazioni
@@ -216,23 +215,23 @@ sull'esperienza finale dell'utente: i **tempi di caricamento** della pagina e
 le **performance di esecuzione** della pagina stessa.
 
 Per analizzare i tempi di caricamento e *rendering* della pagina web si possono
-utilizzare semplici strumenti online come `Google PageSpeed
-Insights <https://developers.google.com/speed/pagespeed/insights/>`_,
-`WebPagetest.org <http://www.webpagetest.org/>`_ o tool di integrazione più
-avanzati come `sitespeed.io <https://www.sitespeed.io/>`_. Con questi strumenti,
-è possibile verificare problemi di immediata risoluzione, come l’utilizzo di
-immagini esageratamente grandi o poco ottimizzate, oppure calibrare altri
-fattori, come sfruttare al meglio il caching del browser o dare priorità ai
-contenuti immediatamente visibili.
+utilizzare semplici strumenti online come *Google PageSpeed*, *WebPagetest.org*.
+Con questi strumenti, è possibile verificare problemi di immediata risoluzione,
+come l’utilizzo di immagini esageratamente grandi o poco ottimizzate, oppure
+calibrare altri fattori, come sfruttare al meglio il caching del browser o dare
+priorità ai contenuti immediatamente visibili.
 
 Per ottenere invece informazioni più dettagliate riguardo eventuali
-inefficienze di codice a *runtime*, si può fare riferimento agli strumenti di
-analisi presenti sui principali browser, come gli ottimi tools per l’analisi
-delle prestazioni presenti in
-`Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>`_ e
-`Chrome <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/>`_,
-i quali possono dare indicazioni su eventuali problemi che avvengono durante
-la navigazione stessa di una singola pagina.
+inefficienze di codice a *runtime*, si può fare riferimento ai strumenti di
+analisi presenti sui principali browser, i quali possono dare indicazioni su
+eventuali problemi che avvengono durante la navigazione stessa di una singola
+pagina.
+
+- `Google PageSpeed Insights <https://developers.google.com/speed/pagespeed/insights/>`_
+- `WebPagetest.org <http://www.webpagetest.org/>`_
+- `Analisi delle prestazioni su `Mozilla Firefox <https://developer.mozilla.org/it/docs/Tools/Prestazioni>`_,
+  `Google Chrome <https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/>`_,
+  `Microsoft Edge <https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/performance>`_
 
 .. note::
    Chrome developer tools può inoltre fornire un'analisi approfondita di una

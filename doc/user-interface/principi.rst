@@ -54,7 +54,7 @@ L’approccio mobile first è, assieme all’utilizzo di *progressive enhancemen
 trattato al paragrafo `Progressive Enhancement e Graceful
 Degradation <user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`_,
 una pratica oramai consolidata, in contrapposizione al metodo tradizionale di
-progettare per desktop.
+progettare per interfacce desktop.
 
 Esso consiste nel valutare in prima istanza l’esperienza e le necessità per
 gli utilizzatori di dispositivi mobili, per poi arricchire di elementi e
