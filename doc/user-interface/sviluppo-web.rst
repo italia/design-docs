@@ -1,5 +1,5 @@
 Sviluppo Web
------------
+------------
 
 Durante le fasi iniziali dello sviluppo di un sito web professionale, è di
 fondamentale importanza dedicare tempo e risorse ad alcune attività che avranno
