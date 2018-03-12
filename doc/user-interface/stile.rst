@@ -200,17 +200,6 @@ Formattazioni consigliate
 Colore del testo
 ^^^^^^^^^^^^^^^^
 
-Generalmente il colore del testo deve essere nero (#1C2024) o grigio
-(#5A6772) su fondo bianco (#FFFFFF). Viceversa per le composizioni in
-negativo. Dove necessario possono essere usati colori diversi dal nero e
-dal grigio purché sia garantito un rapporto di contrasto minimo tra
-testo e sfondo di 4,5:1 (AA), come stabilito dalle specifiche di
-accessibilità. La verifica del rapporto di contrasto può essere
-facilmente effettuata attraverso molti tool online.
-
--  `esempio di strumento online per la verifica del contrasto
-   colori <http://snook.ca/technical/colour_contrast/colour.html>`__
-
 .. admonition:: SI DOVREBBE
 
    Per una maggiore coerenza della user experience si suggerisce, per quanto riguarda i testi, l’adozione del seguente sistema cromatico.
