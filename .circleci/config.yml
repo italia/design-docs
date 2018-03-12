@@ -17,6 +17,7 @@ jobs:
             virtualenv .venv
             source .venv/bin/activate
             pip install -q sphinx
+            pip install -r requirements.txt
 
       # sphinx build
       - run:

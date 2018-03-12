@@ -67,7 +67,7 @@ Metriche e Dimensioni
 
 I dati generati dalle piattaforme di web analytics sono il frutto di
 combinazioni eterogenee di metriche (dati quantitativi) e dimensioni
-(attributi qualitativi dei dati). Di seguito una panoramica esplicativa
+(attributi qualitativi dei dati). Si precisa che il numero reale dei visitatori conteggiati per un dato intervallo di tempo è soggetto a distorsioni — per eccesso o per difetto — dovute al fatto che il calcolo degli utenti in web analytics è basato su cookies e tende quindi a generare più o meno utenti unici al variare di determinate circostanze (accesso al sito da dispositivi diversi, browser diversi, cancellazione dei cookies). Di seguito una panoramica esplicativa
 delle principali metriche e dimensioni utilizzate nella web analysis. Si
 precisa che la nomenclatura di metriche e dimensioni può variare a
 seconda della piattaforma di analytics utilizzata.
@@ -295,6 +295,37 @@ Ricerca su sito
    funzionalità di ricerca e l’architettura informativa del sito,
    facendo in modo che i contenuti più ricercati siano il più possibile
    visibili
+   
+La segmentazione
+~~~~~~~~~~~~~~~~
+La segmentazione in web analytics consiste nell'isolare dal traffico web aggregato sottoinsiemi di visite (o di utenti unici) che condividono attributi (qualitativi e/o quantitativi) comuni. La segmentazione del traffico in sottogruppi, ha l’obiettivo di far emergere il “valore” di uno specifico insieme di utenti rispetto al traffico aggregato - che è tipicamente quello più rappresentato nei report, ma meno rappresentativo delle specificità dei singoli gruppi di utenza. 
+
+Nelle principali piattaforme di web analytics la segmentazione può essere applicata utilizzando segmenti preimpostati (laddove disponibili) oppure creando dei segmenti di utenza ad hoc. Si possono creare segmenti sulla base di attributi demografici dei visitatori, delle tecnologie utilizzate per navigare il sito, del comportamento, della data di prima visita dell’utente, delle sorgenti di traffico, e così via. 
+
+Il traffico "segmentato" può essere poi quindi comparato nei rapporti e nelle configurazioni dashboard. 
+
+Per maggiori dettagli sulla segmentazione utenti si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
+
+
+Cosa fare per adempiere alla normativa sui cookie
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Tipo di cookie                                                                           | Segnalarli nell'informativa | Inserire il banner e chiedere il consenso ai visitatori | Notificare al Garante                                      |
++==========================================================================================+=============================+=========================================================+============================================================+
+| Nessun cookie                                                                            | No                          | No                                                      | No                                                         |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Tecnici/analitici di prima parte                                                         | Si                          | No                                                      | No                                                         |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Analitici terze parti (con strumenti che riducono il potere identificativo dei cookie)   | Si                          | No                                                      | No                                                         |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Analitici terze parti (senza strumenti che riducono il potere identificativo dei cookie) | Si                          | Si                                                      | Si                                                         |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Di profilazione prima parte                                                              | Si                          | Si                                                      | Si                                                         |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+| Di profilazione terze parti                                                              | Si                          | Si                                                      | No* (la notificazione è a carico del soggetto terza parte) |
++------------------------------------------------------------------------------------------+-----------------------------+---------------------------------------------------------+------------------------------------------------------------+
+
+Per approfondimenti si rimanda al sito del `Garante della Privacy <http://www.garanteprivacy.it/cookie>`__.
 
 La reportistica
 ~~~~~~~~~~~~~~~
@@ -309,32 +340,33 @@ abbia la finalità di essere condivisa all’interno di un team di lavoro
 inviare report customizzati direttamente dalle principali piattaforme di
 web analytics.
 
-Per un approfondimento sul tema, si rimanda al `Web Analytics Starter
-Kit <https://designers.italia.it/kit/analytics/>`__.
+Per un approfondimento sul tema, si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
-Gli strumenti (Piwik e Google Analytics)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gli strumenti (Matomo/Piwik e Google Analytics)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Di seguito proponiamo una serie di link di approfondimento per
 comprendere come installare/configurare nella maniera corretta due fra
-le principali piattaforme di web analytics gratuite, **Piwik**
+le principali piattaforme di web analytics gratuite, **Matomo/Piwik**
 (piattaforma open source) e **Google Analytics** (piattaforma
 commerciale).
 
-Piwik
-^^^^^
+Matomo/Piwik
+^^^^^^^^^^^^
 
--  `Installazione e configurazione di Piwik
+-  `Installazione e configurazione di Matomo/Piwik
    <https://piwik.org/docs/installation/>`__
--  `Aggiungere un sito a Piwik
+-  `Aggiungere un sito a Matomo/Piwik
    <https://piwik.org/docs/manage-websites/>`__
 -  `Implementare il tracciamento del motore di ricerca interno al sito
    <https://piwik.org/docs/site-search/>`__
 -  `Impostare un obiettivo
    <https://piwik.org/docs/tracking-goals-web-analytics/>`__
+-  `La segmentazione
+   <https://matomo.org/docs/segmentation/>`__
 -  `Creazione ed invio di report customizzati
    <https://piwik.org/docs/email-reports/>`__
--  `Importare dati da GA a Piwik
+-  `Importare dati da GA a Matomo/Piwik
    <https://piwik.org/blog/2012/08/google-analytics-to-piwik/>`__
 
 Google Analytics
@@ -352,5 +384,7 @@ Google Analytics
    <https://support.google.com/analytics/answer/1308621?hl=it>`__
 -  `Impostare un obiettivo
    <https://support.google.com/analytics/answer/1012040?hl=it&ref_topic=6150889>`__
+-  `La segmentazione
+   <https://support.google.com/analytics/answer/3123951>`__
 -  `Export ed invio via email dei dati
    <https://support.google.com/analytics/answer/1038573?hl=it>`__
