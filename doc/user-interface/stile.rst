@@ -241,13 +241,7 @@ Palette colori
 
 Qualunque scala cromatica può essere scelta per lo sviluppo del sito con
 la sola esclusione dei colori istituzionali delle pubbliche
-amministrazioni centrali (blu #0066CC). La scala cromatica deve comunque
-garantire il rapporto di contrasto minimo tra testo e sfondo di 4,5:1,
-come raccomandato dalle specifiche di accessibilità WCAG 2.0 AA.
-
-Il colore non deve mai essere significante in sé e non deve essere la
-modalità con cui si trasmettono contenuti: ipovedenti, daltonici e non
-vedenti non sarebbero in grado di identificarli correttamente.
+amministrazioni centrali (blu #0066CC). 
 
 Le pubbliche amministrazioni centrali (PAC) sono tenute a seguire le
 `indicazioni sulla palette riservata alle
