@@ -304,3 +304,8 @@ Di seguito un esempio di utilizzo di un'immagine ripresa da un archivio online:
  
 
 Approfondimenti: `come trovare immagini liberamente utilizzabili attraverso Google Images. <https://support.google.com/websearch/answer/29508>`_
+
+Immagini prese dai social network
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+I canali social (in particolare Facebook e Instagram) sono una rilevante fonte di immagini e contenuti multimediali, realizzati dagli utenti e caricati sui propri profili. La pubblicazione di una foto su un profilo social non è però **via libera all'utilizzo indiscriminato** da parte di chiunque. Il comportamento da tenere nei confronti di quella immagine è lo stesso che si deve tenere nei confronti di un'immagine raccolta da un blog o un qualsiasi sito, ovvero assicurarsi di avere **tutti i diritti di utilizzo** concessi espressamente (anche a titolo gratuito) dall'autore o il detentore dei diritti, che può essere chi ha pubblicato quella foto sul proprio canale social o può essere un altro soggetto.

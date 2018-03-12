@@ -49,7 +49,7 @@ Aspetto
 
 -  **Contrasto tra primo piano e sfondo**: il testo e il relativo sfondo
    (compreso il testo contenuto nelle immagini), devono rispettare un
-   preciso rapporto di contrasto, basato su un algoritmo. I logotipi, il testo di grandi dimensioni (`18 punti
+   preciso rapporto di contrasto, basato su un `algoritmo <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#visual-audio-contrast-contrast-resources-head>`__. I logotipi, il testo di grandi dimensioni (`18 punti
    o 14 grassetto <https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html#larger-scaledef>`__)
    e il testo volutamente reso poco visibile (es. azioni
    inattive) non rientrano in questo controllo.
@@ -117,8 +117,17 @@ Comportamento
    all’utente, in particolare alle tecnologie assistive (vedi 
    `WAI ARIA <https://www.w3.org/WAI/intro/aria>`__).
 
-Un esempio per capire: uso del colore
+Uso del colore
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+La scala cromatica deve garantire il rapporto di contrasto 
+minimo tra testo e sfondo di 4,5:1, come raccomandato dalle 
+specifiche di accessibilità WCAG 2.0 AA.
+
+Il colore non deve mai essere significante in sé e 
+non deve essere la modalità con cui si trasmettono contenuti: 
+ipovedenti, daltonici e non vedenti non sarebbero in grado di 
+identificarli correttamente.
 
 Il colore non può essere usato come unico mezzo per veicolare
 un’informazione. Quindi, ad esempio, è sbagliato indicare “in
@@ -132,7 +141,13 @@ colore in contesti di fruizione diversi ma molto frequenti, ad es.:
 -  in caso di daltonismo (`5-8% popolazione maschile <https://it.wikipedia.org/wiki/Daltonismo#Diffusione>`__)
 
 Per comunicare un’informazione quindi, oltre al colore, è necessario aggiungere
-un elemento testuale o grafico, un simbolo o un bordo.
+un elemento testuale o grafico.
+
+La verifica del rapporto di contrasto può essere facilmente effettuata 
+attraverso molti tool online come `colour contrast check <http://snook.ca/technical/colour_contrast/colour.html>`_,
+oppure se si lavora con lo UI Kit è possibile installare il plugin di Sketch chiamato 
+Stark che permette la verifica del contrasto, la simulazione del tipo di 
+“colorblindness” e l’esportazione del report.
 
 Normativa
 ~~~~~~~~~

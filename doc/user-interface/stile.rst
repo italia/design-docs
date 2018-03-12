@@ -120,8 +120,8 @@ Esempio di tabella con CSS di default
 
 .. raw:: html
    
-   <iframe class="lg-example" src="https://italia.github.io/ita-web-toolkit/components/preview/table--complex.html"></iframe>
-   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/ita-web-toolkit/components/detail/table--complex">mostra il codice</a></p>
+   <iframe class="lg-example" src="https://italia.github.io/design-web-toolkit/components/preview/table--complex.html"></iframe>
+   <p class="wy-text-right"><a class="reference external" href="https://italia.github.io/design-web-toolkit/components/detail/table--complex">mostra il codice</a></p>
 
 Esempi di buona impaginazione delle tabelle
 '''''''''''''''''''''''''''''''''''''''''''
@@ -186,7 +186,7 @@ Formattazioni consigliate
                Ecco un bianco scenario per tratteggiarvi l'accompagnamento degli oggetti di sfondo. Non ne sarò l'artefice impaziente
             </p>
          </blockquote>
-         <small><strong>citazione</strong>: Titillium normal - corpo 18px, interlinea 1.55</small>
+         <small><strong>citazione</strong>: Titillium italic - corpo 18px, interlinea 1.55</small>
       </div>
 
       <div>
@@ -199,17 +199,6 @@ Formattazioni consigliate
 
 Colore del testo
 ^^^^^^^^^^^^^^^^
-
-Generalmente il colore del testo deve essere nero (#1C2024) o grigio
-(#5A6772) su fondo bianco (#FFFFFF). Viceversa per le composizioni in
-negativo. Dove necessario possono essere usati colori diversi dal nero e
-dal grigio purché sia garantito un rapporto di contrasto minimo tra
-testo e sfondo di 4,5:1 (AA), come stabilito dalle specifiche di
-accessibilità. La verifica del rapporto di contrasto può essere
-facilmente effettuata attraverso molti tool online.
-
--  `esempio di strumento online per la verifica del contrasto
-   colori <http://snook.ca/technical/colour_contrast/colour.html>`__
 
 .. admonition:: SI DOVREBBE
 
@@ -252,13 +241,7 @@ Palette colori
 
 Qualunque scala cromatica può essere scelta per lo sviluppo del sito con
 la sola esclusione dei colori istituzionali delle pubbliche
-amministrazioni centrali (blu #0066CC). La scala cromatica deve comunque
-garantire il rapporto di contrasto minimo tra testo e sfondo di 4,5:1,
-come raccomandato dalle specifiche di accessibilità WCAG 2.0 AA.
-
-Il colore non deve mai essere significante in sé e non deve essere la
-modalità con cui si trasmettono contenuti: ipovedenti, daltonici e non
-vedenti non sarebbero in grado di identificarli correttamente.
+amministrazioni centrali (blu #0066CC). 
 
 Le pubbliche amministrazioni centrali (PAC) sono tenute a seguire le
 `indicazioni sulla palette riservata alle
@@ -407,7 +390,7 @@ I bottoni sono realizzati utilizzando tre gradazioni di ottanio.
 .. raw:: html
    
    <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio scuro Bottone Focus #004a4d</p></div>
-   <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio medio Bottone #004a4d</p></div>
+   <div class="palette-example"><p><span class="lg-color-example" style="background:#004a4d"></span>Ottanio medio Bottone #00C5CA</p></div>
    <div class="palette-example"><p><span class="lg-color-example" style="background:#00c5ca"></span>Ottanio chiaro Bottone Hover #00c5ca</p></div>
    <div class="clear"></div>
    
@@ -422,7 +405,7 @@ icone provenienti da un unico set grafico come, ad esempio, quelle
 disponibili gratuitamente su `Font
 Awesome <https://fortawesome.github.io/Font-Awesome/>`__ o il `set di
 icone incluso nel web
-toolkit <https://italia.github.io/ita-web-toolkit/components/detail/icons.html>`__
+toolkit <https://italia.github.io/design-web-toolkit/components/detail/icons.html>`__
 delle Linee Guida al quale è possibile contribuire proponendo
 integrazioni o modifiche.
 

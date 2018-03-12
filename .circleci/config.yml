@@ -1,0 +1,26 @@
+# design-doc circleci config
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:2.7
+
+    working_directory: ~/design-doc
+
+    steps:
+      - checkout
+
+      # install sphinx
+      - run:
+          name: install sphinx
+          command: |
+            virtualenv .venv
+            source .venv/bin/activate
+            pip install -q sphinx
+
+      # sphinx build
+      - run:
+          name: test sphinx build
+          command: |
+            source .venv/bin/activate
+            sphinx-build -n -W -T -b html . _build/html

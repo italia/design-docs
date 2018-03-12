@@ -22,8 +22,8 @@ Le trovate su `https://designers.italia.it/user-interface/
 <https://designers.italia.it/user-interface/>`__
  
 Per chi vuole invece iniziare a scrivere codice, la reference implementation delle
-linee guida o cosiddetto web-toolkit, è qui `https://italia.github.io/ita-web-toolkit/ 
-<https://italia.github.io/ita-web-toolkit/>`__
+linee guida o cosiddetto web-toolkit, è qui `https://italia.github.io/design-web-toolkit/ 
+<https://italia.github.io/design-web-toolkit/>`__
  
 Uno spazio di discussione dedicato alla user interface e aperto al contributo di tutti
 è stato predisposto su `https://forum.italia.it/c/design/user-interface
