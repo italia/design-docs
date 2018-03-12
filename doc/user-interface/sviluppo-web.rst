@@ -82,7 +82,7 @@ la cosiddetta feature detection: il sito web può rilevare una miriade di
 proprietà che caratterizzano il metodo di accesso al sito da parte del
 cittadino.
 
-.. admonition:: Nota
+.. note::
    Si prega di non confondere la feature detection con la pratica, in passato
    molto diffusa, di utilizzare lo *user-agent* (ovvero quale browser e quale
    sistema operativo è connesso) per differenziare i servizi forniti. È
