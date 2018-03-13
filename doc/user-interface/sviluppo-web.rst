@@ -203,7 +203,7 @@ Misurare le prestazioni
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Così come avviene per il design di un sito, anche le sue prestazioni
-concorrono ad una maggiore facilità di utilizzo. In questo senso, è bene
+concorrono a una maggiore facilità di utilizzo. In questo senso, è bene
 differenziare due principali ambiti che possono avere impatto determinante
 sull'esperienza finale dell'utente: i **tempi di caricamento** della pagina e
 le **performance di esecuzione** della pagina stessa.

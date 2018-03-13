@@ -4,12 +4,11 @@ Principi
 Progettiamo Servizi, non interfacce
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Lo scopo primario di un’interfaccia per la fornitura di servizi web è quello
-di  aiutare l’utente a raggiungere ciò che cerca nel modo più naturale e
-immediato possibile, in modo quasi **trasparente**. Per questo, la **coerenza**
-dei vari elementi che compongono una user interface, anche su diversi
-dispositivi, è un elemento fondante per la creazione di prodotti funzionali e
-semplici da usare.
+Lo scopo primario dell’interfaccia di un servizio web è quello di aiutare
+l’utente a raggiungere ciò che cerca in modo naturale e immediato, in modo
+quasi **trasparente**. Per questo, la **coerenza** dei vari elementi che la
+compongono, anche su diversi dispositivi, è un elemento fondante per la
+creazione di prodotti funzionali e semplici da usare.
 
 Un altro punto cardine di una buona interfaccia è la sua **inclusività** e la
 **tolleranza agli errori**: non ci si deve aspettare che l’utente sappia sempre
@@ -21,7 +20,7 @@ correggendone eventuali errori e prevedendo diverse modalità di utilizzo
 (utenti con disabilità fisiche, con difficoltà di comprensione tecnologica, o
 che utilizzano dispositivi con limitate capacità o connettività).
 
-In questa fase delle linee guida ci concentriamo sugli elementi più classici
+In questa parte delle linee guida ci concentriamo sugli elementi più classici
 dell’interfaccia, definendo alcuni principi di visual design, alcuni elementi
 di stile, degli esempi di layout o presentazione dei contenuti e alcuni
 pattern (componenti), i mattoni veri e propri dell’interfaccia.
@@ -32,9 +31,8 @@ Responsive Web Design
 
 Il sito web deve **sempre** essere progettato e sviluppato con un approccio
 responsive, con l’obiettivo di fornire un’esperienza di utilizzo ottimale
-indipendentemente dalla risoluzione dello schermo e dalla tipologia di
-dispositivo utilizzato, consentendo in ogni situazione facilità di lettura e
-navigazione.
+indipendentemente dalla risoluzione dello schermo e dal tipo di dispositivo
+utilizzato, consentendo in ogni situazione facilità di lettura e navigazione.
 
 Al concetto di responsive web design vanno associate pratiche di
 semplificazione delle interfacce in ottica *mobile first*, e un’attenzione
@@ -52,13 +50,11 @@ Mobile First
 L’approccio mobile first è, assieme all’utilizzo di *progressive enhancement*
 trattato al paragrafo `Progressive Enhancement e Graceful Degradation
 <../user-interface/sviluppo-web.html#progressive-enhancement-e-graceful-degradation>`__,
-una pratica oramai consolidata, in contrapposizione al metodo tradizionale di
-progettare per interfacce desktop.
-
-Esso consiste nel valutare in prima istanza l’esperienza e le necessità per
-gli utilizzatori di dispositivi mobili, per poi arricchire di elementi e
-funzionalità la composizione della pagina mano a mano che la dimensione, le
-capacità computazionali e di rete del dispositivo aumentano.
+una pratica oramai consolidata: consiste nel valutare in prima istanza
+l’esperienza e le necessità per gli utilizzatori di dispositivi mobili, per poi
+arricchire di elementi e funzionalità la composizione della pagina mano a mano
+che la dimensione, le capacità computazionali e di rete del dispositivo
+aumentano.
 
 Nell’approccio mobile first **si parte dall’essenziale**.
 
