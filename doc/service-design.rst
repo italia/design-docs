@@ -11,6 +11,7 @@ da un contesto di informazioni sintetiche e chiare.
    :maxdepth: 2
 
    service-design/principi.rst
+   service-design/gestione-dei-progetti.rst
    service-design/accessibilita.rst
    service-design/normativa.rst
    service-design/design-management.rst
