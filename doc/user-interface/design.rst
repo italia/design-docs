@@ -111,15 +111,10 @@ Interlinea
 
 L’interlinea o leading sia dei titoli che del corpo di testo è calcolata tenendo conto anche della griglia orizzontale di 8px.
 
-<span style="font-size: 16px; font-weight: 400; line-height: 1.2"> Body text 16px</span>
+.. raw:: html
 
-interlinea 24px
-
-
-<span style="font-size: 16px; font-weight: 400; line-height: 1.2"> Body text 18px </span>
-
-interlinea 28 px
-
+   <p><span style="font-size: 16px; font-weight: 400; line-height: 1.2"> Body text 16px</span></p>
+   <p><span style="font-size: 16px; font-weight: 400; line-height: 1.2"> Body text 18px </span></p>
 
 .. figure:: images/Griglia8px.png
    :alt: griglia 8px 
