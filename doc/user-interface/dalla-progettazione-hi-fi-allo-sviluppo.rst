@@ -47,11 +47,11 @@ e sviluppo grazie al **version control system.**
 
 Gli strumenti a disposizione sono:
 
-* `Github Repository <https://github.com/italia/design-ui-kit>`, librerie di sketch e file .sketch scaricabili
+* `Github Repository <https://github.com/italia/design-ui-kit>`_ , librerie di sketch e file .sketch scaricabili
 
-* `Google sheet Roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0>`, un elenco completo di tutti i componenti con l’indicazione di quelli realizzati e di quelli in programma
+* `Google sheet Roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0>`_, un elenco completo di tutti i componenti con l’indicazione di quelli realizzati e di quelli in programma
 
-*`UI KIT Github Project <https://github.com/italia/design-ui-kit/projects>`, un elenco dei macro e microtask aggiornati settimanalmente   
+* `UI KIT Github Project <https://github.com/italia/design-ui-kit/projects>`_, un elenco dei macro e microtask aggiornati settimanalmente   
 
 Come collaborare
 ________________
