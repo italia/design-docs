@@ -50,36 +50,14 @@ Titoli e sottotitoli
 
 Nella tabella sottostante è riportata la formattazione del Font Titillium.
 
+.. raw:: html
 
-<span style ="font-size:40px; font-weight:700; line-height: 1.2">H1 Bold 40 px</span>
-
-interlinea 48px, tracking -1   
-
-
-<span style="font-size: 32px; font-weight: 700; line-height: 1.2">H2 Bold 32 px</span>
-
-interlinea 40px, tracking -0,5
-
-
-<span style="font-size: 28px; font-weight: 700; line-height: 1.2">H3 Bold 28 px</span>
-
-interlinea 32px, tracking -0,3
-
-
-<span style="font-size: 24px; font-weight: 700; line-height: 1.2">H4 Bold 24 px</span>
-
-interlinea 28px
-
-
-<span style="font-size: 20px; font-weight: 400; line-height: 1.2">H5 Regular 20 px</span>
-
-interlinea 24px      
-
-
-<span style="font-size: 16px; font-weight: 600; line-height: 1.2">H6 Semibold 16 px</span>
-
-interlinea 24px
-
+   <span style="font-size:40px; font-weight:700; line-height: 1.2">H1 Bold 40 px</span>
+   <span style="font-size: 32px; font-weight: 700; line-height: 1.2">H2 Bold 32 px</span>
+   <span style="font-size: 28px; font-weight: 700; line-height: 1.2">H3 Bold 28 px</span>
+   <span style="font-size: 24px; font-weight: 700; line-height: 1.2">H4 Bold 24 px</span>
+   <span style="font-size: 20px; font-weight: 400; line-height: 1.2">H5 Regular 20 px</span>
+   <span style="font-size: 16px; font-weight: 600; line-height: 1.2">H6 Semibold 16 px</span>
 
 Corpo del testo e didascalie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
