@@ -11,7 +11,7 @@ Typefaces
 Titillium Web
 :::::::::::::
 
-.. figure:: images/cssinspectmode.png
+.. figure:: images/artboard.png
    :alt: artboard
    
 
@@ -29,8 +29,8 @@ La *x-height* ampia e la struttura lineare fanno del Titillium un font che si ad
 Roboto Mono
 :::::::::::
 
-.. figure:: Artboard Copy.png
-   :alt: artboard 2
+.. figure:: images/artboardcopy.png
+   :alt: artboard copy
 
 Il `Roboto Mono <https://fonts.google.com/specimen/Roboto+Mono>`_ è la variante monospaced della famiglia Roboto ed anche in questo caso si tratta di un Web Font scaricabile ed utilizzabile gratuitamente. È stato introdotto nelle linee guida per la chiarezza e leggibilità dei numeri: è adatto ad essere utilizzato per la rappresentazione di numeri, calcoli matematici, numeri in tabelle, codice di programmazione. 
 
@@ -42,7 +42,7 @@ _________
 
 La gerarchia visuale serve a gestire la trasmissione di un messaggio e il suo impatto. Diversi elementi possono contribuire a creare una gerarchia, uno di questi è l’uso della scala tipografica.
 
-.. figure:: images/gerarchia visuale.png
+.. figure:: images/gerarchiavisuale.png
    :alt: gerarchia visuale 
 
 Titoli e sottotitoli
@@ -207,9 +207,9 @@ Da un colore si possono generare tinte, ombre e toni.
 
 Le **tinte** e le **ombre** consistono nell’aggiunta rispettivamente di bianco e di nero al colore di base, che tradotto nel web design significa variare i valori di saturazione (S) e luminosità (B). Per esempio, dato un colore base con i valori H 93; S 100; B 50, è sufficiente sottrarre 10 gradi di luminosità (B) per ottenere le variazioni più scure e  aggiungere 10 gradi di luminosità (B) per quelle più chiare fino a un massimo di 80 gradi di luminosità. Per ottenere le cosiddette “tinte” basta aumentare progressivamente di 4 gradi la luminosità a partire da un valore di  80 e contemporaneamente diminuire la saturazione (S) di 15 gradi.
 
-.. figure:: images/esempio variazioni.png
+.. figure:: images/esempio-variazioni.png
    :alt: esempio variazioni
-
+   
    Esempio di variazioni partendo dal colore base H 93, S 100; B 50 verso le tinte 
    (alto) e verso le ombre (basso)
 
@@ -226,13 +226,13 @@ Pensata per un design semplice e minimalista è una palette costituita dalle var
 
 La palette dello UI Kit è piuttosto estesa: comprende molte variazioni in tinte, toni e ombre del colore base (blu italia) e dei colori secondari e neutri, permettendo così una certa flessibilità di uso. 
 
-.. figure:: images/Campioni colore_light mode.png
+.. figure:: images/Campioni-colore-light-mode.png
    :alt: Campioni di colore light mode
 
-.. figure:: images/Campioni colore_light mode neutri.png
+.. figure:: images/Campioni-colore-light-mode-neutri.png
    :alt: Campioni di colore light mode neutri
 
-.. figure:: images/analoghi compl.png
+.. figure:: images/analoghi-compl.png
    :alt: Analoghi, complementari e triadici
 
 
@@ -365,7 +365,7 @@ L’area di navigazione e intestazione contiene:
 
 * l’accesso al menu di navigazione. L’icona burger, se presente nella versione desktop, deve essere accompagnata dall’etichetta “MENU”
 
-   .. figure:: design-docs/doc/user-interface/images/burger-menu.png
+   .. figure:: images/burger-menu.png
       :alt: burger menu
  
 
