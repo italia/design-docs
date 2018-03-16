@@ -51,7 +51,7 @@ Titoli e sottotitoli
 Nella tabella sottostante è riportata la formattazione del Font Titillium.
 
 
-<span style ="font-size:40px;font-weight:700;line-height:1.2">H1 Bold 40 px</span>
+<span style ="font-size:40px; font-weight:700; line-height: 1.2">H1 Bold 40 px</span>
 
 interlinea 48px, tracking -1   
 
@@ -69,6 +69,7 @@ interlinea 32px, tracking -0,3
 <span style="font-size: 24px; font-weight: 700; line-height: 1.2">H4 Bold 24 px</span>
 
 interlinea 28px
+
 
 <span style="font-size: 20px; font-weight: 400; line-height: 1.2">H5 Regular 20 px</span>
 
@@ -92,11 +93,15 @@ La dimensione del corpo del testo, utilizzando i caratteri tipografici Titillium
 
 interlinea 24 px
 
+
 <span style="font-size: 14px; font-weight: 600; line-height: 1.2">Caption semibold 14px</span> 
 
 interlinea 20 px
 
+
 <span style="font-size: 14px; font-weight: 400; line-height: 1.2">Caption regular 14px</span>  | interlinea 20 px
+
+interlinea 20 px
 
 
 Desktop
@@ -108,9 +113,11 @@ Il corpo del testo su desktop ha una dimensione di 18px, sempre con riferimento 
 
 interlinea 28 px
 
+
 <span style="font-size: 16px; font-weight: 600; line-height: 1.2">Caption small semibold 16px</span>
 
 interlinea 24 px
+
 
 <span style="font-size: 16px; font-weight: 400; line-height: 1.2">Caption extra small 14px</span>   
 
@@ -147,9 +154,11 @@ L’interlinea o leading sia dei titoli che del corpo di testo è calcolata tene
 
 interlinea 24px
 
+
 <span style="font-size: 16px; font-weight: 400; line-height: 1.2"> Body text 18px </span>
 
 interlinea 28 px
+
 
 .. figure:: images/Griglia8px.png
    :alt: griglia 8px 
@@ -411,6 +420,7 @@ Contenuto
 ^^^^^^^^^
 
 L’area contiene:
+
 * lo stemma e l’intestazione dell’amministrazione
 * i contatti
 * i social (tutti)
@@ -450,7 +460,7 @@ Più in generale, laddove i dati non hanno una struttura prevalentemente tabular
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Approfondimento**                                                                                                                                                                                                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Per una corretta definizione della struttura gerarchica dei contenuti, la suddivisione in parti deve essere espressa attraverso l’uso di markup semantico disponibile in HTML5, quali `<article>`,`<aside>`, `<figcaption>`, `<header>`, `<footer>`, ecc al posto del generico divisore `<div>`.| |
+| Per una corretta definizione della struttura gerarchica dei contenuti, la suddivisione in parti deve essere espressa attraverso l’uso di markup semantico disponibile in HTML5, quali `<article>`,`<aside>`, `<figcaption>`, `<header>`, `<footer>`, ecc al posto del generico divisore `<div>`.|
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Iconografia
