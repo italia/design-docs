@@ -48,7 +48,7 @@ La gerarchia visuale serve a gestire la trasmissione di un messaggio e il suo im
 Titoli e sottotitoli
 ^^^^^^^^^^^^^^^^^^^^
 
-Nella tabella sottostante è riportata la formattazione del Font Titillium.
+Di seguito è riportata la formattazione del Font Titillium.
 
 .. raw:: html
 
@@ -65,7 +65,7 @@ Corpo del testo e didascalie
 Mobile
 ::::::
 
-La dimensione del corpo del testo, utilizzando i caratteri tipografici Titillium o Lora non può essere inferiore a 16px. Si utilizzano le misure di 12px e 14px in caso di didascalie, note, o comunque etichette e testi secondari di dimensioni ridotte. 
+La dimensione del corpo del testo, utilizzando i caratteri tipografici Titillium non può essere inferiore a 16px. Si utilizzano le misure di 12px e 14px in caso di didascalie, note, o comunque etichette e testi secondari di dimensioni ridotte. 
 
 .. raw:: html
 
@@ -77,7 +77,7 @@ La dimensione del corpo del testo, utilizzando i caratteri tipografici Titillium
 Desktop
 :::::::
 
-Il corpo del testo su desktop ha una dimensione di 18px, sempre con riferimento ai *typefaces* Titillium e Lora. Si considerano le misure small di 16px ed xsmall di 14px per le didascalie, le note a margine e testi secondari che abbiano una dimensione ridotta.
+Il corpo del testo su desktop ha una dimensione di 18px, sempre con riferimento ai *typefaces* Titillium. Si considerano le misure small di 16px ed xsmall di 14px per le didascalie, le note a margine e testi secondari che abbiano una dimensione ridotta.
 
 .. raw:: html
    <p><span style="font-size: 18px; font-weight: 400; line-height: 1.2">Body text 18px</span></p>
