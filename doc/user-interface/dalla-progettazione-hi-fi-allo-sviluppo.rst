@@ -45,15 +45,13 @@ Lo UI Kit è pubblicato su **Github**, uno strumento che
 permette di visionare tutte le fasi di progettazione
 e sviluppo grazie al **version control system.**
 
-+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+
-| Strumenti           | Descrizione                                                                                                                          | Link                                    |
-+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+
-| UI KIt              | Library di sketch e file .sketch scaricabili                                                                                         | Library Sketch Cloud/ Github Repository |
-+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+
-| Roadmap generale    | Elenco completo di tutti i componenti con l’indicazione di quelli realizzati e di quelli in programma.interlinea 32px, tracking -0,3 | Google sheet Roadmap                    |
-+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+
-| Roadmap dettagliata | Elenco dei macro e microtask aggiornati settimanalmente                                                                              | UI KIT Github Project                   |
-+---------------------+--------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------+
+Gli strumenti a disposizione sono:
+
+* `Github Repository <https://github.com/italia/design-ui-kit>`, librerie di sketch e file .sketch scaricabili
+
+* `Google sheet Roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit#gid=0>`, un elenco completo di tutti i componenti con l’indicazione di quelli realizzati e di quelli in programma
+
+*`UI KIT Github Project <https://github.com/italia/design-ui-kit/projects>`, un elenco dei macro e microtask aggiornati settimanalmente   
 
 Come collaborare
 ________________
