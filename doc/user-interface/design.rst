@@ -52,12 +52,12 @@ Nella tabella sottostante è riportata la formattazione del Font Titillium.
 
 .. raw:: html
 
-   <span style="font-size:40px; font-weight:700; line-height: 1.2">H1 Bold 40 px</span>
-   <span style="font-size: 32px; font-weight: 700; line-height: 1.2">H2 Bold 32 px</span>
-   <span style="font-size: 28px; font-weight: 700; line-height: 1.2">H3 Bold 28 px</span>
-   <span style="font-size: 24px; font-weight: 700; line-height: 1.2">H4 Bold 24 px</span>
-   <span style="font-size: 20px; font-weight: 400; line-height: 1.2">H5 Regular 20 px</span>
-   <span style="font-size: 16px; font-weight: 600; line-height: 1.2">H6 Semibold 16 px</span>
+   <p><span style="font-size:40px; font-weight:700; line-height: 1.2">H1 Bold 40 px</span></p>
+   <p><span style="font-size: 32px; font-weight: 700; line-height: 1.2">H2 Bold 32 px</span></p>
+   <p><span style="font-size: 28px; font-weight: 700; line-height: 1.2">H3 Bold 28 px</span></p>
+   <p><span style="font-size: 24px; font-weight: 700; line-height: 1.2">H4 Bold 24 px</span></p>
+   <p><span style="font-size: 20px; font-weight: 400; line-height: 1.2">H5 Regular 20 px</span></p>
+   <p><span style="font-size: 16px; font-weight: 600; line-height: 1.2">H6 Semibold 16 px</span></p>
 
 Corpo del testo e didascalie
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -67,19 +67,11 @@ Mobile
 
 La dimensione del corpo del testo, utilizzando i caratteri tipografici Titillium o Lora non può essere inferiore a 16px. Si utilizzano le misure di 12px e 14px in caso di didascalie, note, o comunque etichette e testi secondari di dimensioni ridotte. 
 
-<span style="font-size: 16px; font-weight: 400; line-height: 1.2">Body Text 16 px</span>
+.. raw:: html
 
-interlinea 24 px
-
-
-<span style="font-size: 14px; font-weight: 600; line-height: 1.2">Caption semibold 14px</span> 
-
-interlinea 20 px
-
-
-<span style="font-size: 14px; font-weight: 400; line-height: 1.2">Caption regular 14px</span>  | interlinea 20 px
-
-interlinea 20 px
+   <p><span style="font-size: 16px; font-weight: 400; line-height: 1.2">Body Text 16 px</span></p>
+   <p><span style="font-size: 14px; font-weight: 600; line-height: 1.2">Caption semibold 14px</span></p>
+   <p><span style="font-size: 14px; font-weight: 400; line-height: 1.2">Caption regular 14px</span></p>
 
 
 Desktop
@@ -87,19 +79,10 @@ Desktop
 
 Il corpo del testo su desktop ha una dimensione di 18px, sempre con riferimento ai *typefaces* Titillium e Lora. Si considerano le misure small di 16px ed xsmall di 14px per le didascalie, le note a margine e testi secondari che abbiano una dimensione ridotta.
 
-<span style="font-size: 18px; font-weight: 400; line-height: 1.2">Body text 18px</span>
-
-interlinea 28 px
-
-
-<span style="font-size: 16px; font-weight: 600; line-height: 1.2">Caption small semibold 16px</span>
-
-interlinea 24 px
-
-
-<span style="font-size: 16px; font-weight: 400; line-height: 1.2">Caption extra small 14px</span>   
-
-interlinea 20 px 
+.. raw:: html
+   <p><span style="font-size: 18px; font-weight: 400; line-height: 1.2">Body text 18px</span></p>
+   <p><span style="font-size: 16px; font-weight: 600; line-height: 1.2">Caption small semibold 16px</span></p>
+   <p><span style="font-size: 16px; font-weight: 400; line-height: 1.2">Caption extra small 14px</span></p>   
 
 
 Paragrafo
