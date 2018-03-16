@@ -34,7 +34,7 @@ In particolare è possibile analizzare, attraverso la funzione
 *“inspect mode”* gli aspetti di stile in codice CSS e gli asset 
 statici da esportare e utilizzare in fase di sviluppo. 
 
-.. figure:: images/Schermata 2018-03-02 alle 16.17.33.png
+.. figure:: images/cssinspectmode.png
    :alt: css inspect mode
  
 
