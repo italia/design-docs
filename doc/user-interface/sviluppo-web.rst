@@ -60,12 +60,24 @@ necessario assicurare la compatibilità con versioni dei browser che abbiano
 una penetrazione media tra la popolazione di almeno **1 persona ogni 100
 abitanti**.
 
+Ciò significa che con i dati disponibili ad oggi (primo quadrimestre 2018), è
+necessario assicurare la compatibilità con almeno i seguenti browser:
+
+- Apple Safari 9+ (mobile e desktop)
+- Google Chrome (ultime versioni, mobile e desktop)
+- Microsoft Edge (tutte le versioni, mobile e desktop)
+- Microsoft Internet Explorer 11
+- Mozilla Firefox (ultime versioni, mobile e desktop)
+- Samsung Internet 6+
+
 È buona norma analizzare regolarmente le statistiche sull’utilizzo dei
 dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere
 al sito, con lo scopo di abbracciare una base di utenti che copra più del
 **95% delle versioni utilizzate in Italia**. Per fare questo, ci si può avvalere
-di diverse sorgenti di dati: una delle più usate è
-`StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_.
+di diverse sorgenti di dati: una delle più usate è *StatCounter.com*, che permette
+di filtrare i dati per Paese:
+
+- `Versioni browser più usate in Italia secondo StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_
 
 Come ampiamente descritto nel paragrafo precedente, non è necessario che
 l’interfaccia di un sito web sia assolutamente identica sui diversi dispositivi;

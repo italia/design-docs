@@ -11,7 +11,6 @@ un servizio o un prodotto digitale.
    :maxdepth: 2
 
    user-interface/principi.rst
-   user-interface/stile.rst
-   user-interface/layout.rst
-   user-interface/componenti.rst
+   user-interface/dalla-progettazione-hi-fi-allo-sviluppo.rst
+   user-interface/design.rst
    user-interface/sviluppo-web.rst
