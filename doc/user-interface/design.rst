@@ -150,10 +150,10 @@ tenendo conto anche della griglia orizzontale di 8px.
 
 
 .. NOTE::
-Per informazioni più dettagliate sui paragrafi e la tipografia in generale vedi
-`UI KIT <https://github.com/italia/design-ui-kit>`_,
-`Web ToolKit <https://github.com/italia/design-web-toolkit>`_ e
-`Bootstrap Italia <https://github.com/italia/bootstrap-italia>`_.
+   Per informazioni più dettagliate sui paragrafi e la tipografia in generale vedi
+   `UI KIT <https://github.com/italia/design-ui-kit>`_,
+   `Web ToolKit <https://github.com/italia/design-web-toolkit>`_ e
+   `Bootstrap Italia <https://github.com/italia/bootstrap-italia>`_.
 
 
 Colore del testo
