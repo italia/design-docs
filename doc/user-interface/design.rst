@@ -14,8 +14,7 @@ Titillium Web
 :::::::::::::
 
 .. figure:: images/artboard.png
-:alt: artboard
-
+   :alt: artboard
 
 La famiglia di font `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_
 , è stata realizzata come progetto didattico dagli studenti del corso in Type
@@ -26,7 +25,7 @@ di distribuzione gratuita di Web font.
 Il Titillium Web *è una famiglia di font sans serif* composta da 11 stili.
 
 .. figure:: images/Titiliiumwebstili.png
-:alt: stili del Titillium web
+   :alt: stili del Titillium web
 
 La *x-height* ampia e la struttura lineare fanno del Titillium un font che si
 adatta bene ad essere utilizzato sul web.
@@ -36,7 +35,7 @@ Roboto Mono
 :::::::::::
 
 .. figure:: images/artboardcopy.png
-:alt: artboard copy
+   :alt: artboard copy
 
 Il `Roboto Mono <https://fonts.google.com/specimen/Roboto+Mono>`_ è la variante
 monospaced della famiglia Roboto ed anche in questo caso si tratta di un Web
@@ -57,7 +56,7 @@ impatto. Diversi elementi possono contribuire a creare una gerarchia, uno di
 questi è l’uso della scala tipografica.
 
 .. figure:: images/gerarchiavisuale.png
-:alt: gerarchia visuale
+   :alt: gerarchia visuale
 
 Titoli e sottotitoli
 ^^^^^^^^^^^^^^^^^^^^
@@ -133,7 +132,7 @@ I paragrafi possono essere distinti o applicando uno spazio tra di essi o in
 alternativa usando una indentatura di misura pari a quella del leading.
 
 .. figure:: images/italia-typography-paragraph1.png
-:alt: paragraph spacing
+   :alt: paragraph spacing
 
 Interlinea
 ^^^^^^^^^^
