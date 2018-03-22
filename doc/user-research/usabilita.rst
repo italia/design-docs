@@ -149,7 +149,7 @@ commenti e opinioni sul sito dell'amministrazione.
 Protocollo eGLU LG per la realizzazione di test di usabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Quest'`opera <http://www.funzionepubblica.gov.it/glu>`_
+Quest' `opera <http://www.funzionepubblica.gov.it/glu>`_
 è distribuita con licenza Creative Commons Attribution-ShareAlike 4.0 International 
 (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it#>`_).
 
@@ -252,7 +252,7 @@ Di seguito vengono descritte le diverse fasi nelle quali si articola la procedur
 3.     Analisi dei risultati.
 
 1. Preparazione
-_______________
+^^^^^^^^^^^^^^^
  
 Questa fase prevede i seguenti aspetti:
 
@@ -586,7 +586,7 @@ la revisione degli appunti e, infine, per la preparazione della nuova sessione d
 da parte del conduttore.
 
 2. Esecuzione
-_____________
+^^^^^^^^^^^^^
  
 Una volta effettuati i passi preparatori per una corretta osservazione, si passa alla 
 fase di esecuzione vera e propria. Tale fase richiede:
@@ -885,7 +885,7 @@ precedente. La temporizzazione qui indicata è quella minima e potrebbe essere m
 l’alto in caso di test più impegnativi.
 
 3. Analisi dei risultati
-________________________
+^^^^^^^^^^^^^^^^^^^^^^^^
  
 In questa sezione si spiega come riassumere i dati raccolti e stilare un report.
 
@@ -963,7 +963,7 @@ presente nel Kit per un semplice
 modello di report da utilizzare.
 
 Check-list di riepilogo per l’organizzazione del test
-_____________________________________________________
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
  
 
 Fase 1
