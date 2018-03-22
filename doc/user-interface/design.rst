@@ -45,7 +45,7 @@ per la rappresentazione di numeri, calcoli matematici, numeri in tabelle,
 codice di programmazione.
 
 Può essere utilizzato qualsiasi altro font purchè sia leggibile, e la scelta
-sia legata a delle forti caratteristiche identitarie.
+sia motivata da forti caratteristiche identitarie.
 
 
 Gerarchia
@@ -78,7 +78,7 @@ Corpo del testo e didascalie
 Mobile
 ::::::
 
-La dimensione del corpo del testo, utilizzando i caratteri tipografici
+La dimensione del corpo del testo, utilizzando i caratteri tipografici del
 Titillium non può essere inferiore a 16px. Si utilizzano le misure di 12px e
 14px in caso di didascalie, note, o comunque etichette e testi secondari di
 dimensioni ridotte.
@@ -94,9 +94,8 @@ Desktop
 :::::::
 
 Il corpo del testo su desktop ha una dimensione di 18px, sempre con riferimento
-ai *typefaces* Titillium. Si considerano le misure small di 16px ed xsmall di
-14px per le didascalie, le note a margine e testi secondari che abbiano una
-dimensione ridotta.
+al *typeface* Titillium. Si considerano le misure small di 16px ed xsmall di
+14px per le didascalie, le note a margine e i testi secondari.
 
 .. raw:: html
 
@@ -163,7 +162,7 @@ Il colore del body text deve essere tale da garantire un rapporto di contrasto
 minimo con lo sfondo sfondo di 4,5:1 (AA) come stabilito dalle specifiche di
 accessibilità. Ad esempio un testo nero su fondo bianco avrà un valore HEX
 compreso tra #000000 e #666666, oppure un ’opacità tra il 100% e 60%; un testo
-blu come ad esempio #001A33 può essere utilizzato  fino ad un massimo di 70%
+blu come ad esempio #001A33 può essere utilizzato fino ad un massimo di 70%
 di opacità.
 
 Text Link
@@ -187,18 +186,18 @@ ______
 Si consiglia l’utilizzo di una palette costituita da non più di 5 colori e di
 questi non più di 3 avranno un differente valore di Hue.
 
-Le palette possono essere di tipo monocromatico e non. Le palette
-monocromatiche sono costituite dal **colore base** e dalle sue variazioni in
-saturazione e/o luminosità.  Gli schemi colore non monocromatici, invece, oltre
-al colore base e alle sue variazioni comprendono un colore che può  essere
-scelto tra gli analoghi, complementare, triadico ecc del colore base oppure
-appartenente all’identità visiva.
+La palette può essere di tipo monocromatico o costituita da associazioni di colori
+con differente Hue. La palette monocromatica è costituita dal **colore base** e
+dalle sue variazioni in termini di saturazione e/o luminosità. Gli schemi colore
+non monocromatici, invece, oltre al colore base e alle sue variazioni, comprendono
+un colore che può essere scelto tra gli analoghi, complementari, triadici, ecc.
+del colore base, oppure scelto dalla gamma di colori appartenenti all’identità visiva.
 
 In ogni palette sono presenti inoltre le **tinte neutre** (grigi, bianco e nero).
 
 
-La palette delle amministrazioni locali
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Come costruire uno schema colore
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 La scelta dei colori è dettata dal materiale identitario dell’Ente o Agenzia
