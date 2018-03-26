@@ -4,6 +4,9 @@ Design
 Stile
 ~~~~~
 
+L’uso della *style guide* è utile ai fini di creare consistenza tra i vari layout di un sito web o di un’app, favorendo una migliore esperienza di navigazione dell’utente.
+A questo scopo è necessario che tutti i componenti di un interfaccia siano rappresentati visivamente in modo coerente. Lo stile, pertanto, agendo su tutti i componenti dell’interfaccia, dà una caratterizzazione visiva al layout e quindi una riconoscibilità e una coerenza tra le varie interfacce di un sito web.
+
 Tipografia
 __________
 
@@ -187,14 +190,26 @@ Si consiglia l’utilizzo di una palette costituita da non più di 5 colori e di
 questi non più di 3 avranno un differente valore di Hue.
 
 La palette può essere di tipo monocromatico o costituita da associazioni di colori
-con differente Hue. La palette monocromatica è costituita dal **colore base** e
-dalle sue variazioni in termini di saturazione e/o luminosità. Gli schemi colore
+con differente Hue. 
+
+La palette monocromatica è costituita dal **colore base** e
+dalle sue variazioni in termini di saturazione e/o luminosità. 
+   
+.. figure:: images/esempio palette monocromatica.png
+   :alt: esempio palette monocromatica
+   
+.. figure:: images/esempio palette monocromatica rosso.png
+   :alt: esempio palette monocromatica con rosso
+
+Gli schemi colore
 non monocromatici, invece, oltre al colore base e alle sue variazioni, comprendono
 un colore che può essere scelto tra gli analoghi, complementari, triadici, ecc.
 del colore base, oppure scelto dalla gamma di colori appartenenti all’identità visiva.
 
 In ogni palette sono presenti inoltre le **tinte neutre** (grigi, bianco e nero).
 
+.. figure:: images/esempio palette analogo.png
+   :alt: palette con colore analogo
 
 Come costruire uno schema colore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -211,6 +226,9 @@ Tra i colori secondari ci sono sia quelli strettamente connessi al colore base,
 sia un eventuale colore di risalto o accent color che viene utilizzato in
 misura minore poiché è associato a elementi che presuppongono un’interazione:
 bottoni, elementi di controllo (sliders, radio ecc) links, text fields.
+
+.. figure:: images/esempio palette triadici.png
+   :alt: esempio palette colore triadico
 
 La palette può essere **estesa** ossia si possono creare variazioni in termini
 di saturazione e luminosità dei colori scelti.
@@ -233,6 +251,7 @@ la saturazione (S) di 15 gradi.
 
 .. figure:: images/esempio-variazioni.png
    :alt: esempio variazioni
+   :height: 800px
 
    Esempio di variazioni partendo dal colore base H 93, S 100; B 50 verso le tinte
    (alto) e verso le ombre (basso)
@@ -244,8 +263,7 @@ saturazione e luminosità di 10 gradi.
 La palette delle amministrazioni centrali
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Un esempio di schema cromatico costruito sui principi appena descritti è la
-palette realizzata con il colore base blu Italia (#0066CC).
+Un esempio di schema cromatico costruito sui principi appena descritti è la palette basata sul colore base Blu Italia (#0066cc)
 
 Pensata per un design semplice e minimalista è una palette costituita dalle
 variazione del colore base, più le tinte neutre. Sono presenti anche colori che
