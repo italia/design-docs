@@ -177,6 +177,28 @@ La mappa dell’esperienza viene costruita mettendo sull’asse orizzontale tutt
 
 Lo strumento di mappatura della *user journey* permette di analizzare tutti i flussi dell’esperienza di un servizio esistente o di un servizio in corso di definizioni, evidenziando le criticità su cui intervenire e le differenze tra le modalità di interazione dei diversi possibili utenti.
 
+Il workshop di co-design
+^^^^^^^^^^^^^^^^^^^^^^^^
+I workshop di co-design sono dei momenti di progettazione in cui un gruppo eterogeneo di partecipanti (progettisti, utenti, stakeholder della Pubblica Amministrazione e rappresentanti di aziende private) si ritrovano con l’obiettivo di ragionare insieme su alcuni aspetti chiave di un servizio. Queste sessioni di lavoro collaborativo hanno la capacità di allineare il punto di vista dei diversi attori coinvolti nell’esecuzione di un servizio, sollevando i problemi chiave e allo stesso tempo accelerando il processo di identificazione di soluzioni promettenti. 
+
+I workshop risultano in particolare molto utili quando al termine di un’attività preliminare di ricerca si inizia la definizione di storie e requisiti per la progettazione del servizio, ovvero nel momento di passaggio tra la fase di analisi e quella di design e sviluppo della soluzione individuata. I workshop hanno anche il beneficio di radunare ruoli che altrimenti rischiano di non incontrarsi mai, e avvicinare gli operatori della Pubblica Amministrazioni ai cittadini che utilizzano i propri servizi.
+
+Organizzare dei workshop di co-progettazione richiede di svolgere i seguenti passaggi.
+
+  1. **Identificazione di un obiettivo chiaro**, raggiungibile mediante la sessione di lavoro collaborativo, assicurandosi quindi di aver già raccolto tutte le informazioni necessarie per impostare al meglio l’attività di co-progettazione e non farla diventare una perdita di tempo per mancanza di dati o lacune nella preparazione. 
+
+  2. **Compilazione di una lista di partecipanti da invitare al workshop**, cercando di raccogliere l’adesione di tutti gli stakeholder coinvolti sul progetto e di coinvolgere una piccola rappresentanza per tutti gli attori rilevanti (utenti, operatori del servizio, soggetti privati, altri esperti o progettisti). Gli inviti dovranno dichiarare l’obiettivo della sessione e dare un’idea chiara del risultato atteso.
+
+  3. **Scelta di luogo, data e durata della sessione.** La durata consigliata è di circa mezza giornata (4 ore), in modo da avere tempo per introdurre al meglio le attività, svolgere gli esercizi programmati e discutere i risultati. Il workshop può quindi iniziare o concludersi con un momento di ristoro, che permette ai partecipanti di stabilire un contatto tra di loro e approfondire alcune discussioni in modo più informale.
+
+  4. **Definizione nel dettaglio** `dell’agenda per la sessione di workshop <https://docs.google.com/presentation/d/1dQqoq6hHBaFQ8Elz21tLrldvJJKo_7oC6FrtG3B9B60/edit?usp=sharing>`_, identificando una serie di esercizi da svolgere insieme e assegnando una durata a ogni esercizio. Se l’obiettivo è quello di generare insieme idee relative al servizio in questione, ci possono essere diverse strategie di impostazione della sessione. In alcuni casi si può ad esempio partire dai bisogni dell’utente, mappando i `personas <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Personas_Esercizio.pdf>`_ e le loro `user journey <https://designers.italia.it/assets/downloads/CoDesignWorkshop_UserJourney_Esercizio.pdf>`_ per individuare le criticità attuali e utilizzarle come ispirazione per generare idee. In altri casi si può invece partire da una `mappa di sistema <https://designers.italia.it/assets/downloads/CoDesignWorkshop_SystemMap_Esercizio.pdf>`_, riflettendo su tutte le criticità legate ai diversi ruoli e all’insieme di relazioni necessarie per abilitare il servizio e utilizzando il metodo del `card sorting <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Card%20sorting.pdf>`_ per discutere quali opportunità prioritizzare nel dare forma ad un nuovo servizio o nel migliorare il servizio esistente. Le scalette e strumenti citati sono solo esempi, ciascun gruppo di lavoro dovrà pensare una propria agenda per il workshop e ad un mix di esercizi adatti rispetto allo specifico contesto ed obiettivo progettuale. 
+
+Durante il workshop è importante fin da subito chiarire lo spirito di una sessione di lavoro collaborativo e invitare i partecipanti a ricordare che non ci sono idee giuste o idee sbagliate: l’importante è riuscire a costruire l’uno sulle idee e il contributo dell’altro in modo propositivo.
+Bisogna riuscire a mettere da parte per un momento le gerarchie, i vincoli, le leggi, e pensare fuori dagli schemi, esplorando soluzioni mai pensate fino a quel momento in totale libertà. Solo in un secondo momento, guidati dal moderatore, si passerà ad analizzare ogni idea emersa in modo più attento, per capire se è (o non è) attuabile e in caso negativo cosa possiamo conservare di quell’idea per migliorare ciò che abbiamo.
+
+`Vai al Kit di Designers Italia per i Co-Design Workshop <https://designers.italia.it/kit/co-design-workshop/>`_
+
+
 I Kit di Designers Italia
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
