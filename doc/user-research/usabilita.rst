@@ -153,29 +153,18 @@ Quest' `opera <http://www.funzionepubblica.gov.it/glu>`_
 è distribuita con licenza Creative Commons Attribution-ShareAlike 4.0 International 
 (`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it#>`_).
 
-**Realizzato dal gruppo di lavoro per la revisione del protocollo eGLU del 
-Gruppo di Lavoro per l’Usabilità (GLU).**
+**Realizzato dal gruppo di lavoro per la revisione del protocollo eGLU 
+del Gruppo di Lavoro per l’Usabilità (GLU).**
 
-**Coordinatori del gruppo di lavoro**
+Coordinatori del gruppo di lavoro: Simone Borsci, Maurizio Boscarol.
 
-- Simone Borsci, Assistant professor of Human Factors and Cognitive Ergonomics, 
-  Department of Cognitive psychology and Ergonomics, University of Twente, NL
-- Maurizio Boscarol, Psicologo cognitivo e specialista di usabilità, `Usabile.it <http://www.usabile.it/>`_
+Gruppo di lavoro: Stefano Federici, Jacopo Deyla, Domenico Polimeno, 
+Josè Compagnone, Marco Ranaldo, Maria Laura Mele. 
 
-**Gruppo di lavoro**
+A cura di: Alessandra Cornero.
 
-- Stefano Federici Professore associato di Psicologia generale, Dipartimento 
-  di filosofia, scienze sociali, umane e della formazione,  Università di Perugia
-- Jacopo Deyla, Consulente per accessibilità e usabilità, Regione Emilia-Romagna
-- Domenico Polimeno, Fifth Beat, IT
-- Josè Compagnone, UNISOB Napoli (Istituto Universitario Suor Orsola Benincasa), IT 
-- Marco Ranaldo, Presidente Compagnia Demetra, IT
-- Maria Laura Mele PhD, University of Perugia, IT
+Il Gruppo di Lavoro per l’Usabilità (GLU) è coordinato da: Emilio Simonetti.
 
-A cura di Alessandra Cornero, Responsabile Ufficio Gestione documentale, Formez PA
-
-Il Gruppo di Lavoro per l’Usabilità (GLU) è coordinato da: Emilio Simonetti, 
-Dirigente comunicazione istituzionale, Dipartimento della funzione pubblica 
 
 Introduzione alla procedura
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -357,7 +346,7 @@ Quanti e quali tipologie di partecipanti selezionare
 Quanti partecipanti
 *******************
 
-Secondo alcuni studi, con 5 partecipanti appartenenti alla stessa tipologia 
+Con 5 partecipanti appartenenti alla stessa tipologia 
 di utenti, è possibile far emergere circa l’85% dei problemi più frequenti 
 di un sito, per quella tipologia di utenti. In particolare, i problemi che 
 si presentano con una frequenza almeno del 31%. Aumentando il numero dei 
