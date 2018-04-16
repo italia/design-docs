@@ -52,3 +52,5 @@ Il progetto di design dei servizi pubblici digitali prevede che oltre al rilasci
 I kit - e la documentazione dei kit - possono essere citati all'interno delle linee guida, ma non sono contenuti all'interno di questo repo. I kit sono espressione delle linee guida, ma il versionamento delle linee guida e quello dei kit sono processi indipendenti.
 
 Altre informazioni sui kit sono disponibili sul sito [**Designers Italia**](https://designers.italia.it)
+
+Testo aggiuntivo.
