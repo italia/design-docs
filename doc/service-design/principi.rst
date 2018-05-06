@@ -3,6 +3,7 @@ Principi di design dei servizi
 
 Principi di service design
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Il service design è un approccio alla progettazione che si occupa di definire come si svolge la relazione tra un utente e un’organizzazione, generando un’esperienza di qualità per entrambe le parti coinvolte e agevolando il raggiungimento del risultato desiderato. 
 
 Quando l’organizzazione è la Pubblica Amministrazione l’utente è un cittadino: l’interazione avviene tramite una serie di canali (chiamati *touchpoint*) che definiscono le possibilità di relazione tra le due parti, fornendo da un lato al cittadino degli strumenti per svolgere attività specifiche e raggiungere i propri obiettivi, e dall’altro lato alla Pubblica Amministrazione un modo per rendere disponibili i propri servizi. 
@@ -57,7 +58,8 @@ La creazione di un sistema di valutazione misurabile è fondamentale per avviare
 Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi serve per esplorare rapidamente possibili soluzioni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
 
 Principi generali per l'e-government 
-~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Il piano di azione della UE per l’e-government ha varato un `piano di azione 
 2016-2020 <http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=EN>`_ che riporta i seguenti principi generali, coerenti con i principi di service design e con le linee guida di design dei servizi pubblici italiani
 
