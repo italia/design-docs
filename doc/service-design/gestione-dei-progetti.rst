@@ -42,16 +42,13 @@ Tipologie di progetti
 
 Per favorire la nascita di una nuova generazione di servizi digitali, le Pubbliche Amministrazioni devono attivare percorsi di design dei servizi che possiamo classificare in tre aree.
 
-*Ottimizzazione di servizi esistenti*
-
+**Ottimizzazione di servizi esistenti**
 Nel caso di ottimizzazione di servizi esistenti è necessario prima di tutto raccogliere tutti i dati disponibili relativi al loro utilizzo attuale (tramite *web analytics*, interviste utente oppure *usability test*) e analizzarli per capire quali sono le maggiori criticità e opportunità di miglioramento. Sulla base di questi elementi sarà possibile mappare l’attuale esperienza utente dei diversi profili coinvolti (*user journey*), evidenziare le criticità e immaginare quali percorsi è necessario migliorare (*user stories*). Le user stories sono il punto di partenza per riprogettare i flussi di interazione e le interfacce del servizio, effettuando interventi mirati. 
 
-*Riprogettazione di servizi esistenti in chiave digitale*
-
+**Riprogettazione di servizi esistenti in chiave digitale**
 Nel caso di processi di digitalizzazione di servizi esistenti bisognerà adottare una prospettiva più ampia in fase iniziale, per capire al meglio le necessità degli utenti coinvolti (*personas*) e le potenzialità delle piattaforme digitali nel migliorare la loro esperienza d’uso. In questa fase sarà necessario capire l’intero sistema che supporta l’erogazione del servizio (*system map*) e verificare quali aspetti possono essere digitalizzati e quali no, e capire come le due dimensioni si integrano. Terminati questi passaggi sarà possibile identificare le funzionalità chiave del servizio digitale e iniziare l’attività di progettazione, sempre attraverso la creazione di storie (*user stories*) che possono guidare l’attività di design e sviluppo in parallelo. In corso di sviluppo del prototipo, sarà bene verificare con gli utenti l’avanzamento in modo da validare la direzione progettuale e l’usabilità del servizio (test di usabilità) . 
 
-*Creazione di nuovi servizi* 
-
+**Creazione di nuovi servizi** 
 L’attività di creazione di nuovi servizi necessita uno sguardo ancora più ampio, partendo dalla mappatura di tutti gli stakeholder coinvolti e delle loro reciproche relazioni La comprensione dell’ecosistema aiuta a identificare quali attori è necessario coinvolgere o attivare, e quali dinamiche possono facilitare (o rendere molto difficile) la costruzione e l’implementazione del progetto. Sempre in questa fase, sarà necessario raccogliere il punto di vista degli utenti tramite attività di ricerca sul campo (*intervista in contesto* e *osservazione*), per capire al meglio le loro attuali criticità e necessità. I risultati della fase di analisi dell’ecosistema e di ricerca possono essere utilizzati per facilitare una o più sessioni di co-progettazione (*co-design workshop*) dove stakeholder, progettisti e utenti vengono invitati a dialogare e svolgere una serie di esercizi di ideazione insieme, in modo da dare forma a delle proposte di soluzioni. I risultati delle fase di ideazione possono essere a loro volta formalizzati in una serie di proposte di design (*information architecture*, *flussi di esperienza* e *storie*), da prototipare e validare prima di procedere all’esecuzione finale del progetto.  
 
 Il punto di riferimento per la costruzione di un percorso di design dei servizi è il sito `Designers Italia <https://designers.italia.it/>`_ che, oltre alle presenti linee guida offre kit e case histories.
@@ -136,9 +133,9 @@ La mappatura del sistema può assumere diverse strutture a seconda delle esigenz
 
 **Ecosystem Map**: se prendiamo in considerazione un servizio e tutti i soggetti coinvolti nella sua erogazione (dall’utente finale all’operatore della Pubblica Amministrazione) possiamo descrivere le loro relazioni evidenziando i passaggi di informazioni, documenti, denaro o altro valore, che intercorrono tra l’uno e l’altro. Le `mappe di sistema <https://designers.italia.it/kit/ecosystem-map/>`_ vengono costruite mettendo al centro il cittadino, e disponendo attorno a lui tutti i soggetti interessati: più vicino quelli maggiormente a contatto con l’utente e mano a mano più lontano quelli con le relazioni più deboli o nascoste. In un secondo momento, vengono tracciate delle linee di collegamento che forniscono l’informazione relativa allo scambio che avviene tra ciascun soggetto e soggetti vicini, costruendo man mano un’immagine completa della struttura su cui si basa il servizio.
 
-Coinvolgere gli Stakeholder
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
+Coinvolgere gli stakeholder
+^^^^^^^^^^^
+
 I processi di design dei servizi richiedono il coinvolgimento di tutti gli stakeholder il cui ruolo è collegato all’attività progettuale. Questo permette di capire le loro prospettive e motivazioni, allineare diversi punti di vista attorno ad una soluzione unica, creare consenso e prendere le decisioni necessarie più rapidamente. Il coinvolgimento dei dirigenti della Pubblica Amministrazione e degli addetti ai lavori dei vari Ministeri è necessario fin dalle fasi di definizione dei requisiti progettuali e del concept di servizio, per arrivare ai momenti di validazione e test del prodotto. La loro partecipazione può avvenire durante incontri di avanzamento lavori sul progetto o in sede di `workshop progettuali <https://designers.italia.it/kit/co-design-workshop/>`_, in cui si lavora in modo collaborativo attorno ad alcuni temi chiave del servizio in corso di definizione. 
 
 
