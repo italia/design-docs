@@ -14,4 +14,3 @@ da un contesto di informazioni sintetiche e chiare.
    service-design/gestione-dei-progetti.rst
    service-design/accessibilita.rst
    service-design/normativa.rst
-   service-design/design-management.rst
