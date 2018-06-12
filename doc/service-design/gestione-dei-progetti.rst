@@ -19,7 +19,7 @@ DA FARE ---> analisi e ridefinizione delle modalità di fruizione dei servizi x 
 -  L’**identificazione di un project manager** e la creazione di un team interdisciplinare dedicato al progetto, con competenze di ricerca, prototipazione e sviluppo di servizi. La composizione del team varia in relazione all’ampiezza del progetto e alle sue caratteristiche di base (nuovo servizio, redesign di servizio esistente, ottimizzazione di un servizio esistente).
 
 
--  La **definizione degli strumenti e ambienti di gestione del progetto**, privilegiando strumenti di lavoro open source, aperti e collaborativi, ispirati a una metodologia agile.
+-  La **definizione degli strumenti e ambienti di gestione del progetto**, privilegiando strumenti di lavoro open source, aperti e collaborativi, ispirati a una metodologia agile. Per essere efficaci non basta che un team sia affiatato e comunichi, è necessario costruire un ambiente di lavoro aperto, in cui sia possibile produrre e sviluppare prodotti in modo collaborativo. I team di lavoro devono sentirsi parte di un network più ampio fondato sulle competenze e sul riconoscimento delle best practice internazionali. La Pubblica Amministrazione si è dotata di alcuni spazi di lavoro con queste caratteristiche, da `Docs Italia <https://docs.italia.it/>`_ (documenti di progetto) a `Forum Italia <https://forum.italia.it/>`_(forum di discussione) fino a GitHub Italia (condivisione codice sorgente). All’interno di Designers Italia `tutti i progett <https://designers.italia.it/come-partecipo/>`_possono contribuire concretamente ad alimentare il design system centrale, costruendo valore attraverso la collaborazione tra tutte le parti che compongono la Pubblica Amministrazione. 
 
 
 Metodo di lavoro
