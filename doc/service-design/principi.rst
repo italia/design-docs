@@ -11,7 +11,7 @@ Quando l’organizzazione è la Pubblica Amministrazione l’utente è un cittad
 In fase di progettazione dei servizi ci sono alcune raccomandazioni da seguire.
 
 **Partire dai bisogni dei cittadini**
-Significa indagare, attraverso attività di user research (come i web analytics o la realizzazione di interviste e focus group) in che modo l’utente utilizza il sistema, e fare in modo che tutte le funzionalità siano disegnate intorno alle sue esigenze e modelli mentali, consentendogli di ottenere facilmente e rapidamente ciò di cui ha bisogno, senza passaggi inutili e con istruzioni comprensibili. 
+Significa indagare, attraverso attività di user research (come i web analytics o la realizzazione di interviste e focus group) in che modo l’utente utilizza il sistema, e fare in modo che tutte le funzionalità siano disegnate intorno alle sue esigenze e modelli mentali, consentendogli di ottenere facilmente e rapidamente ciò di cui ha bisogno, senza passaggi inutili e con istruzioni comprensibili. I servizi devono essere progettati intorno ai bisogni cittadini e non sulla base delle esigenze delle organizzazioni che li erogano
 
 
 **Trasparenza e collaborazione**
@@ -20,7 +20,7 @@ I servizi offerti devono essere semplici e chiari, in modo che il cittadino ries
 
 
 **Tra standard e personalizzazione**
-La progettazione dei servizi deve utilizzare al meglio metodologie, tecnologie, componenti standard indicate nel `Piano per l’informatica nella pubblica amministrazione <https://pianotriennale-ict.readthedocs.io/it/latest/doc/07_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html>`_, nelle linee guida tecniche di attuazione del Piano e in particolare in queste linee guida per il design dei servizi pubblici. La standardizzazione è fondamentale per favorire la sostenibilità e l’efficacia, consentendo di progettare ogni servizio partendo da standard elevati e concentrare le risorse disponibili sugli elementi di unicità del servizio, senza reinventare ogni volta la ruota.
+La progettazione dei servizi deve utilizzare al meglio metodologie, tecnologie, componenti standard indicate nel `Piano per l’informatica nella pubblica amministrazione <https://pianotriennale-ict.readthedocs.io/it/latest/doc/07_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html>`_, nelle linee guida tecniche di attuazione del Piano e in particolare in queste linee guida per il design dei servizi pubblici. La standardizzazione è fondamentale per favorire la sostenibilità e l’efficacia, consentendo di progettare ogni nuovo servizio partendo da componenti già esistenti e concentrare le risorse disponibili sugli elementi di unicità del servizio, senza dover "reinventare ogni volta la ruota".
 
 **Dal digitale alla multicanalità**
 Sempre più spesso, il digitale è il più importante punto di contatto e di erogazione del servizio. Secondo il `principio della UE <http://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52016DC0179&from=EN>`_  “digitale by default” il servizio deve essere organizzato in forma digitale, e a partire da questo bisogna progettare altri punti di contatto con il cittadino in modo da abbracciare un’ottica multicanale, che consideri in modo integrato ogni modalità di erogazione del servizio, digitale e fisica.
@@ -55,7 +55,7 @@ La creazione di un sistema di valutazione misurabile è fondamentale per avviare
 +------------------------------------------------------------------------------+
 
 **Miglioramento continuo**
-Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi serve per esplorare rapidamente possibili soluzioni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
+Il progetto parte dai bisogni degli utenti e prevede di usare i prototipi per esplorare rapidamente alcune possibili risposte a questi bisogni. Una volta identificata una strada, si comincia rilasciando una prima versione e gradualmente attivando nuove funzionalità derivate dai feedback degli utenti e dalla comprensione di cosa serva veramente. L’utilizzo di un approccio di data-driven design è funzionale a capire cosa serva veramente alle persone, evitare di creare servizi e funzionalità inutili, concentrarsi sull’essenziale e migliorarlo progressivamente.
 
 Principi generali per l'e-government 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +68,7 @@ Il piano di azione della UE per l’e-government ha varato un `piano di azione
 
 **Principio "una tantum"**: le pubbliche amministrazioni dovrebbero evitare di chiedere ai cittadini e alle imprese informazioni già fornite. Nei casi in cui sia consentito, gli uffici della pubblica amministrazione dovrebbero adoperarsi per riutilizzare internamente tali informazioni, nel rispetto delle norme in materia di protezione dei dati, in modo che sui cittadini e sulle imprese non ricadano oneri aggiuntivi.
 
-**Inclusività e accessibilità**: le pubbliche amministrazioni dovrebbero progettare servizi pubblici digitali che siano per definizione inclusivi e che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con disabilità.
+**Inclusione e accessibilità**: le pubbliche amministrazioni dovrebbero progettare servizi pubblici digitali che siano per definizione inclusivi e che vengano incontro alle diverse esigenze delle persone, ad esempio degli anziani e delle persone con disabilità.
 
 **Apertura e trasparenza**: le pubbliche amministrazioni dovrebbero scambiarsi le informazioni e i dati e permettere a cittadini e imprese di accedere ai propri dati, di controllarli e di correggerli; permettere agli utenti di sorvegliare i processi amministrativi che li vedono coinvolti; coinvolgere e aprirsi alle parti interessate (ad esempio imprese, ricercatori e organizzazioni senza scopo di lucro) nella progettazione e nella prestazione dei servizi.
 
