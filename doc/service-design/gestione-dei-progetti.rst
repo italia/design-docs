@@ -116,6 +116,9 @@ Il ruolo degli stakeholder
 
 Il service design mette a disposizioni dei progettisti e dei funzionari della Pubblica Amministrazione una serie di strumenti utili all’analisi delle necessità di tutti gli attori coinvolti, che aiutano a mettere a fuoco tutte le variabili necessarie e quindi gestire la complessità del progetto, strutturando il servizio in modo che sia usabile ed efficace per l’utente, e allo stesso tempo efficiente per gli operatori della Pubblica Amministrazione.
 
+E' fondamentale che tutte le persone che sono coinvolte a vario titolo nella ideazione e nella realizzazione di un servizio, a partire dai più alti livelli dell’Amministrazione che ne è responsabile, siano direttamente chiamate a provare direttamente il servizio e a valutarlo in tutti i suoi aspetti di funzionamento pratico, prima della sua effettiva uscita.
+
+
 System maps
 ^^^^^^^^^^^
  
