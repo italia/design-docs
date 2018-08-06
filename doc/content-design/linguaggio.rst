@@ -140,7 +140,7 @@ fase di creazione di un servizio evitando di dover reinventare ogni
 volta la ruota. Tra questi rientrano anche una serie di *design
 pattern*, che offrono linee guida ben precise relativamente alla
 struttura e organizzazione dei contenuti (*content type* e *content
-pattern*)
+pattern*).
 
 +------------------------------------------------------------------------------------------------------------------------+
 | .. rubric:: Progettare i contenuti: content type e content pattern                                                     |
@@ -173,7 +173,7 @@ pattern*)
 | **All’interno del design system di Designers Italia esiste un luogo                                                    |
 | in cui si sta progressivamente costruendo una libreria di content                                                      |
 | type: è il** `wireframe                                                                                                |
-| kit <https://designers.italia.it/kit/wireframe-kit/>`__                                                                |
+| kit <https://designers.italia.it/kit/wireframe-kit/>`__.                                                               |
 |                                                                                                                        |
 | La diversa funzione che ha ogni *content type* è rilevante non solo                                                    |
 | per chi si occupa del design del sito, ma anche per chi si occupa di                                                   |
@@ -821,14 +821,14 @@ necessario organizzare un flusso di lavoro che preveda:
 -  la `mappatura <linguaggio.html#linventario-dei-contenuti-content-inventory>`_ di tutti i contenuti;
 
 -  la scelta dei contenuti da tradurre, in base agli utenti e agli
-   `obiettivi da raggiungere <linguaggio.html#progettare-i-contenuti>`_ ;
+   `obiettivi da raggiungere <linguaggio.html#progettare-i-contenuti>`_;
 
 -  l'organizzazione all'interno del team del lavoro di traduzione e
    localizzazione dei contenuti;
 
 -  il test dell'efficacia dei contenuti tradotti (tramite `A/B
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
-   `usability test <https://designers.italia.it/kit/usability-test/>`__)
+   `usability test <https://designers.italia.it/kit/usability-test/>`__).
 
 Se traduci **solo alcune parti** del tuo sito:
 
@@ -916,13 +916,13 @@ Quando i contenuti sono pubblicati all’interno di **un sito web
 pubblico**, le licenze di utilizzo possono essere indicate scrivendo nel
 footer:
 
-“*Tutti i contenuti presenti su questo sito web, salvo diversa
-specifica, si intendono rilasciati con licenza* `Creative Commons
-Attribution
-4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ *. I testi
-degli atti ufficiali sono, invece, in pubblico dominio* (`Creative
-Commons
-Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__).”
+   “Tutti i contenuti presenti su questo sito web, salvo diversa
+   specifica, si intendono rilasciati con licenza* `Creative Commons
+   Attribution
+   4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ . I testi
+   degli atti ufficiali sono, invece, in pubblico dominio* (`Creative
+   Commons
+   Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__).”
 
 Nel caso della pubblicazione di **documenti**, si può fare una
 distinzione:
@@ -940,10 +940,10 @@ distinzione:
    altri documenti possono essere soggetti ad altri tipi di licenze
    aperte. In questi casi si può precisare in calce l’indicazione:
 
-*“Il presente contenuto è reso disponibile al pubblico nei termini di
-cui alla Licenza XXXX disponibile al seguente link: INSERIRE link al
-contenuto esteso della licenza. Il relativo contratto di licenza si
-intende concluso a seguito del semplice utilizzo del contenuto.”*
+      “Il presente contenuto è reso disponibile al pubblico nei termini di
+      cui alla Licenza XXXX disponibile al seguente link: INSERIRE link al
+      contenuto esteso della licenza. Il relativo contratto di licenza si
+      intende concluso a seguito del semplice utilizzo del contenuto.”
 
 Nota che le uniche licenze *Creative Commons* di tipo aperto sono la
 `Creative Commons
@@ -1222,7 +1222,7 @@ l’indicizzazione dei contenuti sul web.
 
 .. admonition:: Importante                                                    
                                                                        
-   La soluzione più adatta è mostrare il contenuto in forma Html. Se    
+   La soluzione più adatta è mostrare il contenuto in formato Html. Se    
    ciò non è possibile, si possono usare altri formati, ma si deve       
    sempre creare una pagina web corrispondente al documento che riporti  
    titolo e descrizione del contenuto.                                  
