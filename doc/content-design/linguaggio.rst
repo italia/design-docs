@@ -400,7 +400,7 @@ usabilità <https://designers.italia.it/kit/usability-test/>`__, per
 esempio).
 
 I contenuti pubblicati su un sito devono essere pensati come un oggetto
-in continua evoluzione. Organizza un flusso di lavoro con il tuo team
+in continua evoluzione. `Organizza un flusso di lavoro con il tuo team <linguaggio.html#come-organizzare-il-lavoro>`_
 affinché tutti i contenuti del tuo sito siano:
 
 -  realizzati con strumenti di **scrittura e editing collaborativi**;
@@ -490,9 +490,8 @@ In genere questa attività richiede:
    contenuti o di revisione di contenuti esistenti.
 
 Una corretta gestione dei contenuti è fondamentale anche per la gestione
-di attività “straordinarie”, come la migrazione dei contenuti ad un
-nuovo sito web, o la traduzione di una parte dei contenuti del proprio
-sito.
+di attività “straordinarie”, come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-content-inventory>`_
+ ad un nuovo sito web, o `la traduzione di una parte dei contenuti <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
 L’inventario dei contenuti (content inventory)
 ----------------------------------------------
@@ -665,7 +664,7 @@ obiettivi specifici, le seguenti dimensioni:
 
 -  ci sono **refusi o errori grammaticali**?
 
--  le etichette di navigazione nella pagina sono chiare? Riesci a capire
+-  le `etichette di navigazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/usabilita.html#label>`_ nella pagina sono chiare? Riesci a capire
    dove ti porteranno?
 
 -  ci sono acronimi o delle maiuscole “di troppo”, che rendono meno
@@ -685,7 +684,7 @@ test <https://designers.italia.it/kit/usability-test/>`__.
 Una seconda modalità di lavoro è quella degli `A/B
 test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
 molto utile per avviare processi di miglioramento continuo delle
-interfacce utente (comprensive di label, microcopy e altri contenuti).
+interfacce utente (comprensive di `label <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/usabilita.html#label>`_, microcopy e altri contenuti).
 
 Come organizzare il lavoro
 --------------------------
@@ -817,10 +816,10 @@ La scelta va fatta in considerazione:
 Per la creazione e la gestione di una versione multilingua di un sito è
 necessario organizzare un flusso di lavoro che preveda:
 
--  la mappatura di tutti i contenuti;
+-  la `mappatura <linguaggio.html#linventario-dei-contenuti-content-inventory>`_ di tutti i contenuti;
 
 -  la scelta dei contenuti da tradurre, in base agli utenti e agli
-   obiettivi da raggiungere;
+   `obiettivi da raggiungere <linguaggio.html#progettare-i-contenuti>`_ ;
 
 -  l'organizzazione all'interno del team del lavoro di traduzione e
    localizzazione dei contenuti;
