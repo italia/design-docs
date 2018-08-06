@@ -145,11 +145,7 @@ pattern*)
 Per approfondire, vai al capitolo dedicato alla prototipazione.
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento                                           |
-|    :name: approfondimento                                             |
-|                                                                       |
 | .. rubric:: Progettare i contenuti: content type e content pattern    |
-|    :name: progettare-i-contenuti-content-type-e-content-pattern       |
 |                                                                       |
 | In un sistema complesso come quello della Pubblica Amministrazione, è |
 | utile identificare degli elementi (che possiamo definire “pattern”)   |
@@ -320,80 +316,73 @@ a queste domande:
 
 .. _section-1:
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento: I testi come interfacce, il microcopy    |
-|    :name: approfondimento-i-testi-come-interfacce-il-microcopy        |
-|                                                                       |
-| Una *label* (o etichetta) è un breve testo o un’icona che indica un   |
-| insieme di contenuti con tratti in comune: attraverso le label        |
-| l’utente si orienta nell’ambiente facendosi un’idea                   |
-| dell’organizzazione e del sistema di navigazione. Le label dovrebbero |
-| guidare gli utenti con chiarezza nei nuovi concetti e aiutarli a      |
-| identificare quelli già familiari con facilità.                       |
-|                                                                       |
-| **Le label sono un sistema** che guadagna solidità dalla coerenza dei |
-| suoi elementi: per questo non si progettano singole label, ma sistemi |
-| di label. Nel progettare un *labeling system* è importante tenere     |
-| conto:                                                                |
-|                                                                       |
-| -  delle `buone pratiche su linguaggio e composizione dei             |
-|    contenuti <https://guida-linguaggio-pubblica-amministrazione.readt |
-| hedocs.io/it/latest/suggerimenti-di-scrittura.html>`__;               |
-|                                                                       |
-| -  delle pratiche di organizzazione dei contenuti dal punto di vista  |
-|    dell’\ `architettura                                               |
-|    dell’informazione <http://design-italia.readthedocs.io/it/stable/d |
-| oc/content-design/architettura-dell-informazione.html>`__;            |
-|                                                                       |
-| -  dell’ottimizzazione dei contenuti `in ottica                       |
-|    SEO. <http://design-italia.readthedocs.io/it/stable/doc/content-de |
-| sign/seo.html>`__                                                     |
-|                                                                       |
-| Lavorare sulla coerenza del sistema richiede grande attenzione:       |
-| alcuni elementi possono influenzarne la solidità. Di seguito trovi    |
-| una checklist per verificare l’uniformità di alcuni elementi che – se |
-| incoerenti – possono rischiare di rendere incoerente (e quindi        |
-| ambiguo) il *labeling system*.                                        |
-|                                                                       |
-| -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle  |
-|    varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.                    |
-|                                                                       |
-| -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,  |
-|    sfondi possono rinforzare la coerenza di un labeling system.       |
-|                                                                       |
-| -  **Sintassi:** evita di avere nello stesso sistema label a base     |
-|    verbale (“Scarica il documento”), nominale (“Documenti             |
-|    scaricabili”) e domande (“Devi scaricare il documento?”). Scegli   |
-|    un approccio sintattico e mantienilo.                              |
-|                                                                       |
-| -  **Livello di granularità:** all’interno del sistema è meglio avere |
-|    label di pari livello di specificità. “Modulo per la richiesta di  |
-|    cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa   |
-|    area del sito e allo stesso livello, genererebbe confusione.       |
-|                                                                       |
-| -  **Completezza:** l’assenza evidente di una voce nel sistema di     |
-|    etichette potrebbe confondere l’utente. Per esempio: la mancanza   |
-|    della voce “Anagrafe” sul sito di un Comune potrebbe far pensare a |
-|    un errore e di conseguenza l’incertezza per l’utente nel capire    |
-|    come muoversi nell’ambiente.                                       |
-|                                                                       |
-| -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi  |
-|    dalla ricerca sugli utenti, in modo che il sistema sia efficace e  |
-|    meno ambiguo possibile.                                            |
-|                                                                       |
-| La **ricerca sugli utenti** può fornire utili risposte per la         |
-| progettazione del *labeling system*. I metodi diretti sono `il card   |
-| sorting <https://designers.italia.it/assets/downloads/CoDesignWorksho |
-| p_Card%20sorting.pdf>`__                                              |
-| e il *free listing*; quelli indiretti – che forniscono dati           |
-| quantitativi più grezzi e da rielaborare – sono la ricerca interna ed |
-| esterna al sito, con strumenti come `web                              |
-| analytics <https://designers.italia.it/kit/analytics/>`__ e `Google   |
-| Search                                                                |
-| Console <https://design-italia.readthedocs.io/it/stable/doc/content-d |
-| esign/seo.html?highlight=search%20console#webmaster-tools-search-cons |
-| ole-di-google>`__.                                                    |
-+-----------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------+
+| .. rubric:: I testi come interfacce, il microcopy                                                                                                    |
+|                                                                                                                                                      |
+| Una *label* (o etichetta) è un breve testo o un’icona che indica un                                                                                  |
+| insieme di contenuti con tratti in comune: attraverso le label                                                                                       |
+| l’utente si orienta nell’ambiente facendosi un’idea                                                                                                  |
+| dell’organizzazione e del sistema di navigazione. Le label dovrebbero                                                                                |
+| guidare gli utenti con chiarezza nei nuovi concetti e aiutarli a                                                                                     |
+| identificare quelli già familiari con facilità.                                                                                                      |
+|                                                                                                                                                      |
+| **Le label sono un sistema** che guadagna solidità dalla coerenza dei                                                                                |
+| suoi elementi: per questo non si progettano singole label, ma sistemi                                                                                |
+| di label. Nel progettare un *labeling system* è importante tenere                                                                                    |
+| conto:                                                                                                                                               |
+|                                                                                                                                                      |
+| -  delle `buone pratiche su linguaggio e composizione dei                                                                                            |
+|    contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__;                         |
+|                                                                                                                                                      |
+| -  delle pratiche di organizzazione dei contenuti dal punto di vista                                                                                 |
+|    dell’\ `architettura                                                                                                                              |
+|    dell’informazione <http://design-italia.readthedocs.io/it/stable/doc/content-design/architettura-dell-informazione.html>`__;                      |
+|                                                                                                                                                      |
+| -  dell’ottimizzazione dei contenuti `in ottica                                                                                                      |
+|    SEO. <http://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html>`__                                                               |
+|                                                                                                                                                      |
+| Lavorare sulla coerenza del sistema richiede grande attenzione:                                                                                      |
+| alcuni elementi possono influenzarne la solidità. Di seguito trovi                                                                                   |
+| una checklist per verificare l’uniformità di alcuni elementi che – se                                                                                |
+| incoerenti – possono rischiare di rendere incoerente (e quindi                                                                                       |
+| ambiguo) il *labeling system*.                                                                                                                       |
+|                                                                                                                                                      |
+| -  **Stile e ortografia:** verifica, per esempio, l’uniformità delle                                                                                 |
+|    varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.                                                                                                   |
+|                                                                                                                                                      |
+| -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,                                                                                 |
+|    sfondi possono rinforzare la coerenza di un labeling system.                                                                                      |
+|                                                                                                                                                      |
+| -  **Sintassi:** evita di avere nello stesso sistema label a base                                                                                    |
+|    verbale (“Scarica il documento”), nominale (“Documenti                                                                                            |
+|    scaricabili”) e domande (“Devi scaricare il documento?”). Scegli                                                                                  |
+|    un approccio sintattico e mantienilo.                                                                                                             |
+|                                                                                                                                                      |
+| -  **Livello di granularità:** all’interno del sistema è meglio avere                                                                                |
+|    label di pari livello di specificità. “Modulo per la richiesta di                                                                                 |
+|    cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa                                                                                  |
+|    area del sito e allo stesso livello, genererebbe confusione.                                                                                      |
+|                                                                                                                                                      |
+| -  **Completezza:** l’assenza evidente di una voce nel sistema di                                                                                    |
+|    etichette potrebbe confondere l’utente. Per esempio: la mancanza                                                                                  |
+|    della voce “Anagrafe” sul sito di un Comune potrebbe far pensare a                                                                                |
+|    un errore e di conseguenza l’incertezza per l’utente nel capire                                                                                   |
+|    come muoversi nell’ambiente.                                                                                                                      |
+|                                                                                                                                                      |
+| -  **Utente di riferimento:** tieni sempre presenti i bisogni emersi                                                                                 |
+|    dalla ricerca sugli utenti, in modo che il sistema sia efficace e                                                                                 |
+|    meno ambiguo possibile.                                                                                                                           |
+|                                                                                                                                                      |
+| La **ricerca sugli utenti** può fornire utili risposte per la                                                                                        |
+| progettazione del *labeling system*. I metodi diretti sono `il card                                                                                  |
+| sorting <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Card%20sorting.pdf>`__                                                        |
+| e il *free listing*; quelli indiretti – che forniscono dati                                                                                          |
+| quantitativi più grezzi e da rielaborare – sono la ricerca interna ed                                                                                |
+| esterna al sito, con strumenti come `web                                                                                                             |
+| analytics <https://designers.italia.it/kit/analytics/>`__ e                                                                                          |
+| `Google Search Console                                                                                                                               |
+| <https://design-italia.readthedocs.io/it/stable/doc/content-design/seo.html?highlight=search%20console#webmaster-tools-search-console-di-google>`__. |
++------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 .. _section-2:
 
@@ -452,38 +441,36 @@ contenuti.
   SEO <https://designers.italia.it/kit/SEO/>`__).\ `
    <https://designers.italia.it/kit/SEO/>`__
 
-+-----------------------------------------------------------------------+
-| .. rubric:: **Strumenti di editing collaborativo**                    |
-|    :name: strumenti-di-editing-collaborativo                          |
-|                                                                       |
-| Gli strumenti di editing collaborativo ti permettono di creare nuovi  |
-| contenuti o di fare dei processi di revisione di contenuti già        |
-| esistenti con **altri membri del tuo team**. In questo modo puoi      |
-| avere più punti di vista sui contenuti, per verificare la chiarezza e |
-| l’efficacia delle informazioni e ottenere il miglior risultato        |
-| possibile.                                                            |
-|                                                                       |
-| All’interno del `Content                                              |
-| kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un |
-| esercizio di `editing collaborativo “Prima e                          |
-| dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLn |
-| mKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”                              |
-| che ti mostra in che modo utilizzare:                                 |
-|                                                                       |
-| -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e |
-|    `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di   |
-|    fare una revisione dei contenuti direttamente nel loro contesto    |
-|    d’uso, online (nel caso di contenuti già pubblicati) oppure in un  |
-|    prototipo (nel caso di nuovi contenuti). Questo approccio è        |
-|    particolarmente utile per analizzare e migliorare label, voci di   |
-|    menu e testi che accompagnanano le interfacce grafiche attraverso  |
-|    cui si fruisce un servizio                                         |
-|                                                                       |
-| -  degli strumenti di scrittura collaborativa come `Google            |
-|    Docs <https://docs.google.com/document/u/0/>`__, che ti permettono |
-|    di fare interventi condivisi sulle parti testuali del tuo          |
-|    contenuto.                                                         |
-+-----------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------+
+| .. rubric:: Strumenti di editing collaborativo                                                                |
+|                                                                                                               |
+| Gli strumenti di editing collaborativo ti permettono di creare nuovi                                          |
+| contenuti o di fare dei processi di revisione di contenuti già                                                |
+| esistenti con **altri membri del tuo team**. In questo modo puoi                                              |
+| avere più punti di vista sui contenuti, per verificare la chiarezza e                                         |
+| l’efficacia delle informazioni e ottenere il miglior risultato                                                |
+| possibile.                                                                                                    |
+|                                                                                                               |
+| All’interno del `Content                                                                                      |
+| kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un                                         |
+| esercizio di `editing collaborativo “Prima e                                                                  |
+| dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ” |
+| che ti mostra in che modo utilizzare:                                                                         |
+|                                                                                                               |
+| -  degli strumenti come `InVision <https://www.invisionapp.com/>`__ e                                         |
+|    `Hypothes.is <https://web.hypothes.is/>`__, che ti permettono di                                           |
+|    fare una revisione dei contenuti direttamente nel loro contesto                                            |
+|    d’uso, online (nel caso di contenuti già pubblicati) oppure in un                                          |
+|    prototipo (nel caso di nuovi contenuti). Questo approccio è                                                |
+|    particolarmente utile per analizzare e migliorare label, voci di                                           |
+|    menu e testi che accompagnanano le interfacce grafiche attraverso                                          |
+|    cui si fruisce un servizio                                                                                 |
+|                                                                                                               |
+| -  degli strumenti di scrittura collaborativa come `Google                                                    |
+|    Docs <https://docs.google.com/document/u/0/>`__, che ti permettono                                         |
+|    di fare interventi condivisi sulle parti testuali del tuo                                                  |
+|    contenuto.                                                                                                 |
++---------------------------------------------------------------------------------------------------------------+
 
 Gestire i contenuti
 ===================
@@ -512,7 +499,7 @@ di attività “straordinarie”, come la migrazione dei contenuti ad un
 nuovo sito web, o la traduzione di una parte dei contenuti del proprio
 sito.
 
-L’inventario dei contenuti (content Inventory)
+L’inventario dei contenuti (content inventory)
 ----------------------------------------------
 
 Il primo passo consiste nella gestione ordinata dei contenuti (pagine,
@@ -532,10 +519,7 @@ specifico è il processo di migrazione dei contenuti da una
 infrastruttura tecnologica all’altra
 
 +-----------------------------------------------------------------------+
-| .. rubric:: Approfondimento: Gestire un processo di migrazione dei    |
-|    contenuti                                                          |
-|    :name: approfondimento-gestire-un-processo-di-migrazione-dei-conte |
-| nuti                                                                  |
+| .. rubric:: Gestire un processo di migrazione dei contenuti           |
 |                                                                       |
 | La migrazione dei contenuti di un sito web è un’operazione che spesso |
 | prevede:                                                              |
