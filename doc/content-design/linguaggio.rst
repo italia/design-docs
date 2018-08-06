@@ -1265,7 +1265,8 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-**1. Creazione di un contenuto in formato Html in modo nativo**
+1. Creazione di un contenuto in formato Html in modo nativo
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Con questo approccio, è possibile per esempio:
 
@@ -1317,7 +1318,8 @@ i processi di consultazione come previsto dal CAD, art. 18
 | .                                                                     |
 +-----------------------------------------------------------------------+
 
-**2. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)**
+2. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
