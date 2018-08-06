@@ -1085,7 +1085,7 @@ test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-exp
 e `test di
 usabilità <https://designers.italia.it/kit/usability-test/>`__ da parte
 degli utenti - cittadini, imprese e dipendenti della Pubblica
-Amministrazione
+Amministrazione.
 
 I documenti vanno sul web 
 --------------------------
