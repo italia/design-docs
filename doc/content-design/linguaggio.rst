@@ -109,7 +109,7 @@ utenti si muoveranno. Il linguaggio verbale infatti ha diverse funzioni:
    compilando un form on line);
 
 -  è esso stesso un elemento chiave del servizio (es. Il documento
-   “pagella” che viene letto da un genitore nel sito di una scuola);
+   “pagella” che viene letto da un genitore nel sito di una scuola).
 
 Il punto di partenza per avviare il lavoro di progettazione dei
 contenuti può essere un `workshop dedicato al
@@ -131,7 +131,7 @@ Le priorità sono le seguenti:
 -  che **parole** usano le persone per chiamare un servizio? che nome
    dare dunque ai contenuti e ai servizi?
 
-Per dare risposta a questa domande bisogna entrare nel processo di
+Per dare risposta a questa domande devi entrare nel processo di
 prototipazione, dove il servizio prende forma (o viene ridefinito).
 
 La progettazione di un servizio beneficia della presenza di un **design
@@ -142,8 +142,6 @@ pattern*, che offrono linee guida ben precise relativamente alla
 struttura e organizzazione dei contenuti (*content type* e *content
 pattern*)
 
-Per approfondire, vai al capitolo dedicato alla prototipazione.
-
 +-----------------------------------------------------------------------+
 | .. rubric:: Progettare i contenuti: content type e content pattern    |
 |                                                                       |
@@ -152,9 +150,9 @@ Per approfondire, vai al capitolo dedicato alla prototipazione.
 | in grado di offrire risposte standard a classi di bisogni simili. I   |
 | pattern relativi ai contenuti possono essere di due tipi:             |
 |                                                                       |
-| -  stilistici e sintattici                                            |
+| -  stilistici e sintattici;                                           |
 |                                                                       |
-| -  pagine web                                                         |
+| -  pagine web.                                                        |
 |                                                                       |
 | Per approfondire le regole stilistiche e sintattiche, puoi consultare |
 | la `guida al linguaggio della Pubblica                                |
@@ -434,12 +432,9 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 per poi attivare **un processo di riscrittura** e miglioramento dei
 contenuti.
 
-| Se il tuo focus è fare in modo che il tuo servizio sia più facile da
-  trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
-  SEO è disponibile un modello di analisi specifico
-| (`Vai al kit dedicato alla
-  SEO <https://designers.italia.it/kit/SEO/>`__).\ `
-   <https://designers.italia.it/kit/SEO/>`__
+Se il tuo focus è fare in modo che il tuo servizio sia più facile da
+trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
+SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
 
 +---------------------------------------------------------------------------------------------------------------+
 | .. rubric:: Strumenti di editing collaborativo                                                                |
