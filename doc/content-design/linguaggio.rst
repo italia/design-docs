@@ -39,7 +39,7 @@ che modo risponde a un bisogno dei cittadini (o di specifiche categorie
 di cittadini). Per individuare chi sono i tuoi utenti e quali sono i
 loro bisogni, utilizza in modo appropriato tutti gli strumenti della
 `user
-research <https://design-italia.readthedocs.io/it/stable/doc/user-research.html>`__,
+research <../user-research.html>`__,
 come ad esempio:
 
 -  sessioni partecipative con gli utenti (puoi usare `il kit per le User
@@ -117,7 +117,7 @@ linguaggio <https://docs.google.com/presentation/d/1x5wtOl0D5LZEugRAp7-XwNdcyAV_
 e ai contenuti (in cui coinvolgere *stakeholder* e utenti del servizio)
 e in particolare la realizzazione di una `mappatura dei bisogni
 informativi
-dell’utente <https://drive.google.com/file/d/1HEaJVym_dHbT2HdNd8oWDZZBMUwCuaFe/view>`__
+dell’utente <https://drive.google.com/file/d/1HEaJVym_dHbT2HdNd8oWDZZBMUwCuaFe/view>`__.
 
 Le priorità sono le seguenti:
 
@@ -142,100 +142,99 @@ pattern*, che offrono linee guida ben precise relativamente alla
 struttura e organizzazione dei contenuti (*content type* e *content
 pattern*)
 
-+-----------------------------------------------------------------------+
-| .. rubric:: Progettare i contenuti: content type e content pattern    |
-|                                                                       |
-| In un sistema complesso come quello della Pubblica Amministrazione, è |
-| utile identificare degli elementi (che possiamo definire “pattern”)   |
-| in grado di offrire risposte standard a classi di bisogni simili. I   |
-| pattern relativi ai contenuti possono essere di due tipi:             |
-|                                                                       |
-| -  stilistici e sintattici;                                           |
-|                                                                       |
-| -  pagine web.                                                        |
-|                                                                       |
-| Per approfondire le regole stilistiche e sintattiche, puoi consultare |
-| la `guida al linguaggio della Pubblica                                |
-| Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re |
-| adthedocs.io/it/latest/>`__                                           |
-|                                                                       |
-| Qui approfondiamo il tema della costruzione di pagine web che possano |
-| offrire una struttura standard per rispondere a specifici bisogni     |
-| degli utenti. Spesso si fa riferimento a queste tipologie di pagine   |
-| come “\ *content type*\ ”.                                            |
-|                                                                       |
-| In fase di progettazione, i contenuti di un sito web sono organizzati |
-| in diverse tipologie, o *content type*. Questa “classificazione”      |
-| permette di inquadrare meglio la funzione narrativa di ogni tipo di   |
-| contenuto, per strutturarlo in modo tale da renderlo il più efficace  |
-| possibile.                                                            |
-|                                                                       |
-| **All’interno del design system di Designers Italia esiste un luogo   |
-| in cui si sta progressivamente costruendo una libreria di content     |
-| type: è il**\ `wireframe                                              |
-| kit <https://designers.italia.it/kit/wireframe-kit/>`__               |
-|                                                                       |
-| La diversa funzione che ha ogni *content type* è rilevante non solo   |
-| per chi si occupa del design del sito, ma anche per chi si occupa di  |
-| produrre contenuti, che deve tenere bene a mente lo scopo della       |
-| pagina su cui andrà a pubblicare il suo contenuto.                    |
-|                                                                       |
-| Per esempio, è compito di chi scrive contenuti stabilire che in tutte |
-| **le pagine di lista** del sito potrebbe essere previsto un titolo,   |
-| un sommario e un breve testo di introduzione, per spiegare in modo    |
-| chiaro all’utente che tipo di informazioni, articoli o schede         |
-| servizio sono elencate.                                               |
-|                                                                       |
-| Alcuni esempi dei più comuni *content type* in un sito sono:          |
-|                                                                       |
-| -  **Search**: la funzione principale di un motore di ricerca è       |
-|    permettere all’utente di trovare all’interno del sito o di una     |
-|    sezione le informazioni che sta cercando tramite parole chiave.    |
-|                                                                       |
-| -  **Scheda servizio**: la funzione principale è descrivere           |
-|    all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha  |
-|    diritto, come fruirne.                                             |
-|                                                                       |
-| -  **Liste**: le pagine di lista permettono all’utente di orientarsi  |
-|    all’interno di alcune sezioni, organizzate per tag, per categoria, |
-|    per argomento.                                                     |
-|                                                                       |
-| -  **Homepage**: l’homepage ha in genere la funzione principale di    |
-|    orientare l’utente all’interno dei contenuti del sito, per         |
-|    permettergli di raggiungere rapidamente le informazioni che sta    |
-|    cercando.                                                          |
-|                                                                       |
-| -  **Form e wizard**: questi *content type* accompagnano l’utente     |
-|    nell’esecuzione di un’azione, compilando alcuni campi o            |
-|    interagendo con elementi dell’interfaccia (etichette, bottoni).    |
-|                                                                       |
-| -  **Contenuti di servizio**: queste pagine hanno la funzione di      |
-|    presentare informazioni (chi siamo, contatti, dicono di noi, ecc). |
-|                                                                       |
-| -  **Carrello**: permette all’utente di portare facilmente a termine  |
-|    un acquisto.                                                       |
-|                                                                       |
-| -  **Articoli**: in genere hanno la funzione di offrire all’utente    |
-|    un’informazione precisa, in modo chiaro e sintetico.               |
-|                                                                       |
-| -  **Area personale**: la funzione tipica è quella di orientare       |
-|    l’utente tra alcune funzioni riservate, come le preferenze, la     |
-|    gestione delle notifiche, dei propri dati, ecc.                    |
-|                                                                       |
-| Anche nel `modello di analisi dei                                     |
-| contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFty |
-| af95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__                     |
-| che abbiamo pubblicato all’interno del `Content                       |
-| kit <https://designers.italia.it/kit/content-kit/>`__, per ogni       |
-| pagina presa in considerazione è necessario domandarsi di che tipo di |
-| *content type* si tratti. In questo modo è possibile assicurarsi:     |
-|                                                                       |
-| -  che tutti i *content type* uguali siano trattati in maniera        |
-|    coerente all’interno del sito;                                     |
-|                                                                       |
-| -  che le pagine rispondano effettivamente alla funzione narrativa    |
-|    che dovrebbero assolvere.                                          |
-+-----------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------+
+| .. rubric:: Progettare i contenuti: content type e content pattern                                                     |
+|                                                                                                                        |
+| In un sistema complesso come quello della Pubblica Amministrazione, è                                                  |
+| utile identificare degli elementi (che possiamo definire “pattern”)                                                    |
+| in grado di offrire risposte standard a classi di bisogni simili. I                                                    |
+| pattern relativi ai contenuti possono essere di due tipi:                                                              |
+|                                                                                                                        |
+| -  stilistici e sintattici;                                                                                            |
+|                                                                                                                        |
+| -  pagine web.                                                                                                         |
+|                                                                                                                        |
+| Per approfondire le regole stilistiche e sintattiche, puoi consultare                                                  |
+| la `guida al linguaggio della Pubblica                                                                                 |
+| Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re                                                  |
+| adthedocs.io/it/latest/>`__                                                                                            |
+|                                                                                                                        |
+| Qui approfondiamo il tema della costruzione di pagine web che possano                                                  |
+| offrire una struttura standard per rispondere a specifici bisogni                                                      |
+| degli utenti. Spesso si fa riferimento a queste tipologie di pagine                                                    |
+| come “\ *content type*\ ”.                                                                                             |
+|                                                                                                                        |
+| In fase di progettazione, i contenuti di un sito web sono organizzati                                                  |
+| in diverse tipologie, o *content type*. Questa “classificazione”                                                       |
+| permette di inquadrare meglio la funzione narrativa di ogni tipo di                                                    |
+| contenuto, per strutturarlo in modo tale da renderlo il più efficace                                                   |
+| possibile.                                                                                                             |
+|                                                                                                                        |
+| **All’interno del design system di Designers Italia esiste un luogo                                                    |
+| in cui si sta progressivamente costruendo una libreria di content                                                      |
+| type: è il** `wireframe                                                                                                |
+| kit <https://designers.italia.it/kit/wireframe-kit/>`__                                                                |
+|                                                                                                                        |
+| La diversa funzione che ha ogni *content type* è rilevante non solo                                                    |
+| per chi si occupa del design del sito, ma anche per chi si occupa di                                                   |
+| produrre contenuti, che deve tenere bene a mente lo scopo della                                                        |
+| pagina su cui andrà a pubblicare il suo contenuto.                                                                     |
+|                                                                                                                        |
+| Per esempio, è compito di chi scrive contenuti stabilire che in tutte                                                  |
+| **le pagine di lista** del sito potrebbe essere previsto un titolo,                                                    |
+| un sommario e un breve testo di introduzione, per spiegare in modo                                                     |
+| chiaro all’utente che tipo di informazioni, articoli o schede                                                          |
+| servizio sono elencate.                                                                                                |
+|                                                                                                                        |
+| Alcuni esempi dei più comuni *content type* in un sito sono:                                                           |
+|                                                                                                                        |
+| -  **Search**: la funzione principale di un motore di ricerca è                                                        |
+|    permettere all’utente di trovare all’interno del sito o di una                                                      |
+|    sezione le informazioni che sta cercando tramite parole chiave.                                                     |
+|                                                                                                                        |
+| -  **Scheda servizio**: la funzione principale è descrivere                                                            |
+|    all’utente un servizio, spiegandogli di cosa si tratta, chi ne ha                                                   |
+|    diritto, come fruirne.                                                                                              |
+|                                                                                                                        |
+| -  **Liste**: le pagine di lista permettono all’utente di orientarsi                                                   |
+|    all’interno di alcune sezioni, organizzate per tag, per categoria,                                                  |
+|    per argomento.                                                                                                      |
+|                                                                                                                        |
+| -  **Homepage**: l’homepage ha in genere la funzione principale di                                                     |
+|    orientare l’utente all’interno dei contenuti del sito, per                                                          |
+|    permettergli di raggiungere rapidamente le informazioni che sta                                                     |
+|    cercando.                                                                                                           |
+|                                                                                                                        |
+| -  **Form e wizard**: questi *content type* accompagnano l’utente                                                      |
+|    nell’esecuzione di un’azione, compilando alcuni campi o                                                             |
+|    interagendo con elementi dell’interfaccia (etichette, bottoni).                                                     |
+|                                                                                                                        |
+| -  **Contenuti di servizio**: queste pagine hanno la funzione di                                                       |
+|    presentare informazioni (chi siamo, contatti, dicono di noi, ecc).                                                  |
+|                                                                                                                        |
+| -  **Carrello**: permette all’utente di portare facilmente a termine                                                   |
+|    un acquisto.                                                                                                        |
+|                                                                                                                        |
+| -  **Articoli**: in genere hanno la funzione di offrire all’utente                                                     |
+|    un’informazione precisa, in modo chiaro e sintetico.                                                                |
+|                                                                                                                        |
+| -  **Area personale**: la funzione tipica è quella di orientare                                                        |
+|    l’utente tra alcune funzioni riservate, come le preferenze, la                                                      |
+|    gestione delle notifiche, dei propri dati, ecc.                                                                     |
+|                                                                                                                        |
+| Anche nel `modello di analisi dei                                                                                      |
+| contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__ |
+| che abbiamo pubblicato all’interno del `Content                                                                        |
+| kit <https://designers.italia.it/kit/content-kit/>`__, per ogni                                                        |
+| pagina presa in considerazione è necessario domandarsi di che tipo di                                                  |
+| *content type* si tratti. In questo modo è possibile assicurarsi:                                                      |
+|                                                                                                                        |
+| -  che tutti i *content type* uguali siano trattati in maniera                                                         |
+|    coerente all’interno del sito;                                                                                      |
+|                                                                                                                        |
+| -  che le pagine rispondano effettivamente alla funzione narrativa                                                     |
+|    che dovrebbero assolvere.                                                                                           |
++------------------------------------------------------------------------------------------------------------------------+
 
 Scrivere e riscrivere
 =====================
@@ -490,8 +489,10 @@ In genere questa attività richiede:
    contenuti o di revisione di contenuti esistenti.
 
 Una corretta gestione dei contenuti è fondamentale anche per la gestione
-di attività “straordinarie”, come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-content-inventory>`_
- ad un nuovo sito web, o `la traduzione di una parte dei contenuti <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
+di attività "straordinarie", 
+come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-content-inventory>`_ 
+ad un nuovo sito web, o `la traduzione di una parte dei contenuti 
+<linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
 L’inventario dei contenuti (content inventory)
 ----------------------------------------------
@@ -547,7 +548,6 @@ infrastruttura tecnologica all’altra
 | ottica SEO                                                            |
 |                                                                       |
 | .. rubric:: **La gestione SEO di una migrazione**                     |
-|    :name: la-gestione-seo-di-una-migrazione                           |
 |                                                                       |
 | Le attività da fare per gestire una corretta migrazione riguardano    |
 | **la** **corretta gestione SEO**, con strumenti come `il modello per  |
@@ -724,6 +724,8 @@ classificazione e riclassificazione dei contenuti, e seguire le regole
 per una buona indicizzazione dei contenuti sui motori di ricerca.
 
 +-----------------------------------------------------------------------+
+| .. rubric:: Approfondimento                                           |
+|                                                                       |
 | Molti Cms hanno delle funzioni in comune, il cui utilizzo va definito |
 | in fase di design (o redesign) del sito, per creare un sistema        |
 | coerente e funzionale. Ad esempio:                                    |
@@ -914,13 +916,13 @@ Quando i contenuti sono pubblicati all’interno di **un sito web
 pubblico**, le licenze di utilizzo possono essere indicate scrivendo nel
 footer:
 
-*“Tutti i contenuti presenti su questo sito web, salvo diversa
-specifica, si intendono rilasciati con licenza*\ `Creative Commons
+“*Tutti i contenuti presenti su questo sito web, salvo diversa
+specifica, si intendono rilasciati con licenza* `Creative Commons
 Attribution
 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ *. I testi
-degli atti ufficiali sono, invece, in pubblico dominio (*\ `Creative
+degli atti ufficiali sono, invece, in pubblico dominio* (`Creative
 Commons
-Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__\ *).”*
+Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__).”
 
 Nel caso della pubblicazione di **documenti**, si può fare una
 distinzione:
@@ -986,7 +988,6 @@ Commons? <http://www.creativecommons.it/faq#32>`__
 
 +-----------------------------------------------------------------------+
 | .. rubric:: **Archivi di contenuti multimediali online**              |
-|    :name: archivi-di-contenuti-multimediali-online                    |
 |                                                                       |
 | Per quanto riguarda i contenuti multimediali, ovvero le immagini, i   |
 | video, e gli audio, è possibile utilizzare **archivi online con       |
@@ -1150,7 +1151,7 @@ Amministrazione:
 | ocs.google.com/docume | tecniche di un        |                       |
 | nt/d/1MKaJCUqTCDKZDoU | prodotto o servizio   | -  linguaggio         |
 | aGQ7hCVY5cu8bT-Jd9hgA | per un pubblico di    |    semplice           |
-| vyh3Tls/edit?usp=shar | tecnici               |                       |
+| vyh3Tls/edit?usp=shar | tecnici.              |                       |
 | ing>`__               |                       |                       |
 +-----------------------+-----------------------+-----------------------+
 | `Documenti            | Offre alcuni consigli | -  generalità degli   |
@@ -1219,32 +1220,30 @@ descrizione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it
 del documento Pdf che si intende pubblicare per favorire
 l’indicizzazione dei contenuti sul web.
 
-+-----------------------------------------------------------------------+
-| Box “Importante”                                                      |
-|                                                                       |
-| *La soluzione più adatta è mostrare il contenuto in forma Html. Se    |
-| ciò non è possibile, si possono usare altri formati, ma si deve       |
-| sempre creare una pagina web corrispondente al documento che riporti  |
-| titolo e descrizione del contenuto.*                                  |
-+-----------------------------------------------------------------------+
+.. admonition:: Importante                                                    
+                                                                       
+   La soluzione più adatta è mostrare il contenuto in forma Html. Se    
+   ciò non è possibile, si possono usare altri formati, ma si deve       
+   sempre creare una pagina web corrispondente al documento che riporti  
+   titolo e descrizione del contenuto.                                  
 
-+-----------------------------------------------------------------------+
-| Box “Approfondimento”                                                 |
-|                                                                       |
-| Maggiori informazioni sui principali formati documentali.             |
-|                                                                       |
-| -  Pagine web in `formato                                             |
-|    Html <https://it.wikipedia.org/wiki/HTML>`__.                      |
-|                                                                       |
-| -  Documenti in `formato                                              |
-|    Pdf <https://it.wikipedia.org/wiki/Portable_Document_Format>`__.   |
-|                                                                       |
-| -  File di testo in `formato                                          |
-|    Odt <https://it.wikipedia.org/wiki/OpenDocument>`__.               |
-|                                                                       |
-| -  Fogli di calcolo in `formato                                       |
-|    Ods <https://it.wikipedia.org/wiki/OpenDocument>`__.               |
-+-----------------------------------------------------------------------+
++---------------------------------------------------------------------+
+| .. rubric:: Approfondimento                                         |
+|                                                                     |
+| Maggiori informazioni sui principali formati documentali.           |
+|                                                                     |
+| -  Pagine web in `formato                                           |
+|    Html <https://it.wikipedia.org/wiki/HTML>`__.                    |
+|                                                                     |
+| -  Documenti in `formato                                            |
+|    Pdf <https://it.wikipedia.org/wiki/Portable_Document_Format>`__. |
+|                                                                     |
+| -  File di testo in `formato                                        |
+|    Odt <https://it.wikipedia.org/wiki/OpenDocument>`__.             |
+|                                                                     |
+| -  Fogli di calcolo in `formato                                     |
+|    Ods <https://it.wikipedia.org/wiki/OpenDocument>`__.             |
++---------------------------------------------------------------------+
 
 Modalità di produzione dei documenti 
 -------------------------------------
@@ -1270,7 +1269,7 @@ visto in precedenza, esistono essenzialmente due strade.
 Con questo approccio, è possibile per esempio:
 
 -  creare una form online per raccogliere i dati altrimenti richiesti
-   attraverso un documento odt;
+   attraverso un documento Odt;
 
 -  creare una circolare online e poi dare all’utente la possibilità di
    convertirla in Pdf.
@@ -1282,7 +1281,7 @@ disposizione di tutte le amministrazioni per creare documenti e gestire
 i processi di consultazione come previsto dal CAD, art. 18
 
 +-----------------------------------------------------------------------+
-| Box “Approfondimento”                                                 |
+| .. rubric:: Approfondimento                                           |
 |                                                                       |
 | La piattaforma di Docs Italia è a disposizione per le pubbliche       |
 | amministrazioni che intendono pubblicare documenti tecnici e          |
@@ -1330,7 +1329,7 @@ Di seguito trovi un approfondimento sulle buone pratiche per la gestione
 dei Pdf.
 
 +-----------------------------------------------------------------------+
-| Box “Approfondimento”                                                 |
+| .. rubric:: Approfondimento                                           |
 |                                                                       |
 | Oltre che essere accompagnati da una pagina Html di descrizione, i    |
 | file dei documenti di testo allegati dovrebbero essere creati         |
@@ -1383,4 +1382,3 @@ dei Pdf.
 | utenti.                                                               |
 +-----------------------------------------------------------------------+
 
-.. _section-4:
