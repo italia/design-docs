@@ -960,16 +960,16 @@ Quando pubblichi qualsiasi tipo di contenuto su un sito, un canale
 social, una newsletter, **devi accertarti di averne il diritto**. Per
 questo considera che:
 
--  | Tutte le immagini, i video e i file audio, salvo diversa
-     indicazione, sono coperti da
-     `copyright <https://it.wikipedia.org/wiki/Copyright>`__, ovvero da
-     diritto d’autore sulle immagini (inclusi i contenuti su canali come
-     Youtube, Facebook, Twitter, Instagram etc.). Se intendi utilizzare
-     contenuti **protetti da copyright** e rilasciati con una licenza
-     non aperta devi richiedere l’autorizzazione al proprietario e
-     conoscere i termini d’uso concessi.
-   | In questo caso l’attribuzione del copyright sotto il contenuto
-     pubblicato dipende dal tipo di licenza acquisita.
+-  Tutte le immagini, i video e i file audio, salvo diversa
+   indicazione, sono coperti da
+   `copyright <https://it.wikipedia.org/wiki/Copyright>`__, ovvero da
+   diritto d’autore sulle immagini (inclusi i contenuti su canali come
+   Youtube, Facebook, Twitter, Instagram etc.). Se intendi utilizzare
+   contenuti **protetti da copyright** e rilasciati con una licenza
+   non aperta devi richiedere l’autorizzazione al proprietario e
+   conoscere i termini d’uso concessi.
+   In questo caso l’attribuzione del copyright sotto il contenuto
+   pubblicato dipende dal tipo di licenza acquisita.
 
 -  Alcuni contenuti sono pubblicati online con licenza `Creative Commons
    (CC) <http://www.creativecommons.it/Licenze>`__, un modo
@@ -1061,8 +1061,10 @@ in cui puoi specificare la destinazione del contenuto.
 I documenti 
 ============
 
-Scrivere e pubblicare i documenti amministrativi e tecnici della
-Pubblica Amministrazione
+.. highlights::
+   
+   Scrivere e pubblicare i documenti amministrativi e tecnici della 
+   Pubblica Amministrazione
 
 La `dematerializzazione dei
 documenti <http://cad.readthedocs.io/it/v2017-12-13/_rst/capo3_art42.html>`__,
