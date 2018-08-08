@@ -936,8 +936,7 @@ distinzione:
    nessuno.
 
       “Il presente contenuto è reso disponibile al pubblico nei termini di
-      cui alla Licenza Creative Commons Zero disponibile al seguente link: 
-      https://creativecommons.org/choose/zero/?lang=it. 
+      cui alla `licenza Creative Commons Zero <https://creativecommons.org/choose/zero/?lang=it>`__. 
       Il relativo contratto di licenza si
       intende concluso a seguito del semplice utilizzo del contenuto.”
 
