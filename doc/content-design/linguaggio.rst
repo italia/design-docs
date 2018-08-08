@@ -900,6 +900,13 @@ Queste libertà sono subordinate al rispetto delle seguenti condizioni:
 -  **attribuzione,** ovvero dovere di riconoscere e menzionare la
    paternità dell’opera, di, fornire un link alla licenza e di indicare
    se ha subito delle modifiche;
+   
+In questo caso puoi scrivere:
+
+      “Il presente contenuto è reso disponibile al pubblico nei termini di
+      cui alla licenza `Creative Commons Attribution
+      4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__\ . 
+      Il relativo contratto di licenza si intende concluso a seguito del semplice utilizzo del contenuto.”
 
 Come seconda scelta, è anche utilizzabile la licenza `Creative Commons
 Attribution-ShareAlike
@@ -934,11 +941,6 @@ distinzione:
    Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__,
    ovvero di chiarire che su di essi non insistono diritti d’autore di
    nessuno.
-
-      “Il presente contenuto è reso disponibile al pubblico nei termini di
-      cui alla `licenza Creative Commons Zero <https://creativecommons.org/choose/zero/?lang=it>`__. 
-      Il relativo contratto di licenza si
-      intende concluso a seguito del semplice utilizzo del contenuto.”
 
 -  Sebbene sia sempre preferibile l’adozione di `Creative Commons
    Attiribution <https://creativecommons.org/licenses/by/3.0/it/>`__,
