@@ -880,7 +880,7 @@ commerciali.
 Esistono molti tipi di licenze aperte che possono essere utilizzati per
 i contenuti della Pubblica Amministrazione. Per rendere più semplice
 l’utilizzo dei dati pubblicati da parte delle altre Pubbliche
-Amministrazioni e degli utenti, suggeriamo l’utilizzo della licenza
+Amministrazioni e degli utenti, suggeriamo di indicare esplicitamente l’utilizzo della licenza
 `Creative Commons Attribution
 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__ (codice
 SPDX: CC-BY-4.0).
@@ -934,6 +934,12 @@ distinzione:
    Zero <https://creativecommons.org/publicdomain/zero/1.0/deed.it>`__,
    ovvero di chiarire che su di essi non insistono diritti d’autore di
    nessuno.
+
+      “Il presente contenuto è reso disponibile al pubblico nei termini di
+      cui alla Licenza Creative Commons Zero disponibile al seguente link: 
+      https://creativecommons.org/choose/zero/?lang=it. 
+      Il relativo contratto di licenza si
+      intende concluso a seguito del semplice utilizzo del contenuto.”
 
 -  Sebbene sia sempre preferibile l’adozione di `Creative Commons
    Attiribution <https://creativecommons.org/licenses/by/3.0/it/>`__,
