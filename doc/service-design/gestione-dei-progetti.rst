@@ -141,6 +141,7 @@ Coinvolgere gli stakeholder
 
 I processi di design dei servizi richiedono il coinvolgimento di tutti gli stakeholder il cui ruolo è collegato all’attività progettuale. Questo permette di capire le loro prospettive e motivazioni, allineare diversi punti di vista attorno ad una soluzione unica, creare consenso e prendere le decisioni necessarie più rapidamente. Il coinvolgimento dei dirigenti della Pubblica Amministrazione e degli addetti ai lavori dei vari Ministeri è necessario fin dalle fasi di definizione dei requisiti progettuali e del concept di servizio, per arrivare ai momenti di validazione e test del prodotto. La loro partecipazione può avvenire durante incontri di avanzamento lavori sul progetto o in sede di `workshop progettuali <https://designers.italia.it/kit/co-design-workshop/>`_, in cui si lavora in modo collaborativo attorno ad alcuni temi chiave del servizio in corso di definizione.
 
+.. _conoscere-gli-utenti:
 
 Conoscere gli utenti
 ~~~~~~~~~~~~~~~~~~~~
