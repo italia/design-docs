@@ -42,16 +42,13 @@ Tipologie di progetti
 
 Per favorire la nascita di una nuova generazione di servizi digitali, le Pubbliche Amministrazioni devono attivare percorsi di design dei servizi che possiamo classificare in tre aree.
 
-*Ottimizzazione di servizi esistenti*
-
+**Ottimizzazione di servizi esistenti**
 Nel caso di ottimizzazione di servizi esistenti è necessario prima di tutto raccogliere tutti i dati disponibili relativi al loro utilizzo attuale (tramite *web analytics*, interviste utente oppure *usability test*) e analizzarli per capire quali sono le maggiori criticità e opportunità di miglioramento. Sulla base di questi elementi sarà possibile mappare l’attuale esperienza utente dei diversi profili coinvolti (*user journey*), evidenziare le criticità e immaginare quali percorsi è necessario migliorare (*user stories*). Le user stories sono il punto di partenza per riprogettare i flussi di interazione e le interfacce del servizio, effettuando interventi mirati. 
 
-*Riprogettazione di servizi esistenti in chiave digitale*
-
+**Riprogettazione di servizi esistenti in chiave digitale**
 Nel caso di processi di digitalizzazione di servizi esistenti bisognerà adottare una prospettiva più ampia in fase iniziale, per capire al meglio le necessità degli utenti coinvolti (*personas*) e le potenzialità delle piattaforme digitali nel migliorare la loro esperienza d’uso. In questa fase sarà necessario capire l’intero sistema che supporta l’erogazione del servizio (*system map*) e verificare quali aspetti possono essere digitalizzati e quali no, e capire come le due dimensioni si integrano. Terminati questi passaggi sarà possibile identificare le funzionalità chiave del servizio digitale e iniziare l’attività di progettazione, sempre attraverso la creazione di storie (*user stories*) che possono guidare l’attività di design e sviluppo in parallelo. In corso di sviluppo del prototipo, sarà bene verificare con gli utenti l’avanzamento in modo da validare la direzione progettuale e l’usabilità del servizio (test di usabilità) . 
 
-*Creazione di nuovi servizi* 
-
+**Creazione di nuovi servizi** 
 L’attività di creazione di nuovi servizi necessita uno sguardo ancora più ampio, partendo dalla mappatura di tutti gli stakeholder coinvolti e delle loro reciproche relazioni La comprensione dell’ecosistema aiuta a identificare quali attori è necessario coinvolgere o attivare, e quali dinamiche possono facilitare (o rendere molto difficile) la costruzione e l’implementazione del progetto. Sempre in questa fase, sarà necessario raccogliere il punto di vista degli utenti tramite attività di ricerca sul campo (*intervista in contesto* e *osservazione*), per capire al meglio le loro attuali criticità e necessità. I risultati della fase di analisi dell’ecosistema e di ricerca possono essere utilizzati per facilitare una o più sessioni di co-progettazione (*co-design workshop*) dove stakeholder, progettisti e utenti vengono invitati a dialogare e svolgere una serie di esercizi di ideazione insieme, in modo da dare forma a delle proposte di soluzioni. I risultati delle fase di ideazione possono essere a loro volta formalizzati in una serie di proposte di design (*information architecture*, *flussi di esperienza* e *storie*), da prototipare e validare prima di procedere all’esecuzione finale del progetto.  
 
 Il punto di riferimento per la costruzione di un percorso di design dei servizi è il sito `Designers Italia <https://designers.italia.it/>`_ che, oltre alle presenti linee guida offre kit e case histories.
@@ -136,9 +133,9 @@ La mappatura del sistema può assumere diverse strutture a seconda delle esigenz
 
 **Ecosystem Map**: se prendiamo in considerazione un servizio e tutti i soggetti coinvolti nella sua erogazione (dall’utente finale all’operatore della Pubblica Amministrazione) possiamo descrivere le loro relazioni evidenziando i passaggi di informazioni, documenti, denaro o altro valore, che intercorrono tra l’uno e l’altro. Le `mappe di sistema <https://designers.italia.it/kit/ecosystem-map/>`_ vengono costruite mettendo al centro il cittadino, e disponendo attorno a lui tutti i soggetti interessati: più vicino quelli maggiormente a contatto con l’utente e mano a mano più lontano quelli con le relazioni più deboli o nascoste. In un secondo momento, vengono tracciate delle linee di collegamento che forniscono l’informazione relativa allo scambio che avviene tra ciascun soggetto e soggetti vicini, costruendo man mano un’immagine completa della struttura su cui si basa il servizio.
 
-Coinvolgere gli Stakeholder
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
- 
+Coinvolgere gli stakeholder
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 I processi di design dei servizi richiedono il coinvolgimento di tutti gli stakeholder il cui ruolo è collegato all’attività progettuale. Questo permette di capire le loro prospettive e motivazioni, allineare diversi punti di vista attorno ad una soluzione unica, creare consenso e prendere le decisioni necessarie più rapidamente. Il coinvolgimento dei dirigenti della Pubblica Amministrazione e degli addetti ai lavori dei vari Ministeri è necessario fin dalle fasi di definizione dei requisiti progettuali e del concept di servizio, per arrivare ai momenti di validazione e test del prodotto. La loro partecipazione può avvenire durante incontri di avanzamento lavori sul progetto o in sede di `workshop progettuali <https://designers.italia.it/kit/co-design-workshop/>`_, in cui si lavora in modo collaborativo attorno ad alcuni temi chiave del servizio in corso di definizione. 
 
 
@@ -176,6 +173,28 @@ Lo strumento di *user journey* (detto anche *customer journey* o *experience map
 La mappa dell’esperienza viene costruita mettendo sull’asse orizzontale tutte le fasi in cui si svolge l’interazione con un servizio seguendo una sequenza logica-temporale. Per ogni fase vengono poi elencate le attività e i touchpoint con cui l’utente interagisce, costruendo una rappresentazione sintetica della sua esperienza, attraverso tutto ciò che avviene prima, durante e dopo. La mappatura può essere infine completata evidenziando la reazione emotiva che caratterizza l’esperienza dell’utente nelle varie fasi, che può essere caratterizzata da soddisfazioni o frustrazioni. 
 
 Lo strumento di mappatura della *user journey* permette di analizzare tutti i flussi dell’esperienza di un servizio esistente o di un servizio in corso di definizioni, evidenziando le criticità su cui intervenire e le differenze tra le modalità di interazione dei diversi possibili utenti.
+
+Il workshop di co-design
+^^^^^^^^^^^^^^^^^^^^^^^^
+I workshop di co-design sono dei momenti di progettazione in cui un gruppo eterogeneo di partecipanti (progettisti, utenti, stakeholder della Pubblica Amministrazione e rappresentanti di aziende private) si ritrovano con l’obiettivo di ragionare insieme su alcuni aspetti chiave di un servizio. Queste sessioni di lavoro collaborativo hanno la capacità di allineare il punto di vista dei diversi attori coinvolti nell’esecuzione di un servizio, sollevando i problemi chiave e allo stesso tempo accelerando il processo di identificazione di soluzioni promettenti. 
+
+I workshop risultano in particolare molto utili quando al termine di un’attività preliminare di ricerca si inizia la definizione di storie e requisiti per la progettazione del servizio, ovvero nel momento di passaggio tra la fase di analisi e quella di design e sviluppo della soluzione individuata. I workshop hanno anche il beneficio di radunare ruoli che altrimenti rischiano di non incontrarsi mai, e avvicinare gli operatori della Pubblica Amministrazioni ai cittadini che utilizzano i propri servizi.
+
+Organizzare dei workshop di co-progettazione richiede di svolgere i seguenti passaggi.
+
+  1. **Identificazione di un obiettivo chiaro**, raggiungibile mediante la sessione di lavoro collaborativo, assicurandosi quindi di aver già raccolto tutte le informazioni necessarie per impostare al meglio l’attività di co-progettazione e non farla diventare una perdita di tempo per mancanza di dati o lacune nella preparazione. 
+
+  2. **Compilazione di una lista di partecipanti da invitare al workshop**, cercando di raccogliere l’adesione di tutti gli stakeholder coinvolti sul progetto e di coinvolgere una piccola rappresentanza per tutti gli attori rilevanti (utenti, operatori del servizio, soggetti privati, altri esperti o progettisti). Gli inviti dovranno dichiarare l’obiettivo della sessione e dare un’idea chiara del risultato atteso.
+
+  3. **Scelta di luogo, data e durata della sessione.** La durata consigliata è di circa mezza giornata (4 ore), in modo da avere tempo per introdurre al meglio le attività, svolgere gli esercizi programmati e discutere i risultati. Il workshop può quindi iniziare o concludersi con un momento di ristoro, che permette ai partecipanti di stabilire un contatto tra di loro e approfondire alcune discussioni in modo più informale.
+
+  4. **Definizione nel dettaglio** `dell’agenda per la sessione di workshop <https://docs.google.com/presentation/d/1dQqoq6hHBaFQ8Elz21tLrldvJJKo_7oC6FrtG3B9B60/edit?usp=sharing>`_, identificando una serie di esercizi da svolgere insieme e assegnando una durata a ogni esercizio. Se l’obiettivo è quello di generare insieme idee relative al servizio in questione, ci possono essere diverse strategie di impostazione della sessione. In alcuni casi si può ad esempio partire dai bisogni dell’utente, mappando i `personas <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Personas_Esercizio.pdf>`_ e le loro `user journey <https://designers.italia.it/assets/downloads/CoDesignWorkshop_UserJourney_Esercizio.pdf>`_ per individuare le criticità attuali e utilizzarle come ispirazione per generare idee. In altri casi si può invece partire da una `mappa di sistema <https://designers.italia.it/assets/downloads/CoDesignWorkshop_SystemMap_Esercizio.pdf>`_, riflettendo su tutte le criticità legate ai diversi ruoli e all’insieme di relazioni necessarie per abilitare il servizio e utilizzando il metodo del `card sorting <https://designers.italia.it/assets/downloads/CoDesignWorkshop_Card%20sorting.pdf>`_ per discutere quali opportunità prioritizzare nel dare forma ad un nuovo servizio o nel migliorare il servizio esistente. Le scalette e strumenti citati sono solo esempi, ciascun gruppo di lavoro dovrà pensare una propria agenda per il workshop e ad un mix di esercizi adatti rispetto allo specifico contesto ed obiettivo progettuale. 
+
+Durante il workshop è importante fin da subito chiarire lo spirito di una sessione di lavoro collaborativo e invitare i partecipanti a ricordare che non ci sono idee giuste o idee sbagliate: l’importante è riuscire a costruire l’uno sulle idee e il contributo dell’altro in modo propositivo.
+Bisogna riuscire a mettere da parte per un momento le gerarchie, i vincoli, le leggi, e pensare fuori dagli schemi, esplorando soluzioni mai pensate fino a quel momento in totale libertà. Solo in un secondo momento, guidati dal moderatore, si passerà ad analizzare ogni idea emersa in modo più attento, per capire se è (o non è) attuabile e in caso negativo cosa possiamo conservare di quell’idea per migliorare ciò che abbiamo.
+
+`Vai al Kit di Designers Italia per i Co-Design Workshop <https://designers.italia.it/kit/co-design-workshop/>`_
+
 
 I Kit di Designers Italia
 ~~~~~~~~~~~~~~~~~~~~~~~~~
