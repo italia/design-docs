@@ -23,7 +23,7 @@ Le interviste individuali
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 La ricerca esplorativa si ispira ai metodi dell’etnografia applicata, per la necessità di entrare in contatto con le persone nel loro contesto abituale di vita, e di capire i loro comportamenti in profondità. La tecnica principale è quella dell’**intervista individuale**: il ricercatore incontra ciascun partecipante di persona e raccoglie una serie di spunti ponendo domande, costruendo un dialogo, e ascoltando con attenzione ciò che il partecipante racconta. Ecco alcuni consigli per organizzare al meglio le sessioni di intervista individuale.
 
-`Vai al Kit di Desingers Italia sulle User Interviews <https://designers.italia.it/kit/user-interviews/>`_
+`Vai al Kit di Designers Italia sulle User Interviews <https://designers.italia.it/kit/user-interviews/>`_
 
 **Costruire un piano di ricerca**
 
