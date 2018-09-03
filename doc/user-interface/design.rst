@@ -190,16 +190,16 @@ Si consiglia l’utilizzo di una palette costituita da non più di 5 colori e di
 questi non più di 3 avranno un differente valore di Hue.
 
 La palette può essere di tipo monocromatico o costituita da associazioni di colori
-con differente Hue. 
+con differente Hue.
 
 La palette monocromatica è costituita dal **colore base** e
-dalle sue variazioni in termini di saturazione e/o luminosità. 
-   
-.. figure:: images/esempio palette monocromatica.png
-   :alt: esempio palette monocromatica
-   
-.. figure:: images/esempio palette monocromatica rosso.png
-   :alt: esempio palette monocromatica con rosso
+dalle sue variazioni in termini di saturazione e/o luminosità.
+
+.. figure:: images/esempio-palette-monocromatica.png
+   :alt: Esempio palette monocromatica
+
+.. figure:: images/esempio-palette-monocromatica-rosso.png
+   :alt: Esempio palette monocromatica con rosso
 
 Gli schemi colore
 non monocromatici, invece, oltre al colore base e alle sue variazioni, comprendono
@@ -208,8 +208,8 @@ del colore base, oppure scelto dalla gamma di colori appartenenti all’identit�
 
 In ogni palette sono presenti inoltre le **tinte neutre** (grigi, bianco e nero).
 
-.. figure:: images/esempio palette analogo.png
-   :alt: palette con colore analogo
+.. figure:: images/esempio-palette-analogo.png
+   :alt: Palette con colore analogo
 
 Come costruire uno schema colore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -227,8 +227,8 @@ sia un eventuale colore di risalto o accent color che viene utilizzato in
 misura minore poiché è associato a elementi che presuppongono un’interazione:
 bottoni, elementi di controllo (sliders, radio ecc) links, text fields.
 
-.. figure:: images/esempio palette triadici.png
-   :alt: esempio palette colore triadico
+.. figure:: images/esempio-palette-triadici.png
+   :alt: Esempio palette colore triadico
 
 La palette può essere **estesa** ossia si possono creare variazioni in termini
 di saturazione e luminosità dei colori scelti.
