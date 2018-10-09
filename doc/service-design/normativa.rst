@@ -183,12 +183,13 @@ Accessibilità
     degli enti pubblici.
 4.  `Decreto del Presidente della Repubblica 1 marzo 2005, n. 75 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2005-03-01;75!vig>`_
     Regolamento di attuazione della Legge per favorire l’accesso dei soggetti 
-    disabili agli strumenti informatici. 
-*nota: in vigore sino alla definizione delle linee guida a cura di AGID*
+    disabili agli strumenti informatici.\*
+    
+    \* *Norma in vigore sino alla definizione delle linee guida a cura di AGID*.
 
 5.  `Decreto Ministeriale 8 luglio 2005 <http://www.gazzettaufficiale.it/eli/id/2005/08/08/05A07954/sg>`_
     Requisiti tecnici e i diversi livelli per l’accessibilità agli strumenti 
-    informatici ed allegati, in particolare:
+    informatici ed allegati.\* In particolare:
 
     a. `allegato A  <http://www.gazzettaufficiale.it/eli/id/2013/09/16/13A07492/sg>`_
        Aggiornamento dei requisiti tecnici allo standard internazionale ISO 40500:2012 
@@ -201,7 +202,8 @@ Accessibilità
     b. `allegato B <http://www.gazzettaufficiale.it/eli/id/2005/08/08/05A07954/sg>`_
        Metodologia e criteri di valutazione per la verifica soggettiva 
        dell’accessibilità delle applicazioni basate su tecnologie internet.
- *nota: in vigore sino alla definizione delle linee guida a cura di AGID*
+
+    \* *Norma in vigore sino alla definizione delle linee guida a cura di AGID*.
  
 6.  `Decreto-legge 18 ottobre 2012, n. 179 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legge:2012-10-18;179!vig=>`_
     (convertito con modificazioni dalla L. 17 dicembre 2012, n. 221), 
