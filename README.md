@@ -1,6 +1,9 @@
-# DEPRECATED - DEPRECATO: Questo repository è stato sostituito da https://github.com/italia/design-linee-guida-docs
+# DEPRECATED - DEPRECATO
+
+*Questo repository è stato sostituito da https://github.com/italia/design-linee-guida-docs.*
 
 # Linee guida di design per i servizi digitali della PA
+
 Questo repository contiene il testo delle *Linee guida di design per i servizi digitali della PA* in formato reStructredText.
 
 [Le linee guida per il design dei servizi digitali della Pubblica Amministrazione](http://design-italia.readthedocs.io/it/stable/index.html) sono uno strumento di lavoro per la Pubblica Amministrazione e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al *service design*, alla *user research*, al *content design* e alla *user interface*. Per discutere sul design dei servizi pubblici [è disponibile il nostro forum](https://forum.italia.it/c/design). Per collaborare alle linee guida è possibile usare gli strumenti descritti di seguito.
