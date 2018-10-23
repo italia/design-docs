@@ -1,3 +1,5 @@
+# DEPRECATED - DEPRECATO: Questo repository è stato sostituito da https://github.com/italia/design-linee-guida-docs
+
 # Linee guida di design per i servizi digitali della PA
 Questo repository contiene il testo delle *Linee guida di design per i servizi digitali della PA* in formato reStructredText.
 
